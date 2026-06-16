@@ -1,0 +1,61 @@
+# Blowback S4E4 — "They're Yours Now"
+
+> 📄 **[Read the full transcript](transcripts/s4e04-theyre-yours-now.md)**
+
+
+> **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:09:40
+> **Thesis:** The mechanics and the endgame of the 1980s jihad. The Soviets (Andropov → Gorbachev) repeatedly try to negotiate out; the US, Saudis, and Pakistan deliberately prolong the war to "bleed" Moscow and win a post-Vietnam victory. The episode follows the guns (Vickers's "techno-guerrillas," the Stinger), the drugs (heroin via BCCI), the cross-border raids *into the USSR*, and the rise of the Afghan-Arab network (bin Laden, Al-Kifah) — until the Soviet withdrawal (Feb 1989).
+>
+> _Narration order; `[hh:mm:ss]` = audio jump point; real dates in **bold**. Speech-to-text slips corrected (Najibullah, Shevardnadze ≈ "Shavarnadze," Oerlikon ≈ "Erlikon," Haqqani ≈ "Haqani")._
+
+## Andropov's peace push `[00:03:00]`
+- **Feb 1983** — the USSR, now led by the cancer-stricken ex-KGB chief **Yuri Andropov**, was desperate for UN peace talks; his policy review concluded the war couldn't be won militarily, and his protégé **Gorbachev** privately called the invasion a mistake. Andropov told the UN Secretary-General "very slowly… I sincerely wanted to put an end to this situation." But Washington feared Andropov "for his ability to actually lessen tensions" ("Scary Yuri"). `[00:03:00]`
+- **KAL 007** `[00:05:43]`: **Sept 1, 1983** — a Soviet jet shot down a Korean airliner (269 dead). USIA's **Alvin Snyder** later confessed the US **doctored the tapes** for the UN Security Council — cutting the dialogue showing the Soviet pilot thought it was a US spy plane and tried to communicate — "the biggest propaganda blow ever suffered by the Kremlin," ending Andropov's 1983 peace hopes. Plus a general US shunning: Shultz killed the Cordovez/Pakistan/Afghanistan talks in July 1983. Andropov's kidneys gave out (Feb 1984); the dim **Chernenko** "sat on his hands." `[00:05:43]`
+
+## Casey wanted the war forever `[00:12:09]`
+- Above Avrakotos sat CIA director **Bill Casey**, whose jihad zeal worried even Deputy Director McMahon ("fun and games"). Gen. Meyer: "Casey wanted them to send more and more Russians down there and take casualties." Reagan needed the show to distract from the Contra scandal; the Pentagon was "ecstatic with war booty" (a window into how the Red Army would fight NATO). `[00:12:09]`
+
+## Vickers and the "techno-guerrillas" `[00:14:22]`
+- Avrakotos brought in the "nerdy" whiz-kid **Michael Vickers** (160 military IQ, ex-Green Beret), who "saw the matrix": not more guerrillas but an **elite force of 150,000** — recommending a budget as high as **$1.2B/year**. But ~20% of weapons leaked/were stolen; Pakistan skimmed money to fund the "**Islamic bomb**" (A.Q. Khan, soon a notorious nuclear black-marketeer wanted by the US). `[00:14:22]`
+
+## Wilson's global arms shopping `[00:16:59]`
+- Charlie Wilson haggled for upgrades against the Soviet Mi-24 gunships — Swiss **Oerlikon** anti-aircraft guns ("international scumballs and Nazi collaborators"), British Blowpipe missiles, and Egyptian deals via defense minister Abu Ghazala (who was "selling weapons to us to kill Russians… to Iraq to kill Iranians… to Iranians to kill Iraqis"). A botched Egyptian mule-mounted demo (the mules going "ass over head backward") — but it yielded **bicycle bombs**, plastic mines, and Katyusha rockets ("Stalin's organs") for "turning the lights out in Kabul." `[00:16:59]`
+
+## The heroin economy `[00:20:50]`
+- Per the Financial Times, the CIA helped the ISI start "a special cell for the use of heroin for covert actions" — drugs shipped out on the same army trucks that brought in US aid. Alfred McCoy: production grew tenfold to ~800 tons/year; Pakistani heroin supplied 60% of US demand. Heroin was both revenue *and* a weapon (pushed into Soviet-occupied areas to hook the troops). BCCI laundered the profits; Pakistan's own addicts went from zero (1979) to **1.3 million by 1985**. The US declined to act "because of its desire not to offend… Pakistan's military establishment." `[00:20:50]`
+
+## The neocons vs. Avrakotos `[00:24:25]`
+- By 1985 Afghanistan was a favorite project, breeding rivalries. The **neocons** (Wolfowitz, Oliver North, Richard "Prince of Darkness" Perle) pitched resurrecting a WWII Nazi scheme — a turncoat "Russian Liberation Army" of flipped Soviet soldiers. Avrakotos killed it by showing the White House **photos** of what awaited Soviet defectors at mujahideen hands (sexual violence, mutilation): "If you were a sane fucking Russian, would you defect to these people?" (Casey: "What asshole would want to defect to those animals?") — incidentally revealing the CIA collected evidence of its clients' atrocities. `[00:24:25]`
+
+## Escalation, terror training, jihadi textbooks `[00:29:02]`
+- By 1985 the jihad got >50% (soon ~70%) of the CIA's operations budget — the year the Soviets (Spetsnaz, more gunships) "might actually have succeeded." The mujahideen were trained in "car bombings, bicycle bombings, camel bombings, and assassination"; Soviet belt buckles used as a body count (rewards: cash, guns, alcohol). The US even supplied **jihadi-flavored schoolbooks** (guns, bullets, jihad) that became the Afghan core curriculum. **USAID** ran "a kind of shadow CIA program" (Wilson: "the noblest smuggling operation in history"; "I want to use American doctors as bait"). NSDD set Operation Cyclone to "last the rest of the decade." `[00:29:02]`
+
+## Gorbachev `[00:33:28]`
+- **March 1985** — **Gorbachev** (Andropov's protégé, who hadn't voted for the invasion) took over with "new thinking." An aide's memo: the war "places an enormous financial burden… gives the Americans an ideal opportunity to exhaust us by forcing us to wage an endless war." Hardliners faded (Ustinov died 1984; Gromyko pushed out of foreign ministry 1985). But Gorbachev feared how third-world allies (esp. India's Rajiv Gandhi) would view abandoning Afghanistan. Reagan dug in (rolling back Soviet influence in Afghanistan, Cambodia, Nicaragua, Angola); Shultz refused to stop rebel aid as a withdrawal condition. `[00:33:28]`
+- **The decision to leave** `[00:38:00]`: Oct 1985 — Gorbachev told **Babrak Karmal** harsh truths (the revolution had little support; try "free capitalism," Islamic values, power-sharing — "the first time a Soviet leader urged a client to turn to capitalism and religion"); troops "would not be in Afghanistan forever" (Karmal: "if you leave now, next time you will have to send a million soldiers"). To the Politburo, reading dead officers' families' letters: "In whose name are we in Afghanistan?… The Politburo made a mistake." Withdrawal became policy; **Feb 1986** Gorbachev called it "a bleeding wound" publicly at the 27th Congress. `[00:38:00]`
+
+## The negotiation gauntlet `[00:39:25]`
+- But what settlement? The Soviet position (per Kalinovsky): outside interference must stop (needing a US/Pakistan deal); international recognition of the Afghan regime; the regime must outlast the troops. The Americans "wished to wipe out the memory of Vietnam by making the Russians pay the highest possible price in blood and humiliation" — so talks dragged. Zia rejected the timeframe; round one stalled. The war ground on (Haqqani's failed assault on **Khost**, which Vickers spun as proof the "techno-guerrillas" worked). **July 1986** — the Soviets withdrew six regiments (~8,000 troops) and installed a stronger president, **Najibullah** ("Ox" — competent, undogmatic, even respected by the CIA station chief) under the "national reconciliation" policy. Shevardnadze (Dec 1986): "In essence, we fought against the peasantry… incompatible with the moral character of our country." `[00:39:25]`
+
+## The Stinger `[00:46:50]`
+- **Sept 1986** — Vickers resigned for business school; his parting gift was the **Stinger missile** (cleared by Zia, supervised by new CIA station chief **Milt Bearden**). Commander **Engineer Ghaffar** filmed the first attack near Jalalabad — downing three helicopters (the tape ending with his crew emptying Kalashnikovs into the Soviet corpses); Casey screened it for Reagan. The Stinger's impact is debated (marginal upgrade vs. turning point), but Soviet gunship crews were "terrified of flying in range" thereafter. `[00:46:50]`
+
+## The Afghan-Arabs `[00:50:56]`
+- The **Al-Kifah Center in Brooklyn** was a jihad base run by the "Afghan-Arabs" — **Osama bin Laden** and his mentor **Abdullah Azzam**, whose **Maktab al-Khidamat** was "essentially a forerunner of al-Qaeda" (Richard Clarke: Saudi intel chief Prince Turki "relied on Osama bin Laden to recruit, move, train, and indoctrinate the Arab volunteers"). Recruits were trained by CIA/FBI asset **Ali Mohamed** (hijacking airliners, box cutters); **Sheikh Omar Abdel-Rahman** got CIA-issued visas despite being on a terror watchlist ("He's untouchable"). The FBI ended its surveillance of the network once the Soviets left. `[00:50:56]`
+
+## National reconciliation & the cross-border raids `[00:53:29]`
+- By 1988 Najibullah pursued ceasefires, amnesty, private commerce, a new constitution (a Loya Jirga), and **April 1988 parliamentary elections** (boycotted by the armed opposition) — all to make a US/Pakistan settlement possible. But since 1985 Casey had been obsessed with attacking the USSR *directly*: **mujahideen cross-border raids** into Tajikistan and Uzbekistan (carried out by Hekmatyar and Sayyaf, per Rashid/Baer) — "scared the crap out of Moscow" and (per Peter Dale Scott) did "far more than bin Laden's speeches to enhance the autonomous development of an Islamist foreign legion." Bearden's trained deniability: "once the stuff's delivered to the Pakistanis, we lose all control over it." `[00:53:29]`
+
+## The withdrawal `[00:58:52]`
+- **Sept 1987** — Shevardnadze told Shultz: "negotiations or not, we will leave Afghanistan." Reagan wriggled out of commitments (even suggesting Kabul disband its army). **Feb 1988** — Gorbachev unilaterally announced on TV that withdrawal would start in May (half the troops in the first phase, no reversal possible), needing only a March 15 agreement. It worked: the **Geneva Accords** were signed **April 14, 1988** (the US refusing to stop arming the rebels — Colin Powell's one-word answer: "No"; the mujahideen refused to sign or accept any terms). Phase one done by Aug 15, 1988. **Zia was killed in a plane crash** (Aug 1988, with the US ambassador; ruled sabotage, the FBI told to "stay away"). `[00:58:52]`
+- **Feb 15, 1989** `[01:05:53]`: the 40th Army commander crossed **Friendship Bridge** north of the Amu Darya — the withdrawal complete. The return was "more like a funeral than a celebration" (Gen. Sotskov: "We had been greeted with sympathy… Now, ordinary Afghans threatened and insulted us"). At Langley, jubilation ("He who dares wins"); Wilson toasted the Soviet commander with Dom Pérignon: "Here's to you, you motherfucker." `[01:05:53]`
+- **But the war wasn't over** `[01:08:09]`: 500,000–1,000,000 dead. The mujahideen turned their sights on Najibullah (still backed by Moscow) — and on each other. Pakistan (now under Benazir Bhutto) backed an assault on Kabul. "They had driven out the big snake. Now all they had to do was choke out the little one." The dawn of the era of the warlords. `[01:08:09]`
+
+## Sources cited for this episode
+_From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
+- **The Soviet side & withdrawal:** Rodric Braithwaite, *Afgantsy*; Artemy Kalinovsky, *A Long Goodbye*; Selig Harrison, "Inside the Afghan Talks" (1988); Diego Cordovez; Wilson Center digital archive documents.
+- **The covert war & cast:** George Crile, *Charlie Wilson's War*; Steve Coll, *Ghost Wars*; Peter Dale Scott; Peter Schweizer; Robert Gates; Fitzgerald & Gould.
+- **Drugs:** Alfred McCoy, *The Politics of Heroin*; the Financial Times and Washington Post pieces.
+- **KAL 007 & propaganda:** Alvin Snyder (WaPo, 1996); Seymour Hersh, *The Target Is Destroyed* (1986).
+- **The Afghan-Arabs:** Richard Clarke, *Against All Enemies*; Peter Bergen on bin Laden.
+- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

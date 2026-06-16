@@ -1,0 +1,385 @@
+# Blowback Season 2 — Official Sources (per episode)
+_Verbatim from blowback.show/S2-Sources_
+
+
+## Books used throughout
+
+- Bitter Fruit: The Story of the American Coup in Guatemala, Stephen Schlesinger and Stephen Kinzer, 2005
+- Fidel: A Critical Portrait, Tad Szulc, 1983
+- Bay of Pigs: The Untold Story, Peter Wyden, 1979
+- The Man Who Kept the Secrets: Richard Helms and the CIA, Thomas Powers, 1979
+- A Thousand Days: John F. Kennedy in the White House, Arthur Schlesinger, 1965
+- The Fourteenth Day, David Coleman, 2012
+- Gambling with Armageddon: Nuclear Roulette from Hiroshima to the Cuban Missile Crisis, Martin J. Sherwin, 2020
+- The Ghost: The Secret Life of CIA Spymaster James Jesus Angleton, Jefferson Morley, 2017
+- The Road to Dallas, David E. Kaiser, 2008
+- “One Hell of a Gamble”: Khrushchev, Castro, and Kennedy, Timothy Naftali and Aleksandr Fursenko, 1997
+- Back Channel to Cuba: The Hidden History of Negotiations Between Washington and Havana, William M. LeoGrande and Peter Kornbluh, 2014
+- Gangsterismo: The United States, Cuba, and the Mafia: 1933 to 1966, Jack Colhoun, 2013
+- A Hidden History of the Cuban Revolution, Stephen Cushion, 2016
+- Cuba: Anatomy of a Revolution, Leo Huberman and Paul M. Sweezy, 1969
+- Reminiscences of the Cuban Revolutionary War, Che Guevara, 1963
+
+## Sources Frequently Cited
+
+- The Mary Ferrell Foundation (Ed. Note - An essential, [donation-supported](https://www.maryferrell.org/pages/Membership.html) repository of declassified FBI, CIA and other files originally released by the Church Committee, Warren Commission, the House Select Committee on Assassinations, and other investigations)
+- Newspapers.com (e.g. archives of The Miami Herald, Associated Press, United Press)
+- The State Department’s Foreign Relations series
+- The National Security Archive at George Washington University
+- The Miller Center at the University of Virginia
+
+## Episode 2
+
+- Writings of John Quincy Adams; Volume VII, John Quincy Adams, 1913
+- “[John Quincy Adams and the Monroe Doctrine](https://www.jstor.org/stable/pdf/1834564.pdf),” Worthington Chauncey Ford, 1902
+- Life of Stephen A. Douglas, United States Senator from Illinois, Henry M. Flint, 1860
+- “[Book review: ‘José Martí: A Revolutionary Life,’ by Alfred J. López](https://www.washingtonpost.com/entertainment/books/book-review-jose-marti-a-revolutionary-life-by-alfred-j-lopez/2015/02/05/94469a5a-a504-11e4-a06b-9df2002b86a0_story.html),” Ann Louise Bardach, 2015
+- “[Indigenous Cuba: Hidden in Plain Sight](https://www.americanindianmagazine.org/story/indigenous-cuba-hidden-plain-sight),” Jose Barreiro, 2017
+- “[Searching for Cuba’s Pre-Columbian Roots](https://www.smithsonianmag.com/travel/taino-indigenous-culture-pre-columbian-roots-archaeology-cuban-identity-cultural-travel-180960975/+&cd=14&hl=en&ct=clnk&gl=us&client=firefox-b-1-e),” Hillary Gulley, 2016
+- Guantánamo: An American History, Jonathan M. Hansen, 2011
+- “[Origins of Wealth and the Sugar Revolution in Cuba, 1750-1850](https://www.jstor.org/stable/2513773?seq=1),” Franklin W. Knight, 1977
+- “[Migration and Culture: A Case Study of Cuba, 1750-1900](https://www.bu.edu/historic/conference08/Knight.pdf),” Franklin W. Knight, 2008
+- “[The 1809 Immigration of Saint-Domingue Refugees to New Orleans: Reception, Integration and Impact](https://www.jstor.org/stable/4232650?read-now=1&refreqid=excelsior%3A130e86cc8a78ca45c98787d9018b6992#page_scan_tab_contents),” Paul LaChance, 1988
+- “[Cuba and the United States in the Atlantic Slave Trade (1789–1820)](https://hutchinscenter.fas.harvard.edu/cuba-us-slave-trade),” Marial Iglesias Utset, Jorge Felipe Gonzalez
+- “[Moses Taylor Pyne and the Sugar Trade](https://www.jstor.org/stable/pdf/10.25290/prinunivlibrchro.77.1-2.0095.pdf?refreqid=excelsior%3A565f8ba56c22d14ac35faeb5b7b56b84),” Maeve Glass, 2016
+- “[The Threat of a Free Haiti](https://www.jacobinmag.com/2016/01/haiti-revolution-toussaint-louverture-cuba-aponte-rebellion-jacobins/),” Samuel Farber, 2016
+- “[Cuba and the United States: Origins and Antecedents of Relations, 1760s–1860s](https://www.jstor.org/stable/24485702?read-now=1&refreqid=excelsior%3A7a2b347b76c4b94b4a2e8250fcfa31e2&seq=24#page_scan_tab_contents),” Louis A. Perez Jr., 1991
+- The Last Slave Ships: New York and the End of the Middle Passage, John Harris, 2020
+- Cuba and the United States: Ties of Singular Intimacy, Louis A. Perez Jr., 2003
+- “[The Returns to U.S. Imperialism, 1890-1929](https://www.jstor.org/stable/2120178?read-now=1&refreqid=excelsior%3Ad144e5f5840ac27e163a7c31a0901c92&seq=9#page_scan_tab_contents),” Stanley Lebergott, 1980
+- “[U. S. Control Over Cuban Sugar Production 1898-1902](https://www.jstor.org/stable/174847?read-now=1&refreqid=excelsior%3A6aa433bc4e136b374a351d31534ea2cb&seq=5#page_scan_tab_contents),” James H. Hitchman, 1970
+- “[Cuba, From Tip to Tail](https://www.esquire.com/news-politics/a1374/cuba-tip-tail-0400/),” Wil S. Hylton, 2007
+- “[The Architecture of Nineteenth-Century Cuban Sugar Mills: Creole Power and African Resistance in Late Colonial Cuba Power and African Resistance in Late Colonial Cuba](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=2170&context=gc_etds),” Lorena Tezanos Toral, 2015
+- “[British Concentration Camps of the Second South African War (The Transvaal,1900-1902)](https://diginole.lib.fsu.edu/islandora/object/fsu:176437/datastream/PDF/view),” John L. Scott, 2007
+- The Boer War, Thomas Pakenham, 1979
+- “[Some Thoughts on the Evolution of Boer War Concentration Camps](https://www.jstor.org/stable/44231057?read-now=1&refreqid=excelsior%3Ad6bb6e6388d220dde4c1ff68330c19c8&seq=1#page_scan_tab_contents),” Tony Lucking, 2004
+- “[Franklin Pierce: Foreign Affairs](https://millercenter.org/president/pierce/foreign-affairs)” Jean H. Baker
+- Fagen: An African American Renegade in the Philippine-American War, Michael Morey, 2019
+- “[Credit 'Splendid Little War' to John Hay](https://www.nytimes.com/1991/07/09/opinion/l-credit-splendid-little-war-to-john-hay-595391.html)” 1991
+- “[McKinley and the Spanish-American War](https://www.jstor.org/stable/27552563?read-now=1&refreqid=excelsior%3A67e6c55e7a10516ef60dce1c46660d59&seq=1#page_scan_tab_contents)” John L. Offner 2004
+- Creating the American Century: The Ideas and Legacies of America's Twentieth-Century Foreign Policy Founders, Martin Sklar, 2017
+- Cuba: A New History, Richard Gott, 2004
+- “[If That Is Heaven, We Would Rather Go to Hell](https://core.ac.uk/download/pdf/214076792.pdf):” Contextualizing U.S.-Cuba Relations,” Luis E. Rumbaut and Rubén G. Rumbaut ,2007
+- Contesting Castro: The United States and the Triumph of the Cuban Revolution, Thomas G. Paterson, 1995
+- “[Myths of Racial Democracy: Cuba, 1900-1912](https://www.jstor.org/stable/2503962?read-now=1&refreqid=excelsior%3A0a953a1f04355191474dbb15fae88bbc#page_scan_tab_contents),” Alejandro de la Fuente, 1995
+- “[The American Touch in Imperial Administration: Leonard Wood in Cuba, 1898-1902](https://www.jstor.org/stable/980225?read-now=1&refreqid=excelsior%3A8410faa44fdafc58c5221d52f32df029&seq=2#page_scan_tab_contents),” James H. Hitchman, 1968
+- “[Supervision of a Protectorate: The United States and the Cuban Army, 1898-1908](https://read.dukeupress.edu/hahr/article/52/2/250/151892/Supervision-of-a-Protectorate-The-United-States),” Louis A. Pérez, Jr., 1972
+- “[Politics, Peasants, and People of Color: The 1912 “Race War” in Cuba Reconsidered](https://read.dukeupress.edu/hahr/article/66/3/509/148244/Politics-Peasants-and-People-of-Color-The-1912)” Louis A. Pérez, Jr., 1986
+- “[Unfinished Business: Public Works in Cuba, 1898-1902](https://www.jstor.org/stable/979878?read-now=1&refreqid=excelsior%3A637b9177add76c7f86e2fdd5b1d88ad6&seq=15#page_scan_tab_contents),” James H. Hitchman, 1975
+- “[Tariff Incidence: Evidence from U.S. Sugar Duties, 1890-1930](https://www.nber.org/system/files/working_papers/w20635/w20635.pdf),” Douglas A. Irwin, 2014
+- “[Cuba's Dance of the Millions: Examining the Causes and Consequences of Violent Price Fluctuations in the Sugar Market Between 1919 and 1920](http://etd.fcla.edu/UF/UFE0006301/grogan_k.pdf),” Kevin Grogan, 2004
+- “[Earl Smith, 87, Ambassador to Cuba in the 1950's](https://www.nytimes.com/1991/02/17/obituaries/earl-smith-87-ambassador-to-cuba-in-the-1950-s.html),”Marvine Howe, 1991
+- “[The Miami-Havana Connection:The First Seventy-Five Years](http://digitalcollections.fiu.edu/tequesta/files/1998/98_1_01.pdf),” Francis J Sicius, 1998
+- “[Prelude to Glass-Steagall: Abusive Securities Practices by National City Bank and Chase National Bank During the ‘Roaring Twenties’](https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2477&context=faculty_publications),” Arthur E. Wilmarth Jr., 2016
+- “[The Machadato and Cuban Nationalism, 1928-1932](https://read.dukeupress.edu/hahr/article/55/1/66/151156/The-Machadato-and-Cuban-Nationalism-1928-1932),” Jules R. Benjamin, 1975
+- “[US Diplomacy and the Downfall of a Cuban Dictator: Machado in 1933](https://www.jstor.org/stable/3875789?read-now=1&refreqid=excelsior%3A71bd229a81e47acb639fdf616eaf35b0&seq=6#page_scan_tab_contents),” Philip Dur, Christopher Gilcrease, 2002
+- “[Cuba: Peten's Passenger](http://content.time.com/time/subscriber/printout/0,8816,745512,00.html),” 1933
+- Fulgencio Batista: The Making of a Dictator, Frank Argote-Freyre, 2006
+- The United States and the Origins of the Cuban Revolution: An Empire of Liberty in an Age of National Liberation, Jules R. Benjamin, 1992
+- “[Havana, Cuba: Contraband Capitalism and Criminal Organization in North America](https://calandrainstitute.org/wp-content/uploads/2018/05/IAR_6.1_final.pdf),” Peter Schneider, 2018
+- The Politics of Heroin: CIA Complicity in the Global Drug Trade, Alfred McCoy, 1972
+- “[Moses Polakoff Is Dead at Age 97; Was Lawyer for Lucky Luciano](https://www.nytimes.com/1993/06/14/obituaries/moses-polakoff-is-dead-at-age-97-was-lawyer-for-lucky-luciano.html),” 1993
+- “[The 1950s “War on Narcotics”: Harry Anslinger, The Federal Bureau of Narcotics, and Senator Price Daniel’s Probe Bureau of Narcotics, and Senator Price Daniel’s Probe](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1080&context=applebaum_award),” William J. Horvath, 2020
+- Cuba: From Conquistador to Castro, Geoff Simons, 1996
+- “[The U.S. Imperial State in Cuba 1952-1958: Policymaking and Capitalist Interests](https://www.jstor.org/stable/155730?read-now=1&refreqid=excelsior%3A37fa38bbb14f8727ba39255963a9db6a&seq=5#page_scan_tab_contents)” Morris H. Morley 1982
+- “[Cuba: The United States and Batista, 1952-58](https://www.jstor.org/stable/20672109?read-now=1&refreqid=excelsior%3A27253450224b06a77107ec56982d50f0&seq=3#page_scan_tab_contents)” Hugh Thomas 1987
+- “[Cuba Before the Revolution](https://www.jacobinmag.com/2015/09/cuban-revolution-fidel-castro-casinos-batista)” Samuel Farber 2015
+- “[Cuban Tourism During the Special Period](https://www.ascecuba.org/asce_proceedings/cuban-tourism-during-the-special-period/),” María Dolores Espino, 2000
+- “[Financing the Economic Reconstruction of Cuba While Rebuilding the Financial Sector: Perspectives on Development Banking](https://www.ascecuba.org/asce_proceedings/financing-the-economic-reconstruction-of-cuba-while-rebuilding-the-financial-sector-perspectives-on-development-banking/),” Manuel Lasaga, 1995
+- “[Aspects of the Cuban Economy, Part V: Fidelista Finances](http://www.icwa.org/wp-content/uploads/2015/11/IPP-12.pdf),” Irving P. Pflaum, 1960
+- “[Working Class Militancy and the Downfall of Batista: the relationship between mass action and the armed struggle in Cuba 1952-59](https://sas-space.sas.ac.uk/653/1/cuba-workers.pdf),” Steve Cushion, 2007
+- “[Cuba Suppresses Youths’ Uprising; Forty Are Killed](http://www.latinamericanstudies.org/cuban-rebels/NYT-3-14-57.htm),” R. Hart Phillips, 1957
+- “[Nixon is Stoned by Peru Rioters Headed by Reds](https://www.nytimes.com/1958/05/09/archives/nixon-is-stoned-by-peru-rioters-headed-by-reds-braves-student.html),” Tad Szulc, 1958
+- Nixonland: The Rise of a President and the Fracturing of America, Rick Perlstein, 2008
+- “[Revolutionary Manifestos and Fidel Castro's Road to Power](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=5785&context=etd),” Luis Plazas, 2014
+- “[Organised Labour and the Cuban Revolution, 1952-1959](https://sas-space.sas.ac.uk/4901/1/Final-after-corrections.pdf),” Stephen Cushion, 2012
+- The Winds of December, John Dorschner and Roberto Fabricio, 1980
+
+## Episode 3
+
+- “[Major American news magazines and the Cuban Revolution 1957-1971](https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=3919&context=etd),” Joel Phillip Kleinman, 1972
+- “[Justice and Law in Latin America a Cuban Example](https://www.jstor.org/stable/175021?read-now=1&refreqid=excelsior%3Afcf42cc7490cadcc09fcf9f7fa64f111#page_scan_tab_contents),” Francisco José Moreno, 1970
+- “[Cuban Show Trial of Batista Aides Opens in Stadium](https://www.nytimes.com/1959/01/23/archives/cuban-show-trial-of-batista-aides-opens-in-stadium-crowd-of-18000.html),” R. Hart Phillips, 1959
+- “[The Trials: Violence and Justice in the Aftermath of the Cuban Revolution](https://www.google.com/books/edition/A_Century_of_Revolution/YJ7ZBGy0wsIC?hl=en&gbpv=0),” Michelle Chase, 2010
+- “[Cuba: Jubilation and Revenge](http://content.time.com/time/subscriber/printout/0,8816,868977,00.html),” 1959
+- “[Castro’s Roman Circus for His Public](https://books.google.com/books?id=NUgEAAAAMBAJ&pg=PA19&dq=Havana+Sports+Palace&hl=en&sa=X&ved=2ahUKEwiv35j6h8PvAhWPFVkFHdZNDW8Q6AEwBHoECAQQAg#v=onepage&q=Havana%20Sports%20Palace&f=false),” 1959
+- “[Cuba’s Agrarian Revolution and Economic Development](http://ageconsearch.umn.edu/record/264302/files/wiae-1972-10.pdf),” Jose Acosta Santana, 1972
+- Cuba: Hope of a Hemisphere,Joseph North, 1961
+- “[Allen Dulles in 1959: Castro has no 'communist leanings'](https://www.upi.com/Archives/1982/03/27/Allen-Dulles-in-1959-Castro-has-no-communist-leanings/9621386053200/),” Juan J. Walte, 1982
+- “[Artistic Absolution: Can Cuba and the United States Cooperate in Restituting Castro's Looted Art Collection?](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1981&context=jil),” Wendy Dickieson, 2019
+- “[Economic Development and Housing Policy in Cuba](https://escholarship.org/content/qt9p00546t/qt9p00546t_noSplash_d7025fa14284684b87f07596c6be390d.pdf)” Gary Fields 1985
+- “[Political Change in Cuba, 1959-1965](https://www.jstor.org/stable/40969909?read-now=1&refreqid=excelsior%3Afad660a8aad897ac353216521d1c20c2&seq=7#page_scan_tab_contents)” James O’Conner 1985
+- “[Cuba's Seizures of American Business](https://www.jstor.org/stable/25721417?read-now=1&refreqid=excelsior%3A62c5b0a02894349277430bfdb37fb5ca&seq=2#page_scan_tab_contents)” Richard C. Allison 1961
+- “[The Cuban Electric Company, 1922-1960: from AmericanSubsidiary to State Owned Enterprise](https://static1.squarespace.com/static/563a4585e4b00d0211e8dd7e/t/5f73be2fb4a0cb25e9cb184d/1601420886334/6767809-3--16925compressed.pdf)” William Hausman, John Neufeld 2017
+- “[In the Matter of the Claim of the Cuban Electric Company](https://www.justice.gov/fcsc/cuba/documents/1501-3000/2578.pdf)” 1970
+- “[Interpreting the 1954 U.S. Intervention in Guatemala: Realist, Revisionist, and Postrevisionist Perspectives](https://www.jstor.org/stable/3054375?read-now=1&refreqid=excelsior%3Afedcbfdf3cd8a68fe1717aca96e29891&seq=5#page_scan_tab_contents)” Stephen M. Streeter 2000
+- “[Agrarian Reforms in Cuba, 1959-1963](https://www.jstor.org/stable/40401340?read-now=1&refreqid=excelsior%3A64bca967f6e94094603d1393bd039477&seq=5#page_scan_tab_contents)” James O'Connor 1968
+- “[A reform that illuminated the land](http://en.granma.cu/cuba/2019-05-17/a-reform-that-illuminated-the-land)” Arlin Alberty Loforte
+- Cuban Agrarian Reform with Implications for Other Latin American Natives Carlos Alberto Wirth 1962
+- “[Local Food, Sustainability, and Cuba’s National Food Program](https://kuscholarworks.ku.edu/bitstream/handle/1808/4531/Fusco_ku_0099M_10100_DATA_1.pdf;jsessionid=A6B6DF883C8B0D656A8499C726562BFD?sequence=1)” Audrey Fusco 2008
+- “[In the Second Year of the Cuban Agrarian Reform](https://ufdc.ufl.edu/AA00065014/00001/1?search=532+700)” Antonio Nunez Jimenez 1961
+- Cuba: Twenty-Five Years of Revolution, 1959-1984 John M. Kirk, Sandor Halebsky 1985
+- “[Land Reform in Japan](https://www.jstor.org/stable/1233583?seq=5#metadata_info_tab_contents)” Mark B. Williamson 1951
+- “[U.S. Certified Claims against Cuba: Legal Reality and Likely Settlement Mechanisms](https://www.jstor.org/stable/25593625?seq=2#metadata_info_tab_contents)” Timothy Ashby 2009
+- C. Wright Mills and the Cuban Revolution: An Exercise in the Art of Sociological Imagination A. Javier Treviño 2017
+- “[EXILES: A Taste for Madeira](http://content.time.com/time/subscriber/article/0,33009,864894,00.html)” 1959
+- “[Hoodlum Hero: The Jewish Gangster as Defender of His People, 1919–1949](https://www.jstor.org/stable/23885663?seq=16#metadata_info_tab_contents)” Robert A. Rockaway 1994
+- “[Gangsters for Zion](https://www.tabletmag.com/sections/arts-letters/articles/gangsters-for-zion)” Robert A. Rockaway 2018
+- “[The Nixon-Castro Meeting of 19 April 1959](https://www.jstor.org/stable/24911225?seq=3#metadata_info_tab_contents)” Jeffrey J. Safford 1980
+- Rescuing the World: The Life and Times of Leo Cherne Andrew F. Smith 2012
+- Sad and Luminous Days: Cuba's Struggle with the Superpowers After the Missile Crisis James G. Blight, Philip Brenner 2007
+- Soviet Relations with Latin America, 1959-1987 Nicola Miller 1989
+- From Lenin to Castro, 1917–1959: Early Encounters between Moscow and Havana Mervyn J. Bain 2011
+- “[The President's News Conference](https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-221)” Dwight D. Eisenhower 1959
+- Fidel Castro Robert E. Quirk 1993
+- RN: The Memoirs of Richard Nixon Richard Nixon 1978
+- “[The Most Dangerous Economist](https://www.kuow.org/stories/the-most-dangerous-economist)” Greg Rosalsky 2020
+- Reflections of a Cold Warrior: From Yalta to the Bay of Pigs Richard M. Bissell 1996
+- “[The Bay of Pigs: A Horribly Expensive Lesson](https://books.google.com/books?id=PVMEAAAAMBAJ&pg=PA65&lpg=PA65&dq=richard+bissell+500+exiles+guatemala+november+1960&source=bl&ots=hF6vDPGiLP&sig=ACfU3U0zULQ196QK3Ewhz8niY8CjEOUENw&hl=en&sa=X&ved=2ahUKEwjJn9_pxPnvAhW9MlkFHUbMAjQQ6AEwB3oECAcQAw#v=onepage&q=richard%20bissell%20500%20exiles%20guatemala%20november%201960&f=false)” Arthur Schlesinger 1965
+- “[Cuban Leader Manuel Antonio De Varona Dies](https://www.washingtonpost.com/archive/local/1992/11/01/cuban-leader-manuel-antonio-de-varona-dies/6c054b61-bd37-428a-a462-2847e84b6eb7/)” 1992
+- “[How the CIA Enlisted the Chicago Mob to Put a Hit on Castro](https://www.chicagomag.com/chicago-magazine/november-2007/how-the-cia-enlisted-the-chicago-mob-to-put-a-hit-on-castro/)” Bryan Smith 2007
+- “[The Hemisphere: Remember La Coubre](http://content.time.com/time/magazine/article/0,9171,871556,00.html)” 1960
+- Nikita Khrushchev and the Creation of a Superpower Sergei N. Khrushchev 2010
+- “[Cuba’s New Dependency](https://www.google.com/books/edition/Problems_of_Communism/xXPnaYbTKAkC?hl=en&gbpv=1&dq=may+1960+oil+soviets+cuba&pg=PA70&printsec=frontcover)” Leon Goure, Julian Weinkle 1972
+- “[A History of the Soviet-Cuban Alliance (1960-1991)](https://www.jstor.org/stable/24919326?read-now=1&refreqid=excelsior%3Aa0b6b942b2a8a3c2a03b90811d1b2dc5&seq=4#page_scan_tab_contents)" Anna Samson 2008
+- “[Reinterpreting the State-Class Relationship: American Corporations and U. S. Policy toward Cuba, 1959-1960](https://www.jstor.org/stable/421596?seq=11#metadata_info_tab_contents%20()” Morris H. Morley 1983
+- “[The Cuban Nationalization of US Property in 1960: the Historical and Global Context](https://www.counterpunch.org/2019/03/29/the-cuban-nationalization-of-us-property-in-1960-the-historical-and-global-context/)” Charles McKelvey 2019
+- Fidel Castro: My Life—A Spoken Autobiography Ignacio Ramonet, Fidel Castro 2008
+
+## Episode 4
+
+- “[New Russian Evidence on Soviet-Cuban Relations, 1960-61: When Nikita Met Fidel, the Bay of Pigs, and Assassination Plotting](https://www.wilsoncenter.org/publication/new-russian-evidence-soviet-cuban-relations-1960-61-when-nikita-met-fidel-the-bay-pigs)” James G. Hershberg 2019
+- The Communist World: Marxist and Non-Marxist Views, Volume 2 Harry G. Shaffer 1967
+- “[Poverty in the United States: 50-Year Trends and Safety Net Impacts](https://aspe.hhs.gov/sites/default/files/private/pdf/154286/50YearTrends.pdf)” Ajay Chaudry, Christopher Wimer, Suzanne Macartney, Lauren Frohlich, Colin Campbell, Kendall Swenson, Don Oellerich, Susan Hauan 2016
+- “[Interview with General Robert Cushman](https://www.eisenhowerlibrary.gov/sites/default/files/research/oral-histories/oral-history-transcripts/cushman-robert.pdf)” Thomas Soapes 1977
+- “[Trends: American Attitudes toward Cuba](https://www.jstor.org/stable/3078757?seq=1)” William G. Mayer 2001
+- “[The Cuban Missile Crisis: 40 Years Later](https://news.gallup.com/poll/6979/cuban-missile-crisis-years-later.aspx)” Lydia Saad 2002
+- “[Cuba and American Public Opinion](https://www.ascecuba.org/asce_proceedings/cuba-and-american-public-opinion/)” Daniel W. Fisk 1999
+- “[Text of a Telegram To Vice President Richard M. Nixon from Senator John F. Kennedy on Fifth Debate](https://www.presidency.ucsb.edu/documents/text-telegram-vice-president-richard-m-nixon-from-senator-john-f-kennedy-fifth-debate)” 1960
+- “[Telegram from Senator John F. Kennedy, Hazleton, PA, to Vice President Richard M. Nixon on Fifth Debate](https://www.presidency.ucsb.edu/documents/telegram-from-senator-john-f-kennedy-hazleton-pa-vice-president-richard-m-nixon-fifth)” 1960
+- “[Statement of Senator John F. Kennedy on Fifth Debate, Issued During Campaign Swing Through Illinois](https://www.presidency.ucsb.edu/documents/statement-senator-john-f-kennedy-fifth-debate-issued-during-campaign-swing-through)” 1960
+- Getting Elected: From Radio and Roosevelt to Television and Reagan James Leonard Reinsch 1988
+- “[Inspector General's Survey of the Cuban Operation](https://faculty.chass.ncsu.edu/slatta/hi453/PS/cuba61.htm)” 1961
+- “[Kennedy and the Bay of Pigs](https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/Bay%20of%20Pigs%20case.pdf)” Stephen Bates, Joshua L. Rosenbloom 1998
+- “[Richard Bissell: Connecticut Yankee Behind the Bay of Pigs](https://www.newenglandhistoricalsociety.com/richard-bissell-connecticut-yankee-behind-bay-pigs/)” New England History Society
+- “[Ships in the Night: The CIA, the White House and the Bay of Pigs](https://www.jstor.org/stable/158201)” Piero Gleijeses 1995
+- “[You Can Own the World](https://www.washingtonpost.com/archive/lifestyle/magazine/1995/10/22/you-can-own-the-world/c772e3f1-2634-4fb1-a223-b681d63a539d/)” Evan Thomas 1995
+- Cuba’s Revolutionary World Jonathan C. Brown 2017
+- “[Cuban Reportedly Links Convicts' Funds to Hunt](https://www.nytimes.com/1973/07/09/archives/cuban-reportedly-links-convicts-funds-to-hunt-key-biscayne-meeting.html)” 1973
+- “[Manuel Artime Dies; Led Invasion of Cuba](https://www.nytimes.com/1977/11/19/archives/manuel-artime-dies-led-invasion-of-cuba-castro-foe-45-had-close.html)” George Volsky 1977
+- Foreign Policy: Intervention, Involvement, Or Isolation? Alvin Wolf 1970
+- American Spy: My Secret History in the CIA, Watergate and Beyond E. Howard Hunt, Greg Aunapu 2007
+- Presidents' Secret Wars: CIA and Pentagon Covert Operations Since World War II John Prados 1986
+- “[Beyond the Howard Hunt of June 17](https://www.nytimes.com/1973/06/03/archives/the-spy-compulsion-beyond-the-howard-hunt-of-june-17.html)” Tad Szulc 1973
+- The Very Best Men Evan Thomas 1995
+- “[The Spanish-Speaking William F. Buckley](https://www.dissentmagazine.org/online_articles/spanish-speaking-william-f-buckley)” Bécquer Seguín 2016
+- Portrait of a Cold Warrior Joseph Burkholder Smith 1976
+- “[Books of the Times: A Peculiar Service](https://timesmachine.nytimes.com/timesmachine/1977/03/10/75048215.html?pageNumber=33)” John Leonard 1977
+- “[JFK documents shed light on Fort Worth’s David Atlee Phillips](https://www.mcclatchydc.com/news/nation-world/national/article183786081.html#storylink=cpy)” Kevin G. Hall andAndrea Drusch
+- “[An Illusion of Omnipotence: U.S. Policy toward Guatemala, 1954-1960](https://www.jstor.org/stable/3177112?seq=20#metadata_info_tab_contents)” Charles D. Brockett 2002
+- “[Army For Progress: The U.S. Militarization of the Guatemalan Political and Social Crisis 1961-1969](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=2786&context=theses)” Michael Donoghue 1995
+- Wings of Denial: The Alabama Air National Guard’s Covert Role at the Bay of Pigs Warren Trest 2001
+- Managing the Counterrevolution: The United States and Guatemala, 1954-1961 Stephen M. Streeter 2002
+- Safe for Democracy: The Secret Wars of the CIA John Prados 2006
+- “[CIA offered Chicago mob boss $150,000 to kill Castro](http://www.hartford-hwp.com/archives/43b/126.html)” Laura Myers 1997
+- “[Inside the CIA’s Plot to Kill Fidel Castro—With Mafia Help](https://www.politico.com/magazine/story/2018/02/24/fidel-castro-cia-mafia-plot-216977/)” Thomas Maier 2018
+- The Kennedys: Dynasty and Disaster John H. Davis 1993
+- “[Crisis Management at the Dead Center: The 1960-1961 Presidential Transition and the Bay of Pigs Fiasco](https://www.jstor.org/stable/23884834?seq=1#metadata_info_tab_contents)” Rebecca R. Friedman 2011
+- C-1 and the Chicago Mob Vincent L. Inserra 2014
+- The Kennedy Brothers: The Rise and Fall of Jack and Bobby Richard D. Mahoney 2011
+- “[The CIA still battles over the Bay of Pigs](https://www.washingtonpost.com/opinions/george-f-will-the-cia-still-battles-over-the-bay-of-pigs/2013/09/13/243ff162-1bc5-11e3-8685-5021e0c41964_story.html)” George F. Will 2013
+- “[The Last Casualty of the Bay of Pigs](https://www.washingtonpost.com/archive/lifestyle/1989/10/17/the-last-casualty-of-the-bay-of-pigs/f33a19da-33f9-4f14-93a9-65c00abfcbd4/)” Myra MacPherson 1989
+- A Military History of the Cold War, 1944–1962 Jonathan M. House 2012
+- “[Air America at the Bay of Pigs](https://library.utdallas.edu/specialcollections/hac/cataam/Leeker/history/BayOfPigs.pdf)” Joe F. Leeke 2008
+- “[Brigade 2506: Young, Idealistic, and anti-Castro](https://kb.osu.edu/bitstream/handle/1811/49011/1/Brigade_2506.pdf)” Brian E. Campbell 2011
+- “[The Price of Progress: Guatemala and the United States During the Alliance for Progress Era](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/24200/Bedan_oregon_0171A_12311.pdf?sequence=1&isAllowed=y)” John Bedan 2018
+- “[Report on mercenary camps and bases in Guatemala, Nicaragua, and Florida](https://digitalarchive.wilsoncenter.org/document/115184.pdf?v=725ff8451817f61735cc7b12f1fa8ba4)” 1961
+- “[Exchange of Messages Between the President and President Ydigoras Fuentes on U .S. Naval Aid to Guatemala](https://www.presidency.ucsb.edu/documents/exchange-messages-between-the-president-and-president-ydigoras-fuentes-u-s-naval-aid)” 1960
+- That Infernal Little Cuban Republic: The United States and the Cuban Revolution Lars Schoultz 2009
+- “[The Miami Herald, the CIA, and the Bay of Pigs scoop that didn’t run](https://www.miamiherald.com/news/local/community/miami-dade/article18792675.html)” Glenn Garvin 2015
+- “[Mr. Kennedy’s Opportunity](https://www.thenation.com/wp-content/uploads/2015/04/arewetrainingcubanguerillas1960.pdf)” 1960
+- “[Ronald Hilton, professor emeritus of Romance languages, dead at 95](https://news.stanford.edu/pr/2007/pr-hilton-030707.html)” 2007
+- “[US Helps Train an Anti-Castro Force at Secret Guatemalan Air Ground Base](https://www.documentcloud.org/documents/1385912-u-s-helps-train-an-anti-castro-force-at-secret.html)” Paul F. Kennedy 1961
+- “[Cuba and the Fifteenth UN General Assembly: A Case Study in Regional Disassociation](https://www.jstor.org/stable/165301?refreqid=excelsior%3A9f55b08295d1bc86bf881ad49f1f4308)” Edward B. Glick 1964
+- “[Remarks of Senator John F. Kennedy, Paterson, NJ, City Hall](https://www.presidency.ucsb.edu/documents/remarks-senator-john-f-kennedy-paterson-nj-city-hall)” 1960
+- “[Organized Crime and the 1960 Presidential Election](https://www.jstor.org/stable/27698060?seq=1)” John J. Binder 2007
+- “[The drama behind President Kennedy’s 1960 election win](https://constitutioncenter.org/blog/the-drama-behind-president-kennedys-1960-election-win/)” Scott Bomboy 2017
+- “[Did the Chicago Outfit elect John F. Kennedy president?](https://themobmuseum.org/blog/did-the-chicago-outfit-elect-john-f-kennedy-president/)” John J. Binder 2020
+- The Brilliant Disaster: JFK, Castro, and America's Doomed Invasion of Cuba's Bay of Pig Jim Rasenberger 2012
+- “[The Twilight of Pan-Americanism: The Alliance for Progress, Neo-Colonialism, and Non-Alignment in Brazil, 1961-1964](https://www.jstor.org/stable/40108676)” W. Michael Weis 2001
+- John F. Kennedy: A Biography Michael O'Brien 2005
+
+## Episode 5
+
+- “[Intelligence: With Spies Like These](https://www.newsweek.com/intelligence-spies-these-129195)” Evan Thomas 2004
+- The Brilliant Disaster: JFK, Castro, and America's Doomed Invasion of Cuba's Bay of Pigs Book Jim Rasenberger 2011
+- “[A Historic Excuse for a Club](https://www.nytimes.com/1985/01/09/us/a-historic-excuse-for-a-club.html)” Marjorie Hunter 1985
+- “[A Peek At Privilege: Inside the Alibi Club](https://www.washingtonpost.com/archive/lifestyle/1992/06/22/a-peek-at-privilege-inside-the-alibi-club/e18847d4-49d6-4f1c-81ec-23b9149acba2/)” Sarah Booth Conroy 1992
+- The Inevitable Battle: From the Bay of Pigs to Playa Giron Juan Carlos Rodriguez 2009
+- Whiteout: The CIA, Drugs and the Press Alexander Cockburn, Jeffrey St. Clair 2014
+- “[Maheu Says He Recruited Man For C.I.A. in Castro Poison Plot](https://www.nytimes.com/1975/07/31/archives/maheu-says-he-recruited-man-for-cia-in-castro-poison-plot-maheu.html)” Nicholas M. Horrock 1975
+- “[From Aide to Assassin Plotter](https://www.mcclatchydc.com/news/nation-world/national/article24466684.html)” Gerardo Reyes 2007
+- Grace & Power: The Private World of the Kennedy White Housebooks Sally Bedell Smith 2011
+- “[Cuba: White Paper, April 1961](https://www.jfklibrary.org/asset-viewer/archives/AMSPP/WH06/AMSPP-WH06-009)” Arthur Schlesinger 1961
+- Response to Revolution: The United States and the Cuban Revolution, 1959-1961 Richard E. Welch Jr. 2017
+- “[Soviets Knew Date of Cuba Attack](https://www.washingtonpost.com/archive/politics/2000/04/29/soviets-knew-date-of-cuba-attack/805b049c-4073-4b24-aefe-d0409695cbd6/)” Vernon Loeb 2000
+- The Bay of Pigs Haynes Johnson 1964
+- “Honduras: Swans, Spooks and Boobies” 1971
+- “[Watching Neighbors: The Cuban Model of Social Control](https://www.jstor.org/stable/24486170?refreqid=excelsior%3Ab20e796cdbe871676eb1f8e391b6032c)” Josep M. Colomer 2000
+- “[The Bay of Pigs Revisited, but Arm in Arm](https://www.nytimes.com/2001/03/25/world/the-bay-of-pigs-revisited-but-arm-in-arm.html)” Tim Weiner 2001
+- Guerrilla Prince: The Untold Story Of Fidel Castro Georgie Geyer 2011
+- “[Airpower at the Bay of Pigs](https://www.airforcemag.com/article/airpower-at-the-bay-of-pigs/)” John T. Correll 2017
+- Honest Broker? The National Security Advisor and Presidential Decision Making John P. Burke 2009
+- “[Resolution codesignating a portion of S.W. 128 Street as ‘Captain Eduardo B. Ferrer Street’](http://www.miamidade.gov/govaction/legistarfiles/Matters/Y2009/091062.pdf)” 2009
+- Brothers: The Hidden History of the Kennedy Years David Talbot 2007
+- “[McCone is Confirmed for CIA](https://timesmachine.nytimes.com/timesmachine/1962/02/01/94096814.html?pageNumber=9)” Russell Baker 1962
+- The Brothers: John Foster Dulles, Allen Dulles, and Their Secret World War Stephen Kinzer 2013
+- “[Lamoyne A. Jones Is Dead at 64; Press Aide to Willkie and Dewey](https://www.nytimes.com/1975/08/24/archives/lamoyne-a-jones-is-dead-at-64-press-aide-to-willkie-and-dewey.html)” 1975
+- “[Birmingham pilot Joe Shannon dies, played large role in Bay of Pigs](https://www.al.com/spotnews/2010/01/birmingham_pilot_joe_shannon_d.html)” Jeremy Gray 2019
+- “[Sky soldier Joe Shannon worthy of honor](https://www.al.com/bn/2007/11/sky_soldier_joe_shannon_worthy.html)” Niki Sepsas 2007
+- “[Rusk Declares Sympathy Of Nation for Castro Foes](http://www.latinamericanstudies.org/bay-of-pigs/NYT-4-18-61l.htm)” James Reston 1961
+- “[Address before the American Society of Newspaper Editors, Washington, D.C., April 20, 1961](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-society-of-newspaper-editors-19610420)” John F. Kennedy 1961
+- “[Speeches and other Media Uses by John F. Kennedy,35th President of the United States,1/20/61-11/22/63](http://cstl-cla.semo.edu/rdrenka/Modern_Presidents/kennedy_speeches.htm)”
+- “[News Conference 10, April 21, 1961](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-press-conferences/news-conference-10)” John F. Kennedy
+- “[‘One of the Most Ridiculous Things That Has Ever Occurred in the History of the United States’](https://hazlitt.net/longreads/one-most-ridiculous-things-has-ever-occurred-history-united-states)” Alex von Tunzelmann 2014
+- Debating the Kennedy Presidency By James N. Giglio, Stephen G. Rabe 2003
+- “[Conversation with Commandante Ernesto Guevara of Cuba](https://americancentury.omeka.wlu.edu/files/original/3e027f808b843322ec9f28e8e78e93b7.pdf)” Richard Goodwin 1961
+- “[JFK and Che](https://www.cigaraficionado.com/article/jfk-and-che-7591)” Richard Goodwin 1996
+- “[Cuban Missile Crisis: Lessons for Iran?](https://saullandau.wordpress.com/2012/11/01/cuban-missile-crisis-lessons-for-iran/)” Saul Landau 2012
+- “[The good fight: The true story of the Alabama Air Guard and the Bay of Pigs](http://www.latinamericanstudies.org/bay-of-pigs/joe-shannon.htm)” Jesse Chambers 2007
+
+## Episode 6
+
+- “[JFK considers secret talks with Castro](https://jfkfacts.org/nov-5-1963-jfk-explores-a-deal-with-castro/)” Jefferson Morley 2016
+- “[American Experience: Operation Mongoose](https://www.pbs.org/wgbh/americanexperience/features/rfk-operation-mongoose/)”
+- “[David F. Powers Oral History Interview](https://www.jfklibrary.org/sites/default/files/archives/RFKOH/Powers%2C%20David%20F/RFKOH-DFP-01/RFKOH-DFP-01-TR.pdf)” Larry J. Hackman 1969
+- “[JFK Aide David Francis Powers Dies at 85](https://www.washingtonpost.com/wp-srv/politics/campaigns/junkie/links/powers.htm)” Bart Barnes 1998
+- Real Life at the White House: Two Hundred Years of Daily Life at America's Most Famous Residence John Whitcomb, Claire Whitcomb 2002
+- Grace & Power: The Private World of the Kennedy White House Sally Bedell Smith 2011
+- JFK and LBJ: The Last Two Great Presidents Godfrey Hodgson 2015
+- The Cuban Counterrevolution Jesús Arboleya 2000
+- “[The Kennedy Vendetta: How the CIA waged a silent war against Cuba](http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/T%20Disk/Tiger%20to%20Ride/Item%20116.pdf)” Taylor Branch and George Crile III 1975
+- “[Bungled plots, wiretaps, leaks](https://webcache.googleusercontent.com/search?q=cache:o9S8ENsdIAwJ:https://www.chicagotribune.com/news/ct-xpm-2007-06-27-0706270014-story.html+&cd=1&hl=en&ct=clnk&gl=us&client=firefox-b-1-e)” Stephen J. Hedges, John Crewdson 2007
+- “[Miscellaneous Records of the Church Committee](https://www.archives.gov/files/research/jfk/releases/docid-32423544.pdf)” 1975
+- “[Arthur James Balletti](http://jfk.hood.edu/Collection/FBI%20Records%20Files/139-1201%20Balletti,%20Arthur%20James,%20File/139-1201-E.pdf)” FBI
+- “[The Cuban Missile Crisis: Trading the Jupiters in Turkey?](https://www.jstor.org/stable/2149587?refreqid=excelsior%3A547a2c758a928d37423c0e11bbeb3e6c)” Barton J. Bernstein 1980
+- “[JFK’s Russian Conspiracy](https://slate.com/news-and-politics/2017/05/john-f-kennedy-had-a-russian-back-channel.html)” Tim Naftali 2017
+- “[Richard M. Bissell, 84, Is Dead; Helped Plan Bay of Pigs Invasion](https://www.nytimes.com/1994/02/08/obituaries/richard-m-bissell-84-is-dead-helped-plan-bay-of-pigs-invasion.html)” David Binder 1994
+- “[Inside the Department of Dirty Tricks](https://www.theatlantic.com/magazine/archive/1979/08/inside-the-department-of-dirty-tricks/305460/)” Thomas Powers 1979
+- “[Richard Helms: The Intelligence Professional Personified](https://www.cia.gov/static/b38d77baaf5b74832d80564576af1e3e/Richard-Helms-Intel-Professional.pdf)” David S. Robarge 2002
+- “[USSR: Vienna meeting: Memos of conversation, June 1961: Drafts](https://www.jfklibrary.org/asset-viewer/archives/JFKPOF/126a/JFKPOF-126a-001)”
+- The Vienna Summit and Its Importance in International History Günter Bischof, Stefan Karner, Barbara Stelzl-Marx 2013
+- “[The CIA Secret Kept for 37 Years](https://www.washingtonpost.com/archive/opinions/1998/03/15/the-cia-secret-kept-for-37-years/ad9d930c-a7bb-40b0-8e6f-9e56af8393a9/)” Peter Kornbluh 1998
+- “[The CIA & The Cult of Secrecy](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=3126&context=etd)” David Shamus McCarthy 2008
+- The Book of Honor: The Secret Lives and Deaths of CIA Operatives Ted Gup 2000
+- “[Texts on Alleged US Assassination Plots](https://www.nytimes.com/1975/11/21/archives/texts-on-alleged-us-assassination-plots-summary-of-findings-and.html)” 1975
+- “[The CIA’s ‘Loaded Gun’](http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/H%20Disk/Harvey%20William%20King%20CIA/Item%2002.pdf)” David C. Martin 1976
+- “[The Mystery of the JM Wave](https://www.distractionmagazine.com/the-mystery-of-the-jm-wave/)” Andrea Concepcion 2018
+- “[Church Committee Full Report](https://archive.org/stream/ChurchCommittee_FullReport/ChurchIR_3B_Cuba_djvu.txt)”
+- “[The Cuban ‘Contras’ Caper](https://www.washingtonpost.com/archive/opinions/1987/10/25/the-cuban-contras-caper/f100977d-34a4-41fa-82d3-98989e914c72/)” Raymond L. Garthoff 1987
+- “[United States-Cuban Relations: A Critical History](https://books.google.com/books?id=MZ0asyoKC08C&pg=PA62&lpg=PA62&dq=january+1962+dean+rusk+OAS+expel+cuba&source=bl&ots=jKs53GVWj6&sig=ACfU3U2F4jyZoyrbAY9BamdlqW9uQGaOhw&hl=en&sa=X&ved=2ahUKEwi88KLW-sTwAhU1F1kFHey5DXUQ6AEwEnoECAkQAw#v=onepage&q=january%201962%20dean%20rusk%20OAS%20expel%20cuba&f=false)” Esteban Morales Domínguez, Gary Prevost
+- The Most Dangerous Area in the World Stephen G. Rabe 1999
+- “[The Challenge of Democratizing the Caribbean during the Cold War](https://www.jstor.org/stable/26376676?refreqid=excelsior%3A098d5fcebf17c0c2afe96519ddc7ba5d)” Wien Weibert Arthus 2015
+- “[The Devil You Know: US-Haitian Relations, 1957-1968](https://repository.lib.ncsu.edu/bitstream/handle/1840.16/149/etd.pdf)” Adam Coleman 2004
+- Red Heat: Conspiracy, Murder and the Cold War in the Caribbean Alex von Tunzelmann 2011
+- Psywar on Cuba: The Declassified History of U.S. Anti-Castro Propaganda Jon Elliston 1999
+- “The Revolution Will Be Teletyped: Cuba's Prensa Latina News Agency and the Cold War Contest over Information” Renata Keller 2019
+
+## Episode 7-10
+
+- “[Study Says U.S. Secretly Placed Bombs](https://www.washingtonpost.com/wp-srv/WPcap/1999-10/20/011r-102099-idx.html)” Walter Pincus 1999
+- “[The Nuclear Legacy](https://archive.macleans.ca/article/1999/11/1/the-nuclear-legacy)” Andrew Phillips 1999
+- “[Through '62, U.S. Had Nuclear-Capable Bombs in Cuba](https://www.tampabay.com/archive/1999/10/20/through-62-u-s-had-nuclear-capable-bombs-in-cuba/)” 1999
+- Legacy of Ashes: The History of the CIA Tim Weiner 2006
+- In the Eye of the StormCastro, Khrushchev, Kennedy, and the Missile Crisis Carlos M. Lechuga, Carlos Lechuga Hevia, Mirta Muniz 1995
+- “Turkish–American Relations and the Cuban Missile Crisis, 1957–63” Süleyman Seydi 2010
+- “[To the Brink: Turkish and Cuban Missiles During the Height of the Cold War](https://digitalcommons.northgeorgia.edu/cgi/viewcontent.cgi?article=1218&context=issr)” Cody Fuelling 2017
+- “[JFK's First-Strike Plan](https://www.theatlantic.com/magazine/archive/2001/10/jfks-first-strike-plan/376432/)” Fred Kaplan 2001
+- “[Cuban Missile Crisis](https://digitalarchive.wilsoncenter.org/collection/31/cuban-missile-crisis)” Wilson Center
+- “[Essence of Revision: Moscow, Havana, and the Cuban Missile Crisis](https://www.belfercenter.org/sites/default/files/legacy/files/CMC50/BruceJAllynJamesGBlightDavidAWelchEssenceofRevisionMoscowHavanaandtheCubanMissileCrisisInternationalSecurity.pdf)” Bruce J. Allyn, James G. Blight, David A. Welch 1989
+- The Real J. Edgar Hoover: For the Record Ray Wannall 2000
+- “[JFK and a Woman with Mafia Friends](http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/C%20Disk/Campbell%20Judith%20Exner/Item%2019.pdf)” Jack Nelson, Ronald J. Ostrow 1975
+- “[‘61 Memo is Cited on CIA-Mafia Tie](https://www.nytimes.com/1975/05/30/archives/61-memo-is-cited-on-ciamafia-tie-hoover-is-said-to-have-told-robert.html)” Nicholas M. Horrock 1975
+- “Soviet Deception in the Cuban Missile Crisis Learning from the Past” James H. Hansen 2002
+- Cuba on the Brink: Castro, the Missile Crisis, and the Soviet Collapse James G. Blight, Bruce J. Allyn, David A. Welch 1993
+- The Cambridge History of the Cold War: Volume 1, Origins Melvyn P. Leffler, Odd Arne Westad 2010
+- “[Muerte de un pescador](http://www.granma.cu/granmad/2003/07/14/nacional/articulo09.html)” Iraida Calzadilla Rodriguez 2003
+- Imperial State and Revolution: The United States and Cuba, 1952-1986 Morris H. Morley 1988
+- “[CIA: Maker of Policy, or Tool?](https://www.cia.gov/readingroom/docs/CIA-RDP75-00001R000200520008-1.pdf)” Max Frankel, Tom Wicker, John W. Finney, EW Kenworthy
+- “[Revelation 19.63](https://www.miaminewtimes.com/news/revelation-1963-6353139)” Jefferson Morley 2001
+- “[Soviet Activities in Cuba](https://digitalarchive.wilsoncenter.org/document/134658?_ga=2.73502486.568707660.1621751407-1251265792.1619585201)” Kenneth B. Keating 1962
+- John F. Kennedy: July 30-August 1962 Timothy J. Naftali, Philip Zelikow, Ernest R. May 2001
+- “[John McCone and the Cuban Missile Crisis: August 1-November 3, 1962](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1153&context=masters)” CM Heist 2010
+- President Kennedy: Profile of Power Richard Reeves 1993
+- “[The Cuban Missile Crisis: A nuclear order of battle, October and November 1962](https://www.tandfonline.com/doi/pdf/10.1177/0096340212464364?needAccess=true)” Robert S. Norris, Hans M. Kristensen 2012
+- “[TWE Remembers: Maj. Richard Heyser Flies a U-2 Over Cuba](https://www.cfr.org/blog/twe-remembers-maj-richard-heyser-flies-u-2-over-cuba)” James M. Lindsay 2012
+- “[The Cuban Missile Crisis of 1962: Presenting the Photographic Evidence Abroad](https://fas.org/irp/imint/cubakent.htm#ft1)” Center for the Study of Intelligence 1972
+- Intelligence and the Cuban Missile Crisis David A. Welch 2013
+- The Color of Truth—McGeorge Bundy and William Bundy: Brothers in Arms Kai Bird 2017
+- “[Robert Kennedy and the Cuban Missile Crisis—A Reinterpretation](https://americandiplomacy.web.unc.edu/2007/09/robert-kennedy-and-the-cuban-missile-crisis-a-reinterpretation/)” Mark White 2007
+- “[13 Days in October](https://microsites.jfklibrary.org/cmc/oct16/)” John F. Kennedy Presidential Library and Museum
+- “[CIA Documents on the Cuban Missile Crisis](https://www.cia.gov/static/961e189e0f73389a6dc4274f6e72b49f/Cuban-Missile-Crisis-1962.pdf)” Mary S. McAuliffe 1992
+- “[Reviewed Work: The Presidential Recordings: John F. Kennedy, the Great Crises by John F. Kennedy, Ernest R. May, Timothy Naftali, Philip D. Zelikow](https://www.jstor.org/stable/27552443?seq=1)” Mark Atwood Lawrence 2002
+- The Kennedy Tapes: Inside the White House During the Cuban Missile Crisis Ernest R. May, Philip Zelikow 1997
+- “[Meeting on the Cuban Missile Crisis on 16 October 1962](https://prde.upress.virginia.edu/conversations/8020045)” Miller Center
+- “[Ernesto ‘Che’ Guevara: Socialist Political Economy and Economic Management in Cuba, 1959-1965](http://etheses.lse.ac.uk/2311/1/U615258.pdf)” Helen Yaffe 2007
+- “[Che Guevara's Visit to Ghana](https://www.jstor.org/stable/41406724?read-now=1&refreqid=excelsior%3A5c3d11d76b1c7ffa04d5b0b3a8925ef1&seq=13#page_scan_tab_contents)” Dennis Laumann 2005
+- “[The Japanese and Cuba](https://www.jstor.org/stable/25612460?read-now=1&refreqid=excelsior%3A4e757332ce28944831e99e94f21e0a21&seq=16#page_scan_tab_contents)” C. Harvey Gardiner 1972
+- “[Cuba, the United States, and Sugar](https://www.jstor.org/stable/25612594?read-now=1&refreqid=excelsior%3Af5a4970c969f927321ff71dc7430efd9&seq=6#page_scan_tab_contents)” Lynn Darrell Bender 1974
+- “[When the Russians Blinked: The U.S. Maritime Response to the Cuban Missile Crisis](https://www.usmcu.edu/Portals/218/When%20The%20Russians%20Blinked-%20The%20U_S_%20Maritime%20Response%20To%20The%20Cuban%20Missile%20Crisis.pdf)” John M. Young 1990
+- “[CIA Organized Secret Army in Western Europe](https://www.washingtonpost.com/archive/politics/1990/11/14/cia-organized-secret-army-in-western-europe/e0305101-97b9-4494-bc18-d89f42497d85/)” Clare Pedrick 1990
+- “[‘Responsibility of the Great Ones’: How the Organization of American States and the United Nations Helped Resolve the Cuban Missile Crisis](https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/abs/responsibility-of-the-great-ones-how-the-organization-of-american-states-and-the-united-nations-helped-resolve-the-cuban-missile-crisis/E993BA179A44E09DE412FD60410A0389)” Renata Keller 2019
+- Thirteen Days: A Memoir of the Cuban Missile Crisis Robert F. Kennedy, Arthur Schlesinger 2011
+- “[The Bartender Who Accidentally Saved the World](https://warontherocks.com/2014/10/the-bartender-who-accidentally-saved-the-world/)” Paul Kan 2014
+- Averting 'the Final Failure': John F. Kennedy and the Secret Cuban Missile Crisis Meetings Sheldon M. Stern 2003
+- “[Airpower and the Cuban Missile Crisis](https://media.defense.gov/2012/Jul/27/2001330167/-1/-1/0/0805U2.pdf)” John T. Correll 2005
+- One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War Michael Dobbs 2009
+- “[When the World Lucked Out of a Nuclear War](https://webcache.googleusercontent.com/search?q=cache:n905Fx-kb8gJ:https://www.theatlantic.com/international/archive/2017/10/when-the-world-lucked-out-of-nuclear-war/544198/+&cd=11&hl=en&ct=clnk&gl=us&client=firefox-b-1-e)” Yasmeen Serhan 2017
+- “[A Soviet Nuclear Torpedo, An American Destroyer, And The Cuban Missile Crisis](https://taskandpurpose.com/history/cuban-missile-crisis-nuclear-torpedo/)” Task & Purpose 2016
+- “[New Sources on the Role of Soviet Submarines in the Cuban Missile Crisis](https://www.belfercenter.org/sites/default/files/legacy/files/CMC50/SavranskayaJSSNewsourcesonroleofSovietsubmarinesinCMC.pdf)” Svetlana V Savranskaya 2007
+- “[JFK’s Presidential Approval Ratings](https://historyinpieces.com/research/jfks-presidential-approval-ratings)” David Coleman
+- “[Jefferson Morley, plaintiff v. Central Intelligence Agency, defendant](https://thefoiablog.typepad.com/files/sixthmorelydeclaration.pdf)”
+- “[Instructions for James Donovan](https://s3.documentcloud.org/documents/2723224/Document-07.pdf)”
+- “[The Negotiator](https://www.cigaraficionado.com/article/the-negotiator-19281)” Peter Kornbluh 2017
+- “[‘My Dearest Fidel’](https://www.politico.com/magazine/story/2018/04/20/cuba-fidel-castro-affair-lisa-howard-218007/)” Peter Kornbluh 2018
+- “[JFK and Castro](https://www.cigaraficionado.com/article/jfk-and-castro-7300)” Peter Kornbluh 1999
+- “[Antonio Veciana, early anti-Castro fighter and founder of Alpha 66, dies in Miami at 91](https://www.miamiherald.com/news/local/community/miami-dade/article243662282.html#storylink=cpy)” Sarah Moreno
+- “[The Last Investigation](https://cuban-exile.com/doc_001-025/doc0019a.html)” Gaetan Fonzi
+- “[Policy Aids African Reds](https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000400130041-2.pdf)” Robert S. Allen, Paul Scott 1965
+- “[Long-ago wiretap inspires a battle with the CIA for more information](https://www.washingtonpost.com/local/long-ago-wiretap-inspires-a-battle-with-the-cia-for-more-information/2013/03/02/8ebaa924-77b0-11e2-aa12-e6cf1d31106b_story.html)” Ian Shapira 2013
+- “[CIA Report on Project Mockingbird](http://apps.washingtonpost.com/g/documents/local/cia-report-on-project-mockingbird/295/)”
+- “[Declaration of Dan L. Hardaway](https://jfkfacts.org/wp-content/uploads/2016/05/Hardway-Declaration.pdf)”
+- Cuba and the Missile Crisis Carlos Lechuga Hevia, Carlos Lechuga 2001
+- “[Skolnick Charges there was Plot in Chicago to Assassinate JFK](https://docs.google.com/document/d/1WJgEsTs-5ll0uKS4DhmFQtp5kyUAboEcGJUFzdZ9HCU/edit)” Larry Weintraub 1970
+- “[44 Years After JFK’s Death, New Assassination Plot Revealed](https://abcnews.go.com/US/story?id=3902495&page=1)” Chuck Goudie 2009
+- “[The Plot to Kill JFK in Chicago](http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/V%20Disk/Vallee%20Thomas%20Arthur/Item%2005.pdf)” Edwin Black 1975
+- “[Who was Jack Ruby?](http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/K%20Disk/Kantor%20Seth/Item%2006.pdf)” Seth Kantor 1978
+- “[Bob Vanderslice letter](https://www.archives.gov/files/research/jfk/releases/docid-32149267.pdf)” 1977
+- “[LBJ Phone Calls—November 1963](https://history-matters.com/archive/jfk/lbjlib/phone_calls/Nov_1963/contents.htm)”
+- “[JFK Assassination: How LIFE Brought the Zapruder Film to Light](https://www.life.com/history/jfks-assassination-how-life-brought-the-zapruder-film-to-light/)” Ben Cosgrove
+- “[Investigator Detailed Mafia Leaders' Threat Against Kennedy](https://www.washingtonpost.com/archive/politics/1979/07/21/investigator-detailed-mafia-leaders-threat-against-kennedy/c3677b90-6789-4ccb-95d4-21de099e16c6/)” George Lardner Jr. 1979
+- “[The Defector Study](http://mcadams.posc.mu.edu/russ/jfkinfo4/jfk12/defector.htm#WEBSTER)” Staff Report of the Select Committee on Assassinations U.S. House of Representatives Ninety-fifth CongressSecond Session March 1979
+- “[Marina and Ruth](http://mcadams.posc.mu.edu/garage.htm)” Thomas Mallon 2001
+- “[The Oswald Connection](https://www.sun-sentinel.com/news/fl-xpm-1993-11-21-9311020601-story.html)” Murray Weiss, William Hoffman 1993
+- “[CIA and the Media](http://www.carlbernstein.com/magazine_cia_and_media.php)” Carl Bernstein 1977
+- A Nation Divided: The 1968 Presidential Campaign Darcy G. Richardson 2002
+- “[Bobby is Not ‘Best Man’ for Playwright Vidal](https://www.villagevoice.com/2009/08/07/gore-vidal-really-doesnt-like-rfk-for-senator/)” Mary Perot Nichols 1964
+- Is the Red Flag Flying? Albert Szymanski 1979
+- “[Cubans in the United States](https://www.jstor.org/stable/1046058)” Lisandro Pérez 1986
+- “[The Nation: Helms Makes a Deal](http://content.time.com/time/subscriber/article/0,33009,912005-2,00.html)” 1977
+- “[Helms, ex-CIA Chief, Pleads No Contest to Two Misdemeanors](https://www.nytimes.com/1977/11/01/archives/helmsexcia-chief-pleads-no-contest-to-2-misdemeanors-case-tied-to.html)” Anthony Marro 1977
+- “[Helms Is Fined $2,000 and Given Two‐Year Suspended Prison Term](https://www.nytimes.com/1977/11/05/archives/helms-is-fined-2000-and-given-twoyear-suspended-prison-term-us.html)” Antony Marro 1977
+- “[Crime Figure, Linked to Plot on Castro, Found Slain](https://www.nytimes.com/1976/08/09/archives/crime-figure-linked-to-plot-on-castro-found-slain.html)” 1976
+- “[Inquiry Had Planned to Call Giancana](https://www.nytimes.com/1975/06/21/archives/inquiry-had-planned-to-call-giancana.html)” 1975
+- “[Mafia Said to Have Slain Rosselli Because of His Senate Testimony](https://www.nytimes.com/1977/02/25/archives/mafia-said-to-have-slain-rosselli-because-of-his-senate-testimony.html)” Nicholas Gage 1977
+- “[The Sins of the Godfather? Mob Lawyer Frank Ragano Says He Knows Who Killed JFK](https://www.washingtonpost.com/archive/lifestyle/1994/06/21/the-sins-of-the-godfather-mob-lawyer-frank-ragano-says-he-knows-who-killed-jfk/1ce335b6-23f0-4386-b371-e6990ebbd820/)” Jeffrey A. Frank 1994
+- “[Latin America: The Exile Bombers](http://content.time.com/time/subscriber/article/0,33009,914631,00.html)” 1976
+- “[When Disorder is the Order: Cuba During the Special Period](https://digitalassets.lib.berkeley.edu/etd/ucb/text/Wilson_berkeley_0028E_11649.pdf)” Suzanne Leigh Wilson 2011
+- “[Economic Reform and Repeasantization in Post-1990 Cuba](https://www.jstor.org/stable/1555440?read-now=1&refreqid=excelsior%3A0a236d1ea1b46311981fe018503f080f&seq=2#page_scan_tab_contents)” Laura J. Enríquez 2003
+- “[Brothers to the Rescue Shootdown Goes to Trial](https://webcache.googleusercontent.com/search?q=cache:9PIZU21KUnoJ:https://www.sun-sentinel.com/news/fl-xpm-1997-11-14-9711130659-story.html+&cd=8&hl=en&ct=clnk&gl=us&client=firefox-b-1-e)” Larry Lebowitz 1997
+- “[Shoot Down](https://www.washingtonpost.com/archive/lifestyle/magazine/1997/05/25/shoot-down/294e3d0b-d5f0-48d8-ad3c-e72c68933ec8/)” Jefferson Morley 1997
+- “[Congress and Cuba: The Helms-Burton Act](https://www.jstor.org/stable/2204066)” Andreas F. Lowenfeld 1996
+- “[A Bomber’s Tale: Taking Aim at Castro; Key Cuba Foe Claims Exiles' Backing](https://www.nytimes.com/1998/07/12/world/a-bombers-tale-taking-aim-at-castro-key-cuba-foe-claims-exiles-backing.html)” Ann Louise Bardach, Larry Rohter 1998
+- “[Meet the ‘Cuban Five’ at the center of the blockbuster U.S. announcement on Cuba](https://www.washingtonpost.com/news/worldviews/wp/2014/12/17/meet-the-cuban-five-at-the-center-of-the-blockbuster-u-s-announcement-on-cuba/)” Adam Taylor 2014
+- “[Documents Shed New Light on Jeb Bush’s Role in Freeing a Cuban Terrorist](https://www.yahoo.com/entertainment/documents-shed-new-light-on-jeb-bushs-role-in-050405070.html)” Michael Isikoff 2015
+- “[‘George Bush’, CIA Operative](https://aarclibrary.org/notices/George_Bush_CIA_Operative_by_Joseph_McBride.pdf)” Joseph McBride 1988

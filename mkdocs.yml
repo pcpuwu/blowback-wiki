@@ -1,0 +1,181 @@
+site_name: Blowback — Listening Companion
+site_description: Read-along notes and transcripts for the Blowback podcast
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.follow
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Season 1:
+      - Season Timeline: season-1/timeline.md
+      - Sources: season-1/sources.md
+      - S1E1 — Rosebud: season-1/s1e01-rosebud.md
+      - S1E2 — American Psycho: season-1/s1e02-american-psycho.md
+      - S1E3 — Curveball: season-1/s1e03-curveball.md
+      - S1E4 — Mars Attacks: season-1/s1e04-mars-attacks.md
+      - S1E5 — Dead Links (feat. Will Menaker): season-1/s1e05-dead-links.md
+      - S1E6 — Year Zero: season-1/s1e06-year-zero.md
+      - S1E7 — #Resistance: season-1/s1e07-resistance.md
+      - S1E8 — Electioneering: season-1/s1e08-electioneering.md
+      - S1E9 — How Do You Fuck That Up?: season-1/s1e09-how-do-you-fuck-that-up.md
+      - S1E10 — The Iraq War Did Not Take Place: season-1/s1e10-the-iraq-war-did-not-take-place.md
+      - Transcripts:
+        - S1E1 — Rosebud: season-1/transcripts/s1e01-rosebud.md
+        - S1E2 — American Psycho: season-1/transcripts/s1e02-american-psycho.md
+        - S1E3 — Curveball: season-1/transcripts/s1e03-curveball.md
+        - S1E4 — Mars Attacks: season-1/transcripts/s1e04-mars-attacks.md
+        - S1E5 — Dead Links (feat. Will Menaker): season-1/transcripts/s1e05-dead-links.md
+        - S1E6 — Year Zero: season-1/transcripts/s1e06-year-zero.md
+        - S1E7 — #Resistance: season-1/transcripts/s1e07-resistance.md
+        - S1E8 — Electioneering: season-1/transcripts/s1e08-electioneering.md
+        - S1E9 — How Do You Fuck That Up?: season-1/transcripts/s1e09-how-do-you-fuck-that-up.md
+        - S1E10 — The Iraq War Did Not Take Place: season-1/transcripts/s1e10-the-iraq-war-did-not-take-place.md
+        - S1E00 Iraqnophobia: season-1/transcripts/s1e00-iraqnophobia.md
+  - Season 2:
+      - Season Timeline: season-2/timeline.md
+      - Sources: season-2/sources.md
+      - S2E1 — The Jupiter Menace: season-2/s2e01-the-jupiter-menace.md
+      - S2E2 — Lo Hicimos: season-2/s2e02-lo-hicimos.md
+      - S2E3 — New Normal: season-2/s2e03-new-normal.md
+      - S2E4 — Secret Honor: season-2/s2e04-secret-honor.md
+      - S2E5 — Fish Is Red: season-2/s2e05-fish-is-red.md
+      - S2E6 — Nothing to Lose: season-2/s2e06-nothing-to-lose.md
+      - S2E7 — Anadyr: season-2/s2e07-anadyr.md
+      - S2E8 — We'll All Meet in Hell: season-2/s2e08-we-ll-all-meet-in-hell.md
+      - S2E9 — Cuba Libra: season-2/s2e09-cuba-libra.md
+      - S2E10 — Infinite Crisis: season-2/s2e10-infinite-crisis.md
+      - Transcripts:
+        - S2E1 — The Jupiter Menace: season-2/transcripts/s2e01-the-jupiter-menace.md
+        - S2E2 — Lo Hicimos: season-2/transcripts/s2e02-lo-hicimos.md
+        - S2E3 — New Normal: season-2/transcripts/s2e03-new-normal.md
+        - S2E4 — Secret Honor: season-2/transcripts/s2e04-secret-honor.md
+        - S2E5 — Fish Is Red: season-2/transcripts/s2e05-fish-is-red.md
+        - S2E6 — Nothing to Lose: season-2/transcripts/s2e06-nothing-to-lose.md
+        - S2E7 — Anadyr: season-2/transcripts/s2e07-anadyr.md
+        - S2E8 — We'll All Meet in Hell: season-2/transcripts/s2e08-we-ll-all-meet-in-hell.md
+        - S2E9 — Cuba Libra: season-2/transcripts/s2e09-cuba-libra.md
+        - S2E10 — Infinite Crisis: season-2/transcripts/s2e10-infinite-crisis.md
+  - Season 3:
+      - Season Timeline: season-3/timeline.md
+      - Sources: season-3/sources.md
+      - S3E1 — Stop Me Before I Kill Again: season-3/s3e01-stop-me-before-i-kill-again.md
+      - S3E2 — The Uninvited: season-3/s3e02-the-uninvited.md
+      - S3E3 — The Blue House: season-3/s3e03-the-blue-house.md
+      - S3E4 — Red Island: season-3/s3e04-red-island.md
+      - S3E5 — Train to Busan: season-3/s3e05-train-to-busan.md
+      - S3E6 — National Smile Week: season-3/s3e06-national-smile-week.md
+      - S3E7 — Mao (Mao's Poem): season-3/s3e07-mao.md
+      - S3E8 — American Caesar: season-3/s3e08-american-caesar.md
+      - S3E9 — No More Targets: season-3/s3e09-no-more-targets.md
+      - S3E10 — The Host: season-3/s3e10-the-host.md
+      - Transcripts:
+        - S3E1 — Stop Me Before I Kill Again: season-3/transcripts/s3e01-stop-me-before-i-kill-again.md
+        - S3E2 — The Uninvited: season-3/transcripts/s3e02-the-uninvited.md
+        - S3E3 — The Blue House: season-3/transcripts/s3e03-the-blue-house.md
+        - S3E4 — Red Island: season-3/transcripts/s3e04-red-island.md
+        - S3E5 — Train to Busan: season-3/transcripts/s3e05-train-to-busan.md
+        - S3E6 — National Smile Week: season-3/transcripts/s3e06-national-smile-week.md
+        - S3E7 — Mao (Mao's Poem): season-3/transcripts/s3e07-mao.md
+        - S3E8 — American Caesar: season-3/transcripts/s3e08-american-caesar.md
+        - S3E9 — No More Targets: season-3/transcripts/s3e09-no-more-targets.md
+        - S3E10 — The Host: season-3/transcripts/s3e10-the-host.md
+  - Season 4:
+      - Season Timeline: season-4/timeline.md
+      - Sources: season-4/sources.md
+      - S4E1 — Snake Eater: season-4/s4e01-snake-eater.md
+      - S4E2 — Bleeders and Dealers: season-4/s4e02-bleeders-and-dealers.md
+      - S4E3 — The Trap: season-4/s4e03-the-trap.md
+      - S4E4 — They're Yours Now: season-4/s4e04-theyre-yours-now.md
+      - S4E5 — We Can Live With That: season-4/s4e05-we-can-live-with-that.md
+      - S4E6 — Ground Zeroes: season-4/s4e06-ground-zeroes.md
+      - S4E7 — Guns of the Patriots: season-4/s4e07-guns-of-the-patriots.md
+      - S4E8 — Sons of Liberty: season-4/s4e08-sons-of-liberty.md
+      - S4E9 — Peace Walker: season-4/s4e09-peace-walker.md
+      - S4E10 — The Phantom Pain: season-4/s4e10-the-phantom-pain.md
+      - Transcripts:
+        - S4E1 — Snake Eater: season-4/transcripts/s4e01-snake-eater.md
+        - S4E2 — Bleeders and Dealers: season-4/transcripts/s4e02-bleeders-and-dealers.md
+        - S4E3 — The Trap: season-4/transcripts/s4e03-the-trap.md
+        - S4E4 — They're Yours Now: season-4/transcripts/s4e04-theyre-yours-now.md
+        - S4E5 — We Can Live With That: season-4/transcripts/s4e05-we-can-live-with-that.md
+        - S4E6 — Ground Zeroes: season-4/transcripts/s4e06-ground-zeroes.md
+        - S4E7 — Guns of the Patriots: season-4/transcripts/s4e07-guns-of-the-patriots.md
+        - S4E8 — Sons of Liberty: season-4/transcripts/s4e08-sons-of-liberty.md
+        - S4E9 — Peace Walker: season-4/transcripts/s4e09-peace-walker.md
+        - S4E10 — The Phantom Pain: season-4/transcripts/s4e10-the-phantom-pain.md
+  - Season 5:
+      - Season Timeline: season-5/timeline.md
+      - Sources: season-5/sources.md
+      - S5E1 — The Wolves Are Closing In: season-5/s5e01-the-wolves-are-closing-in.md
+      - S5E2 — The French Connection: season-5/s5e02-the-french-connection.md
+      - S5E3 — Listen to the Thunder: season-5/s5e03-listen-to-the-thunder.md
+      - S5E4 — Mad Men: season-5/s5e04-mad-men.md
+      - S5E5 — Last Tango in Paris: season-5/s5e05-last-tango-in-paris.md
+      - S5E6 — Dream Warriors: season-5/s5e06-dream-warriors.md
+      - S5E7 — Less Than Zero: season-5/s5e07-less-than-zero.md
+      - S5E8 — Third World War: season-5/s5e08-third-world-war.md
+      - S5E9 — Le Cercle Rouge: season-5/s5e09-le-cercle-rouge.md
+      - S5E10 — The Terrible But Unfinished Story: season-5/s5e10-the-terrible-but-unfinished-story.md
+      - Transcripts:
+        - S5E1 — The Wolves Are Closing In: season-5/transcripts/s5e01-the-wolves-are-closing-in.md
+        - S5E2 — The French Connection: season-5/transcripts/s5e02-the-french-connection.md
+        - S5E3 — Listen to the Thunder: season-5/transcripts/s5e03-listen-to-the-thunder.md
+        - S5E4 — Mad Men: season-5/transcripts/s5e04-mad-men.md
+        - S5E5 — Last Tango in Paris: season-5/transcripts/s5e05-last-tango-in-paris.md
+        - S5E6 — Dream Warriors: season-5/transcripts/s5e06-dream-warriors.md
+        - S5E7 — Less Than Zero: season-5/transcripts/s5e07-less-than-zero.md
+        - S5E8 — Third World War: season-5/transcripts/s5e08-third-world-war.md
+        - S5E9 — Le Cercle Rouge: season-5/transcripts/s5e09-le-cercle-rouge.md
+        - S5E10 — The Terrible But Unfinished Story: season-5/transcripts/s5e10-the-terrible-but-unfinished-story.md
+  - Season 6:
+      - Season Timeline: season-6/timeline.md
+      - Sources: season-6/sources.md
+      - S6E1 — The Dead Myth: season-6/s6e01-the-dead-myth.md
+      - S6E2 — Economy of Terror: season-6/s6e02-economy-of-terror.md
+      - S6E3 — The Stand: season-6/s6e03-the-stand.md
+      - S6E4 — Zulu & Foxbat: season-6/s6e04-zulu-foxbat.md
+      - S6E5 — Kicking the Dog: season-6/s6e05-kicking-the-dog.md
+      - S6E6 — Total Onslaught: season-6/s6e06-total-onslaught.md
+      - S6E7 — Constellation: season-6/s6e07-constellation.md
+      - S6E8 — Cut Off Their Hands: season-6/s6e08-cut-off-their-hands.md
+      - S6E9 — Something Big and Bloody: season-6/s6e09-something-big-and-bloody.md
+      - S6E10 — Zero-sum: season-6/s6e10-zero-sum.md
+      - Transcripts:
+        - S6E1 — The Dead Myth: season-6/transcripts/s6e01-the-dead-myth.md
+        - S6E2 — Economy of Terror: season-6/transcripts/s6e02-economy-of-terror.md
+        - S6E3 — The Stand: season-6/transcripts/s6e03-the-stand.md
+        - S6E4 — Zulu & Foxbat: season-6/transcripts/s6e04-zulu-foxbat.md
+        - S6E5 — Kicking the Dog: season-6/transcripts/s6e05-kicking-the-dog.md
+        - S6E6 — Total Onslaught: season-6/transcripts/s6e06-total-onslaught.md
+        - S6E7 — Constellation: season-6/transcripts/s6e07-constellation.md
+        - S6E8 — Cut Off Their Hands: season-6/transcripts/s6e08-cut-off-their-hands.md
+        - S6E9 — Something Big and Bloody: season-6/transcripts/s6e09-something-big-and-bloody.md
+        - S6E10 — Zero-sum: season-6/transcripts/s6e10-zero-sum.md

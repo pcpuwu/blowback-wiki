@@ -1,0 +1,51 @@
+# Blowback S5E2 — "The French Connection"
+
+> 📄 **[Read the full transcript](transcripts/s5e02-the-french-connection.md)**
+
+
+> **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:00:40
+> **Thesis:** The deep history — the ancient Khmer Empire, French colonialism's "dismemberment" of Indochina (Vietnam the crown jewel, Cambodia and Laos as buffers), the divergent births of Vietnamese vs. Cambodian nationalism, the First Indochina War (climaxing at **Dien Bien Phu**, 1954), and the **Geneva Conference** — which made Vietnam's communists, freed Sihanouk's Cambodia, and *betrayed* the Cambodian communists, planting the seed of the Khmer Rouge's grievance.
+>
+> _Narration order; `[hh:mm:ss]` = audio jump point; real dates in **bold**. Speech-to-text slips corrected (Saloth Sâr ≈ "Salath Saar," Giáp ≈ "Zapp/Yap," Sihanouk ≈ "Sianuk," Ieng Sary ≈ "Yang Sari," Zhou Enlai ≈ "Joe N-Lai")._
+
+## Cold open: Ho's elephant and tiger `[00:00:00]`
+- **Sept 1946** — **Ho Chi Minh** to CBS's David Schoenbrun: "How can you fight the French?" His answer — nationalism, and a war "between an elephant and a tiger": the tiger hides in the jungle by day, leaps on the elephant's back by night, "and after a while, the mighty elephant will bleed to death." `[00:00:00]`
+
+## Old Indochina `[00:04:15]`
+- "Indochina" was a French invention uniting three distinct kingdoms. **Vietnam** (the largest, ruled by China for a millennium); **Laos** (mountainous, least populated, absorbed by Siam); and **Cambodia** — heir to the **Khmer Empire** (the "water kingdom" centered on Angkor, "ranked with the Romans and Greeks"), which by the 15th century declined and was picked apart by Vietnam (east) and Thailand (west). The Angkor "renaissance" would haunt every modern Cambodian movement, from Sihanouk to the Khmer Rouge. `[00:04:15]`
+
+## The French conquest `[00:09:05]`
+- From the **1850s** (Napoleon III) France colonized Vietnam (the pretext: avenging persecuted Catholics), taking the south (**Cochinchina**) by the 1860s, the north in the 1880s, breaking Vietnam into three protectorates; China renounced suzerainty (1885). **Cambodia** was taken not for resources but as a **buffer** between Vietnam and British-influenced Thailand (King Norodom signing treaties to protect his throne); **Laos** acquired in the 1890s. France "both dismembered Vietnam and joined it with Laos and Cambodia" — and that colonial dismemberment, not ancient history, "is the key to understanding what unravels across the 20th century." `[00:09:05]`
+
+## Colonial exploitation `[00:14:15]`
+- Vietnam was developed for French capital (the Mekong Delta a rice exporter; rubber plantations where "more than one in four rubber workers died," runaways executed) — breeding a working class and a Saigon middle class. **Cambodia** was treated as "lazy, doomed" — the French *imported Vietnamese* as plantation labor and colonial bureaucrats (a resentment Cambodians wouldn't forget), and gave the Khmer almost no Western education, *delaying a modern Cambodian nationalist movement* until well into the 20th century. Laos was the most hands-off. `[00:14:15]`
+
+## The two nationalisms `[00:18:15]`
+- Revolts began at once but differed: Cambodia had no Mandarin class, only a king-controlled oligarchy, so mass discontent came late (a 1916 tax revolt; WWI-era Buddhist protests; the 1940 **Khmer Issarak** independence movement, Thai-backed) — and its first communists were *Vietnamese* (arrested 1929). **Ho Chi Minh** (Confucian scholar's son, co-founder of the French Communist Party) was ignored at Versailles (1919), recruited to the Comintern, and founded the **Indochinese Communist Party (1930)** — winning the mantle of Vietnamese nationalism via a peasant uprising led by intellectuals, even as colonial police wiped out up to 90% of the party in the Depression. `[00:18:15]`
+- **The single-party question** `[00:24:09]`: Ho's *Indochinese* Communist Party (per Comintern directive) incorporated the Cambodian and Laotian movements — which some Cambodians saw as Vietnamese domination, a debate that "would one day explode into a brutal war." `[00:24:09]`
+
+## WWII and the scramble `[00:25:07]`
+- **June 1940** — France fell to the Nazis (Vichy). In Cambodia the French switched royal families, crowning the "pliable" 19-year-old **Norodom Sihanouk** (an ice-cream-and-cinema-loving lycée student) over his rival Sirik Matak. Japan then took Indochina (the Vichy French as middlemen), chopping off Cambodia's western provinces to Thailand. Ho's **Viet Minh** fought the Japanese as the only effective resistance (armed by the US OSS). **March 1945** — Japan ousted Vichy; Sihanouk declared the protectorate over, crediting Japan; a Japan-era famine killed 0.5–2 million Vietnamese. `[00:25:07]`
+- **The August Revolution** `[00:31:00]`: Japan's surrender let the Viet Minh take Hanoi and depose Emperor Bao Dai; **Sept 2, 1945** — Ho proclaimed Vietnam's independence. In Phnom Penh, a Son Ngoc Thanh coup was foiled (Sihanouk's minister warning the French); Cambodia became an "autonomous state within the French Union" — Sihanouk, at a tender age, "had played the French, Japanese, and the Allies against each other to stay in power." `[00:31:00]`
+
+## The First Indochina War `[00:33:50]`
+- Vietnam dissolved its Communist Party to disarm suspicion, held elections, eased famine — but France was returning. **Ho wrote Truman** (Feb 1946) asking the US to intervene against France — "never answered." After France killed ~6,000 at **Haiphong** (Nov 1946), war erupted (Dec 19, 1946). The Viet Minh controlled the countryside; **Gen. Vo Nguyen Giap** ("a classic Vietnamese scholar general") trapped and destroyed French forces in 1949–50 — "the worst French defeat since the Napoleonic era"; Chinese and Soviet support followed. `[00:33:50]`
+- **Cambodia's messier fight** `[00:37:48]`: Sihanouk signed away his foreign policy ("we are too poor to defend ourselves") while the Khmer Issarak raided and Son Ngoc Thanh agitated. Sihanouk's balancing act: negotiate independence back from France piecemeal, side with 1952 protesters, lambaste colonialism, dissolve the legislature — fighting his domestic rivals while co-opting the independence cause. `[00:37:48]`
+- **Saloth Sâr in Paris** `[00:39:21]`: in 1949 the quiet student **Saloth Sâr** got a Paris scholarship; with **Ieng Sary**, Hu Nim and others he joined Khmer student Marxist circles — "it was in Paris, not Moscow or Beijing, that… Saloth Sâr and his companions laid down the ideological foundations on which the Khmer Rouge nightmare would be built." The Indochinese party re-split into three (1951); the Cambodian spin-off had ~1,000 Khmer and 3,000 *Vietnamese* fighters, tutored by Vietnam to pressure Sihanouk toward independence. Sâr returned in 1953 with "a vision to use socialist ideas to forge an independent Cambodia." `[00:39:21]`
+
+## Dien Bien Phu `[00:43:54]`
+- US aid covered 70–80% of France's war budget by 1953. **1954** — Giap, with Chinese intelligence (Navarre's own plans) and 75,000 coolie porters (Wilfred Burchett reporting from Ho's side), besieged the French garrison at **Dien Bien Phu**. Eisenhower was offered (and demurred on) **tactical nuclear weapons**. On **May 7, 1954** the French surrendered — "the end of the French adventure in Indochina… indeed the end of the French Empire" — timed perfectly before Geneva. `[00:43:54]`
+
+## The Geneva Conference `[00:49:23]`
+- 1952 — Sihanouk, snubbed by **John Foster Dulles** (lectured that French protection was essential), warmed to the USSR and China who "respected his borders." Eisenhower's **domino theory** ("a row of dominoes…"). At **Geneva (April 1954)** — Dulles refused to shake Zhou Enlai's hand; Vietnam's Pham Van Dong demanded independence, unity, and seats for the Lao and Cambodian communists. Under Chinese/Soviet pressure and the US threat, the Vietnamese **gave up southern Vietnam and Cambodia** for the North and part of Laos. Vietnam was split at the **17th parallel**, with reunification elections promised in two years. `[00:49:23]`
+- **Cambodia's founding betrayal** `[00:55:26]`: Sihanouk maneuvered to become the leader who "won Cambodia's independence" — Geneva's biggest winner "having done nearly nothing to fight French colonialism." But it was "the founding defeat for the Cambodian communists" — *not even seated* (unlike the Lao communists), denied territory, arms, and a role. Hanoi and Beijing had pressed the Khmer case for regroupment zones, but Sihanouk refused and the big powers shrugged it off ("a small player, an afterthought"). "Their later highly developed sense of xenophobia was not without foundation" (Becker). `[00:55:26]`
+
+## The aftermath `[00:59:13]`
+- The US refused to sign the Accords. Hanoi expected to reunify Vietnam via the promised elections (which the US would help block). Laos faced a nascent communist resistance; many expected *Laos*, not Vietnam, to spark the next war. In Cambodia, Sihanouk paraded his independence while ~1,000 Khmer communists smuggled themselves north to be **sheltered and trained in Hanoi** — half the movement now in Vietnamese exile. **Saloth Sâr** stayed behind, one of 20 chosen for "secret political work inside the country," trekking to Prey Veng — "the question for him would become, when to hold his tongue, and when to bear his teeth and bite." `[00:59:13]`
+
+## Sources cited for this episode
+_From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
+- **Indochina history:** Mark Atwood Lawrence, *The Vietnam War: A Concise International History* (2010); Marilyn Young, *The Vietnam Wars*; Grant Evans & Kelvin Rowley, *Red Brotherhood at War*; K.W. Taylor, *A History of the Vietnamese* (2013); Charles Keith, *Subjects and Sojourners* (2024).
+- **Cambodia:** Elizabeth Becker, *When the War Was Over*; David Chandler, *A History of Cambodia*; Ben Kiernan, *How Pol Pot Came to Power*; Philip Short, *Pol Pot*; William Shawcross, *Sideshow*; Matthew Jagel, *Khmer Nationalist: Son Ngoc Thanh* (2023).
+- **Dien Bien Phu & Geneva:** Gen. Vo Nguyen Giap, *Dien Bien Phu* (memoir); the US State Dept. milestones; the Bulletin of the Atomic Scientists on the A-bomb offer; Ho Chi Minh's 1946 letter to Truman.
+- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

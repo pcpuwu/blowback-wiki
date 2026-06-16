@@ -1,0 +1,55 @@
+# Blowback S5E10 — "The Terrible But Unfinished Story"
+
+> 📄 **[Read the full transcript](transcripts/s5e10-the-terrible-but-unfinished-story.md)**
+
+
+> **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:06:30
+> **Thesis:** The long aftermath — Vietnam's withdrawal (1989) and the US finally dropping the Khmer Rouge; the UN peace process and Cambodia's first elections (1993); Hun Sen's consolidation of power; Pol Pot's squalid end (1998) and the slow, scope-limited genocide tribunal; the genocide debate; and where Cambodia, Vietnam, and the players stand today — in a region newly structured by US-China rivalry, the latest of Kissinger's "gray areas."
+>
+> _Narration order; `[hh:mm:ss]` = audio jump point; real dates in **bold**. Speech-to-text slips corrected (Hun Sen ≈ "Hunan/Hun Sen," Ranariddh ≈ "Ronorid/Renarid," Ta Mok ≈ "Tamok," Ieng Sary ≈ "Yang Sari," Nuon Chea ≈ "Nuan Chea," Khieu Samphan ≈ "Q Sampan," Sihanouk ≈ "Sianuk," Sihamoni ≈ "Siamoni")._
+
+## Cold open `[00:00:00]`
+- A US official's tortured denial of arming the Khmer Rouge ("we do not supply any lethal assistance to the non-communists… well, I made a mistake there"); a Cambodian: "sometimes the CIA gave weapons to the non-communist forces… perhaps your government and the CIA are not cooperating with each other." `[00:00:00]`
+
+## Vietnam withdraws `[00:02:35]`
+- By the mid-80s the war was a stalemate (Deng + Reagan keeping the Khmer Rouge armed and at the UN). **Gorbachev** (1985) slashed Soviet aid to Vietnam, which launched **Doi Moi** (market reforms) and, with foreign debt at $6.7B and no Western relief, did its only remaining move: **announce a unilateral withdrawal from Cambodia (1988)**, completed by **September 1989**. Becker: "Vietnam called the bluff… and only then did James Baker turn around and say, this is not going to be good if the Khmer Rouge come back to power." `[00:02:35]`
+
+## Hun Sen and the thaw `[00:09:08]`
+- **Hun Sen** (an ex-Khmer Rouge defector with a glass eye, "a modern, vibrant politician") oversaw the return of sovereignty, pushing capitalism ("we are not looking to build up Marxism… this requires capitalism"). The Cold War was thawing (Gorbachev's 1989 Beijing trip mending the Sino-Soviet split); Thailand sent friendly signals to Hun Sen against Deng's wishes. `[00:09:08]`
+- **The US drops the Khmer Rouge** `[00:12:23]`: with Vietnam gone and the Khmer Rouge "still far from retaking power," George H.W. Bush's US finally cut them loose — Baker announcing resumed humanitarian aid, a reversal on the UN seat, and talks with Vietnam (next to Shevardnadze: the US and Soviet positions "come much closer"). But years of backing had earned the Khmer Rouge a place at the table (like the mujahideen). `[00:12:23]`
+
+## The Paris Peace Accords `[00:13:42]`
+- June 1991 — the four factions (including Pol Pot's and Sihanouk's) formed a Supreme National Council; **October 1991** — the UN **Paris Peace Accords** (the Khmer Rouge getting a seat, no required trial). The UN launched **UNTAC**, "the biggest and most expensive peacekeeping operation in its history." Sihanouk drove into Phnom Penh in a refurbished pink Chevrolet ("The king has returned"). Becker: "it took America forever to admit what the Khmer Rouge did… once they were part of the geopolitical mix, they refused to." `[00:13:42]`
+
+## The 1993 election `[00:16:03]`
+- The $2B UN election (John Bolton: "I didn't think it would work") faced obstacles: the Khmer Rouge had become "a mining and logging syndicate," were stronger than UNTAC, and Hun Sen didn't want to give up power. The Khmer Rouge **boycotted** the vote (Sihanouk calling it "a hideous comedy"). **May 1993** — 90% turnout; Sihanouk's son **Prince Ranariddh** narrowly won, but Hun Sen refused the result, forcing a **co-prime-minister** compromise. The Khmer Rouge were outlawed again, "back to their roots." `[00:16:03]`
+
+## The Khmer Rouge rot, Pol Pot's eccentric retirement `[00:19:42]`
+- 1991–94 "rotted the movement from within" (desertions tenfold); but Pol Pot didn't moderate — reviving "independence-mastery" slogans, a new S-21-style prison (52 market traders executed). Pol Pot ("Grandfather 87") lived on a cliff-edge retirement home with cognac, folk music, and his young daughter — but "age had not mellowed him" (ordering three backpackers executed "for no particular reason"). Chandler: "an old fanatic retreating into his own mind… inside his head, it was not a different world from the 1960s or 1970s." `[00:19:42]`
+
+## Hun Sen's coup & Cambodia's misery `[00:24:03]`
+- 1993–97 — Ranariddh vs. Hun Sen power struggle, near-collapse of the rule of law; foreign aid brought sweatshops (300+ garment factories, ~380,000 mostly-women workers, 70% of exports to the US) — Cambodia "a weak gangster state" (deforestation, heroin, AIDS, no electricity, dysentery water). **July 1997** — Hun Sen's "preemptive coup" ousted Ranariddh (who fled into exile); after 1998 elections, Hun Sen ruled unchallenged for a quarter century — corrupt and cruel, but "a country truly at peace for the first time in 30 years." `[00:24:03]`
+
+## Pol Pot's end `[00:28:51]`
+- A mass Khmer Rouge defection (Ieng Sary and ~4,000 troops took Hun Sen's amnesty, Aug 1996). The paranoid Pol Pot put Ta Mok, Son Sen, and Nuon Chea under house arrest; in mid-1997, in "a coda to his whole career," he had **Son Sen and his family (15 people, incl. a grandchild) murdered** ("I would like you to take care of it"). The warlord **Ta Mok** ("if Son Sen could be killed, no one was safe") seized Pol Pot and put him on a show **trial** (charged not with the genocide but with Son Sen's murder and the open-ended war); sentenced to life. **April 15, 1998** — hearing of Hun Sen's raid on the radio, **Pol Pot died in his sleep** (heart failure). Ta Mok's eulogy: "now he's finished… he is no more than cow shit. Cow shit is more important — we can use it for fertilizer." `[00:28:51]`
+
+## The tribunal `[00:35:53]`
+- With Pol Pot dead, the last faces were **Nuon Chea**, **Khieu Samphan**, and **Ta Mok** (captured months later) — out of time once the Americans turned. After Rwanda and the Balkans, the US State Dept put energy into war-crimes investigations; Short: a Khmer Rouge tribunal "would allow the U.S. to turn the page with honor and regain the moral high ground" (unmentioned: that when *Vietnam* had tried Pol Pot 20 years earlier, the West protected the Khmer Rouge). The **Extraordinary Chambers in the Courts of Cambodia (ECCC)** — agreed 2003, operational 2007 — spent $330M (2007–22), bringing five cases, convicting three: **Duch** (Tuol Sleng, life, the only one to admit guilt — "the only human on trial; the others are monsters"); **Nuon Chea** and **Khieu Samphan** (crimes against humanity, then **genocide** of Vietnamese and Cham minorities). Ieng Sary died mid-trial (2013); his wife Ieng Thirith was unfit (Alzheimer's). It spawned the respected **Documentation Center of Cambodia**. But the scope was "conveniently limited to the reign of Pol Pot" — the US bombing, the invasion, the civil war, and Lon Nol's pogroms all left out. `[00:35:53]`
+
+## The genocide debate `[00:45:46]`
+- Was it "genocide"? Short, Vickery, and Chandler argued the Khmer Rouge killings (most victims fellow Khmer) were *political*, not racial — so "crimes against humanity" but not legally genocide. Kiernan: the tribunal found the killing of the Khmer majority to be **extermination** (a crime against humanity covering political groups), but found **genocide** against the *ethnic minorities* — the Vietnamese (of ~20,000 remaining, only a dozen survived) and the Cham Muslims (forced to eat pork, last for rations; ~90,000 dead); about half the ethnic Chinese also perished; and the Buddhist monks (defrocked and murdered "as a religious group, as such") were a case the tribunal didn't fully pursue. `[00:45:46]`
+
+## Sihanouk's death `[00:52:24]`
+- **October 2012** — **Sihanouk** died at 89 in Beijing, having spent his last years again as king (and time in China/North Korea), still unpredictable (declaring his entire wealth was $45,000 in a French bank; endorsing gay marriage before any US head of state). "No leader in our story has been quite as ubiquitous, nor more contradictory" — French-installed yet won independence, crushed the communists yet befriended Mao and Kim, imprisoned by the Khmer Rouge (who killed his family) yet called them patriots. A Guinness record for "most state roles held by a royal." Survived by his son **Sihamoni** (the current king) and wife Monique. `[00:52:24]`
+
+## Cambodia today `[00:56:53]`
+- **Neak Luong** (bombed by America, then site of Khmer Rouge atrocity) is now bustling with the country's longest bridge — "representative of Cambodian life, for good and for bad" (a mechanic: "these days the economy is bad, so 10 people need to work to support a family"). Poverty fell from ~40% to ~33% (1994–2006); Cambodia's GDP tripled after a 2009 Chinese investment boom ($10B → $30B) — but Vietnam's grew far more ($21B → $430B), and Cambodia has "the greatest inequality in the world in the ability to afford food" (58% struggling; 87% of the poorest fifth). `[00:56:53]`
+- **The new gray area** `[01:00:21]`: the region is now structured by **US-China rivalry**. Vietnam absorbs manufacturing fleeing China while balancing both powers; **Cambodia aligns with China** (run now by Hun Sen's West-Point-educated son **Hun Manet**) — demolishing a US-built naval base for a **Chinese one** on the Gulf of Thailand. The US has ~750 bases in 80+ countries (increasingly oriented at containing China); China has two overseas bases, one in Cambodia. `[01:00:21]`
+- **Kissinger's gray areas** `[01:03:32]`: a 1955 *Foreign Affairs* essay by **Henry Kissinger** argued America must defend the world's "**gray areas**" (the little countries where Soviet influence might win) — "if we lost these gray areas, Americans would be confronted by three-quarters of the human race." After the Cold War "the world became grayer," but the same mentalities rule Washington (Yankees on Russian domination, Cowboys on China). "It is possible that… what happens in Kissinger's gray areas will no longer be up to the United States… that it's now the turn of the other three-quarters of the human race." `[01:03:32]`
+- **Sign-off** `[01:05:47]`: thanks to the guests (Becker, Kiernan, Hersh, Quigley, Vu Minh Hoang, Marv Truhe) and the Cambodian/Vietnamese interviewees, fixers, and translators. `[01:05:47]`
+
+## Sources cited for this episode
+_From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
+- **The aftermath & tribunal:** Joel Brinkley, *Cambodia's Curse* (2011); Philip Short, *Pol Pot*; David Chandler; Elizabeth Becker; Ben Kiernan; Craig Etcheson; the ECCC documents and HRW on the 1997 coup.
+- **Cambodia today / geopolitics:** the Washington Post on Hun Manet; David Vine, "Lists of U.S. Military Bases"; Breaking Defense on China's bases; Henry Kissinger, "Military Policy and Defense of the 'Grey Areas'" (*Foreign Affairs*, 1955).
+- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

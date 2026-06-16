@@ -1,0 +1,805 @@
+# S5E3 — Listen to the Thunder — Transcript
+
+[← Back to episode notes](../s5e03-listen-to-the-thunder.md)
+
+[00:00:02] In the autumn of 1965, Harvard Professor Henry Kissinger visited the American Front in Vietnam.  
+[00:00:11] By now, Kissinger was a semi-official advisor to the Johnson administration  
+[00:00:16] and well-informed about the struggles of the U.S. mission.  
+[00:00:21] In his memoirs, Kissinger writes that, after arriving, quote,  
+[00:00:25] I soon realized we had involved ourselves in a war which we knew neither how to win nor how to conclude  
+[00:00:33] quote, end quote.  
+[00:00:35] Over three weeks in October 1965, writes historian Robert K. Brigham,  
+[00:00:41] Quote, Kissinger met with several senior U.S. military leaders, including General William  
+[00:00:46] Westmoreland, who assured him the war was going well, end quote.  
+[00:00:51] Everywhere Kissinger went, U.S. leaders told him the same optimistic story.  
+[00:00:57] Give the war a year, maybe 18 months.  
+[00:01:00] Afterward, in his official report to the U.S. ambassador,  
+[00:01:04] Gissinger expressed his skepticism, but maintained the correctness of America's goals in Vietnam.  
+[00:01:12] But Kissinger also kept private diaries during his trip.  
+[00:01:17] They went much further than what he said on the record.  
+[00:01:20] In these, Kissinger called the Army reports useless, quote, eyewash, end quote,  
+[00:01:25] quote, and described firsthand the bureaucratic incompetence of the American mission.  
+[00:01:31] Kissinger returned to Vietnam in 1966 to find that.  
+[00:01:35] the situation had gotten even worse. Briefed by a Pentagon analyst, Daniel Ellsberg,  
+[00:01:42] Kissinger learned that the South Vietnamese were useless as a fighting force. Neither side in the  
+[00:01:47] war had achieved enough to claim victory or lost enough to admit defeat. But at the same time,  
+[00:01:55] during his trips, Kissinger became intoxicated by the wartime capital, Saigon. He could  
+[00:02:02] not ignore the historical stakes, the intrigue, the  
+[00:02:06] opportunity. Henry Kissinger, after all, had risen to prominence as a theoretician of the  
+[00:02:12] balance of power. He began to see the Vietnam War as one grand puzzle to be solved, and who better  
+[00:02:20] to solve it. This was years before Kissinger's own rise to power. There was no chance yet of him  
+[00:02:28] solving the Vietnam puzzle, but it was on his mind. On the last night of his 1965 visit to Vietnam,  
+[00:02:37] Kissinger went clubbing with embassy staffers in Saigon to the noise of artillery shells exploding in the distance.  
+[00:02:44] Calling it an absurd situation, Kissinger confided in his diary, quote,  
+[00:02:51] If I were a dictator here, I would not know where to begin.  
+[00:03:21] Welcome to Blowback. I'm Brendan James.  
+[00:03:24] I'm Noah Colwin.  
+[00:03:25] And this is Season 5, Episode 3, Listen to the Thunder.  
+[00:03:31] Last time, we toured French into China, a collection of kingdoms in Southeast Asia that formed  
+[00:03:36] the crown jewel of France's empire.  
+[00:03:40] While Ho Chi Minh led his forces against the French in Vietnam, over in Cambodia, the young  
+[00:03:46] King Sianuk maneuvered between the French authorities and increasingly restless nationalists  
+[00:03:52] at home. After the Vietnamese victory at DNBN Fu, the Geneva Conference of 1954 picked  
+[00:03:59] winners and losers. Vietnam was split in two, with a popular communist government  
+[00:04:04] in the north and an American-backed military government in the south. But what lies ahead? How and why  
+[00:04:12] did the United States keep escalating things in Indochina? When war breaks out, how can Cambodia  
+[00:04:20] avoid being sucked into this violence? Can Sianuk pull off another diplomatic magic trick?  
+[00:04:27] And what about his communist rivals?  
+[00:04:29] Driven into the jungles by state repression and whom the king has scornfully nicknamed the Khmer Rouge.  
+[00:04:37] You know the sound of thunder, don't you, Mrs. Garrett?  
+[00:04:47] Can you imagine that sound if I ask you to?  
+[00:04:51] I can, Mr. Jacob.  
+[00:04:54] Your husband and me had this talk, and I told him to head home to avoid a dark result.  
+[00:05:03] But I didn't say it in thunder.  
+[00:05:07] Ma'am, listen to the thunder.  
+[00:05:32] In the early afternoon, March 2nd, 1955, Cambodian radio broadcast a pre-recorded statement from King Sianuk that left listeners dumbstruck, including American embassy officials.  
+[00:05:52] Sianuk was abdicating the throne.  
+[00:05:54] The abdication of a king in favor of his son is a rare event in any dynasty. But in Cambodia,  
+[00:06:03] Prince Sianuk, who succeeded his grandfather, has transferred the crown to his father,  
+[00:06:08] King Sotomarit. The prince will now be more able to play a part in the political life of the country.  
+[00:06:14] Facing nationalists on the right and socialists on the left, Sianuk realized he could rule more  
+[00:06:20] effectively as a politician than a king. And so he abdicated the throne and created his own political  
+[00:06:28] party, the Sankum. It was a master stroke.  
+[00:06:32] Quote, quote, to conservative Cambodians, he was still the god king, writes scholars, Grant Evans, and Kelvin Raleigh.  
+[00:06:40] To radical Cambodians, he was the Democrat who had won independence and given up the throne.  
+[00:06:47] After turning Cambodia into a kingdom without a king, Sianuk left his country's politics on autopilot.  
+[00:06:55] Cambodia, writes Shawcross, quote, remained a feudal kingdom in which various barons, warlords, and landowners  
+[00:07:02] ruled in their own fiefdoms, paying Sianuk varying tributes in recognition.  
+[00:07:07] Sianuk's political organization, the Sankum, was little more than a loose coalition of powerful  
+[00:07:14] families and cliques of different ideologies, which remained subservient to Sionuk.  
+[00:07:20] The prince, he was back to being a prince, did make some attempts to improve and modernize his  
+[00:07:26] country.  
+[00:07:28] While this period is remembered as the golden age by some, one younger,  
+[00:07:32] person whom we talked to in Cambodia had always been told that, quote, everything was perfect.  
+[00:07:37] Historian Michael Vickery writes that the rise of an urban middle class inevitably exacerbated  
+[00:07:43] problems in the deeply antiquated agricultural economy of the countryside. Cianu created a contradictory,  
+[00:07:51] if not irrational, political society for people, reports Becker. The prince claimed Cambodia  
+[00:07:57] Cambodia was a democracy, but he ruled it as a medieval monarch, not as a politician.  
+[00:08:01] Peasants voted for his party because he was a god king and a charismatic medieval ruler.  
+[00:08:08] Sianuk's socialism was an updated version of a royal welfare system.  
+[00:08:12] He used a pseudo-Marxist vocabulary to condemn capitalism when he was really condemning  
+[00:08:18] modernity, to promote socialism when he meant noblesseblege, and in foreign affairs, he spoke  
+[00:08:24] as an anti-American ruler, promoting stronger ties with his communist neighbors, when,  
+[00:08:29] at the same time, he boasted that he was the most.  
+[00:08:32] effective anti-communist in the world, end quote.  
+[00:08:36] Accompanying all of this was a so-called cult of personality equaled to anything in the communist  
+[00:08:42] world. The prince was not just the father of the nation, but also its composer, filmmaker,  
+[00:08:49] and dramatist. Quote, by the mid-1960s, adds author Philip Short,  
+[00:08:55] Sianook's photograph was on every page of every Cambodian newspaper, accompanied by article  
+[00:09:02] of nauseating servility.  
+[00:09:10] Initially, the Americans had been impressed with Sionuk.  
+[00:09:14] But a few months after Geneva, the prince made it clear he was not going to fit into their plans  
+[00:09:19] for Southeast Asia.  
+[00:09:21] At the Bandung Conference of Asian-African states in Indonesia, he publicly affirmed his  
+[00:09:27] commitment to a neutral position in the Cold War.  
+[00:09:30] He also met with Chinese Prime Minister Joe and Lai, beginning a decade's long friendship.  
+[00:09:35] Soon, the Americans insisted that Sianuk join SETO, the new Southeast Asia Treaty  
+[00:09:43] Organization, basically a NATO for Asia, and Sianuk refused.  
+[00:09:50] The American response, quote, was not pursued subtly, writes reporter William Shawcross.  
+[00:09:57] American-affiliated governments surrounding Cambodia began to nibble at its flanks.  
+[00:10:03] Quote, after Sianuk attacked Sito, his army  
+[00:10:05] suddenly had to cope with a number of incidents on the Thai border.  
+[00:10:09] The South Vietnamese Air Force began to violate Cambodian airspace.  
+[00:10:14] Cambodian fishing boats were harassed when both the Thais and Vietnamese closed their  
+[00:10:18] Cambodian frontiers, and supply convoys up the Mekong, the country's main artery, were stopped in  
+[00:10:25] South Vietnam, end quote.  
+[00:10:28] But Sianuk's success in keeping power, as well as his almost braggadocious Cold War  
+[00:10:33] neutralism, left some with a sour-hut.  
+[00:10:36] taste. No less than Alan Dulles, director of the CIA, felt this way.  
+[00:10:42] Dulles met with Cambodia's leader in September 1956, finding the prince, quote,  
+[00:10:48] overconfident of his ability of dealing with communist subversive tactics.  
+[00:10:53] Another high-ranking American had also by now registered his dissatisfaction with the prince,  
+[00:10:59] Vice President Richard Nixon, who visited Cambodia a few years earlier and recalled that he  
+[00:11:05] found Siyanuk vain and flighty, and he appeared to me to be totally unrealistic about the  
+[00:11:11] problems his country faced, end quote.  
+[00:11:15] The prince, however, may have been more realistic than most about the fragility of Geneva's  
+[00:11:22] House of Cards in Indochina.  
+[00:11:24] In 1954, the Geneva Conference decided that fate. In a compromised decision, the Conference  
+[00:11:34] divided Vietnam into two parts. In the North.  
+[00:11:37] It conceded beat Min-Communist control.  
+[00:11:41] In the South, it provided for free elections, for the free people who rejected communism.  
+[00:11:49] If Phnom Penh could see the coming collapse of the Geneva settlement,  
+[00:11:53] Hanoi was already waiting through the wreckage.  
+[00:11:57] Up until about 1960, right, Evans and Rowley,  
+[00:12:01] quote, the leadership in Hanoi had looked to peaceful methods of reunification with the South,  
+[00:12:06] but they were spurned,  
+[00:12:08] by the government in Saigon.  
+[00:12:10] The initial problem following the French defeat in Vietnam, or the August Revolution,  
+[00:12:16] as it was called in the North, was not how to reclaim the South, but simply how to feed the people.  
+[00:12:23] Traditionally, writes historian Mark Lawrence,  
+[00:12:25] Northern Vietnam had relied on food from the more productive South to make up for local shortfalls.  
+[00:12:31] But after the Geneva Agreement, the government in Saigon blocked economic exchange between the two zones.  
+[00:12:38] and famine soon loomed in the north.  
+[00:12:41] Making things worse was the flight of the middle classes and the loss of the skills that they took with them.  
+[00:12:48] Industrial activity ground almost to a standstill, notes Lawrence.  
+[00:12:52] So Hanoi, quote, attempted to reassure segments of the population that had often backed to the French,  
+[00:12:58] landowners, the urban middle class, and the Catholics,  
+[00:13:01] by proclaiming its respect for private property and religious freedom, end quote.  
+[00:13:05] Now, this more moderate line clashed with the most radical campaign of Vietnam's Communist Party,  
+[00:13:12] a major land reform policy to abolish landlordism and to give productive land to the masses.  
+[00:13:19] Despite the violence that this entailed, which caused around 1 million mostly middle class and Catholic people to leave for the South,  
+[00:13:27] the land reform in the North was successful in its general aim.  
+[00:13:31] Ordinary people now owned about the same amount of productive land.  
+[00:13:35] as one another.  
+[00:13:37] All of this meant that, far from adopting a militant stance toward the South,  
+[00:13:43] the Communist North was much more focused on getting its own house in order.  
+[00:13:47] But as the 1950s wore on, more leaders in Hanoi began to feel that their problems  
+[00:13:53] could only be solved by confronting the aggressive U.S.-backed government in Saigon.  
+[00:14:01] What then was going on in the South?  
+[00:14:09] In one sense,  
+[00:14:10] chaos.  
+[00:14:12] Quote, armed religious groups dominated the Mekong Delta, writes Lawrence,  
+[00:14:16] and a crime syndicate controlled much of Saigon,  
+[00:14:19] and the French army, whose forces had all moved south after Geneva,  
+[00:14:24] continued to wield considerable power.  
+[00:14:27] But in another sense, things were going to plan,  
+[00:14:31] because all of this suited the United States just fine.  
+[00:14:35] As a young Senator Kennedy of Massachusetts would say, in 1956,  
+[00:14:40] quote,  
+[00:14:41] represents the cornerstone of the free world in Southeast Asia, the keystone to the arch,  
+[00:14:47] the finger in the dike, end quote.  
+[00:14:51] And so Vietnam's fate was too important to be left to Vietnam.  
+[00:14:56] After all, most could foresee that nationwide elections, required by the Geneva Conference,  
+[00:15:03] would reunite the north and south in a communist victory.  
+[00:15:07] No less than President Eisenhower later wrote that  
+[00:15:12] quote, possibly 80% of the population would have voted for Ho Chi Minh.  
+[00:15:18] And so, against the arrangements of Geneva,  
+[00:15:21] the U.S. forged Saigon into an aggressive and militant anti-communist police state.  
+[00:15:28] At its head was No Din Ziem, usually pronounced in English as Diem,  
+[00:15:34] a right-wing nationalist who opposed both the foreign rule of France  
+[00:15:38] and the godless socialism of the Vietnamese revolutionaries.  
+[00:15:42] In partnership with the West, whom he more than occasionally frustrated,  
+[00:15:48] Diem would attack his countrymen to the North,  
+[00:15:50] rig his own government's elections,  
+[00:15:53] and, in so doing, sabotage the plan for uniting Vietnam.  
+[00:15:59] Quote, the Eisenhower administration was determined to avoid a vote.  
+[00:16:04] The Diem government bluntly rebuffed Hanoi's requests  
+[00:16:07] that North and South discussed procedures for the elections.  
+[00:16:11] The reality of the situation  
+[00:16:13] was by now evident to Washington, Saigon, and increasingly, Hanoi.  
+[00:16:19] Beijing lay in the cut.  
+[00:16:22] China was eager to avoid a major conflict with the United States,  
+[00:16:25] but it was also optimistic that Vietnam would be a thorn in the American side.  
+[00:16:31] Moscow, even more conflict-diverse than China,  
+[00:16:35] quietly mourned the Geneva settlement.  
+[00:16:37] In the White House, there was a different atmosphere.  
+[00:16:42] In the summer of 1957, in the state of the state of the state of the state of the state of the state of  
+[00:16:45] state dining room, President Eisenhower raised a glass to Diem, calling him, quote,  
+[00:16:50] an example for people everywhere who hate tyranny and love freedom.  
+[00:16:55] Meanwhile, writes Lawrence, quote,  
+[00:16:57] over the next few years, the South Vietnamese army and police arrested some 25,000 suspected  
+[00:17:04] subversives and sent them to detention camps, where many were tortured and executed.  
+[00:17:10] These efforts devastated the communist movement in South Vietnam, end quote.  
+[00:17:15] But still, the communist North did nothing.  
+[00:17:20] Quote, Hanoi clung to its policy of pursuing reunification through peaceful means  
+[00:17:25] and discouraged its southern comrades from fighting back against DeM's repression.  
+[00:17:31] What the future holds for Russia and China, no one knows.  
+[00:17:36] But millions of people everywhere are waiting to see and to learn who in the communist world is truly number one.  
+[00:17:43] The dragon or the bear.  
+[00:17:45] At this time, a split was a split was a moment.  
+[00:17:52] occurring not only between North and South Vietnam, but for those paying attention between  
+[00:17:58] the two largest communist powers in the world. Hanoi's reluctance to confront the South  
+[00:18:04] conveniently jived with a policy Nikita Khrushchev had recently declared from Moscow. Peaceful  
+[00:18:10] coexistence. In a world with nuclear weapons, and one where socialism was in many places  
+[00:18:17] making serious gains, writes Jeremy Friedman, Khrushchev dispensed with the traditional Leninist  
+[00:18:22] notion that war between capitalism and socialism was ultimately inevitable.  
+[00:18:28] This did not mean that the USSR would withdraw from the world. Soviet aid to developing countries  
+[00:18:34] would in fact triple by 1961. But the difference was that Soviet foreign policy was now  
+[00:18:41] less about backing up revolutionaries and more about helping states, doctrinaire Marxist or  
+[00:18:47] otherwise, develop their economies towards socialism.  
+[00:18:51] Khrushchev's new policy created tensions with the relatively young People's Republic  
+[00:18:57] of China. Beijing was not a member of the nuclear club, like America and the Soviet Union. It had  
+[00:19:03] just bloodied itself in Korea, and China's leaders saw no reason to concede peaceful coexistence  
+[00:19:10] to the Imperial West. Privately, writes Friedman, Beijing assessed that the Soviet Union  
+[00:19:17] was sacrificing revolution in the third world for stability.  
+[00:19:21] in Europe. The late 1950s saw the beginning of what is known as the Sino-Soviet split.  
+[00:19:29] The two communist powers were still perceived as moving in lockstep by the West, and China was  
+[00:19:36] still receiving hundreds of millions of dollars worth of Soviet aid. But a series of Chinese moves  
+[00:19:42] over Taiwan and the Korean War had revealed cracks in the relationship. Over the next decade,  
+[00:19:49] Vietnam revealed still more.  
+[00:19:52] This growing rift between the USSR and China will be a major factor in the wars to come  
+[00:19:58] over Laos, Vietnam, and Cambodia.  
+[00:20:03] During a trip to Hanoi in 1956, Soviet envoy Anastas Mikoyan nodded in approval  
+[00:20:10] at the North's commitment to peaceful coexistence, but a more militant set of leaders in Hanoi  
+[00:20:15] were gaining influence, chiefly, the soon-to-be new general secretary, Le Duan.  
+[00:20:22] After all,  
+[00:20:23] DEM's crackdowns against peasants and left-wingers had only increased.  
+[00:20:28] And, thanks to both Saigon and Washington, plans for nationwide elections were dead and buried.  
+[00:20:36] Hanoi further loosened the rains in December, writes Lawrence,  
+[00:20:40] authorizing Southerners to establish secret bases in remote areas and to assassinate South Vietnamese  
+[00:20:46] officials.  
+[00:20:48] Greater cooperation with forces in the South gave birth to what is known as the Ho Chi Minh Trail.  
+[00:20:54] A network of routes trickling down from Hanoi to provide equipment, aid, and soon manpower  
+[00:21:00] to their comrades fighting in the South.  
+[00:21:04] Elections had been nixed. Unification had been sabotaged.  
+[00:21:09] And so, by the Cambodian border in December of 1960, a crew of northern cadres, southern  
+[00:21:16] communists, and even non-communist anti-Diam forces founded the National Liberation Front,  
+[00:21:22] soon to be dubbed by its enemies as the Viet Cong.  
+[00:21:27] Within a year, Vietnam would explode into full-scale war.  
+[00:21:32] But the first Cold War crisis in Indochina would not come from Vietnam, but from Laos.  
+[00:21:40] The governments of Laos had always struggled to control the populations living in the country's swats of rugged mountains.  
+[00:21:53] What's more, at this time, Laos was a majority-minority country.  
+[00:21:58] Over half of the population was made up of national minorities rather than the Lao people.  
+[00:22:04] All this meant that Laos had a peculiar and delicate politics.  
+[00:22:09] The only games in town were the royalists, loyal to the ruling dynasty that Geneva left in place,  
+[00:22:15] and the communists' revolutionary spillover from Vietnam.  
+[00:22:19] After Geneva, Cambodia found its balance, while Vietnam began to splinter.  
+[00:22:26] What had happened in Laos?  
+[00:22:27] A fragile,  
+[00:22:28] coalition government, which excluded the communists, fell victim to a right-wing takeover,  
+[00:22:33] backed by the Americans. Why? Well, the U.S. wasn't simply fighting to avoid a communist louse.  
+[00:22:41] It was fighting to avoid even a neutral louse.  
+[00:22:45] During its first five years inside the country, writes scholar Alfred McCoy, the CIA maneuvered  
+[00:22:51] to keep both communists and neutralists out of power, using blatant bribes and electoralmen.  
+[00:22:58] populations. End quote.  
+[00:23:01] Eisenhower had briefed incoming President Kennedy that Laos was, quote, the key to the entire  
+[00:23:07] area of Southeast Asia. So in 1962, as things verged on civil war, the United States pumped money  
+[00:23:16] and material to the right-wingers, while Moscow and Hanoi funneled their own support to the left-wing group  
+[00:23:23] known as the Path at Lao. That summer, Kennedy met with Khrushchev to attempt to put a  
+[00:23:29] cork in the chaos. New Geneva settlement ordered hands-off Laos, but no one really  
+[00:23:38] took it seriously. Before long, the Americans noticed that Vietnamese guerrillas were slipping into the  
+[00:23:45] country, taking cover from the escalating civil war in Vietnam. Washington's solution to war was  
+[00:23:54] more of it. In the early 1960s, the White House went beyond mere subversion and began its own secret  
+[00:24:01] war in Laos. The U.S. recruited militiamen from national minorities, such as the Hmong  
+[00:24:08] and Thai peoples, and unleashed an air campaign that would last a decade and destroy hundreds  
+[00:24:15] of thousands of lives. In Cambodia, Sianuk was proving that his neutrality in the Cold War  
+[00:24:29] didn't make him any less of an anti-communist at home. His government barred known  
+[00:24:34] leftists from teaching, a campaign in which Salath Tsar's brother,  
+[00:24:39] was arrested, according to Elizabeth Becker.  
+[00:24:42] The government broke up strikes by electricians, water, and tobacco workers, and Sianuk  
+[00:24:48] derisively named the small but growing communist movement in Cambodia, the Khmer Rouge.  
+[00:24:55] Either despite or because of Sionuk's heavy hand, Cambodia's left wing was nowhere near  
+[00:25:02] as bold as in Laos or Vietnam. Nor was it backed by foreign powers. The Soviets,  
+[00:25:08] through an ambassador turned down the Khmer Communists' appeal for financial support,  
+[00:25:15] while Beijing had yet to pump its own aid into the region.  
+[00:25:19] During this holding pattern, one could find future leaders of the Khmer Rouge refining  
+[00:25:24] their ideas about revolution, socialism, and the future of Cambodia.  
+[00:25:30] The best example may be the thesis paper of Mr. Q Sampan, written in 1959 at the Sorbon, where  
+[00:25:37] he'd won a scholarship.  
+[00:25:39] and it's a thorough study of his country's economy and its exploitation.  
+[00:25:44] Though Sampan described Cambodia's cities as parasitic and recommended rejecting all-American aid,  
+[00:25:51] William Chaucross finds that the 28-year-old Khmer Rouge's thesis was essentially moderate.  
+[00:25:58] Quote, he did not recommend severing all ties and developing a siege economy.  
+[00:26:03] Rents should be reduced, money-lending suppressed, peasants must be encouraged to form cooperatives,  
+[00:26:09] But, he wrote, none of the proposed changes would be imposed by force.  
+[00:26:16] The next year, back in his home country, Sampan was riding his bike one day when,  
+[00:26:21] according to Elizabeth Becker, 10 men stopped him, dragged him off his bicycle, and beat him up.  
+[00:26:28] They photographed him and circulated the pictures around Phnom Penheng.  
+[00:26:32] The future Khmer Rouge Prime Minister was held without charge in jail for two months.  
+[00:26:38] This was the state of the Khmer people's  
+[00:26:40] Revolutionary Party in the early 1960s, whose first party Congress kicked off in an  
+[00:26:46] empty rail car.  
+[00:26:53] At the very moment that he was jailing demonstrators and breaking strikes, Prince Sianuk's foreign  
+[00:26:58] policy became more supportive of the global communist bloc.  
+[00:27:04] From Sionuk's perspective, writes Becker, South Vietnam's President Diem was proving to be  
+[00:27:09] an enemy, encouraging small border conflicts with Cambodia, which Sienuk saw as part of  
+[00:27:14] the American design to embroil Cambodia in the building war climate in South Vietnam.  
+[00:27:21] Sianuk shaped his anti-imperialist stance and lashed out against American attempts to dominate  
+[00:27:26] the world, even though he continued to accept American aid to finance his military and balance his  
+[00:27:33] budget.  
+[00:27:40] The new leader of North Vietnam in 1960, Le Duan, was initially encouraged by the Kennedy  
+[00:27:47] Khrushchev summit over Laos.  
+[00:27:50] He appears to have hoped the deal would convince U.S. leaders to negotiate a similar arrangement  
+[00:27:55] for Vietnam, writes Lawrence.  
+[00:27:58] But things went the opposite way.  
+[00:28:01] Hot off not only the Laos conference, but the Bay of Pigs, and unwilling to look weak,  
+[00:28:07] John F. Kennedy committed to escalation in Vietnam.  
+[00:28:11] But Kennedy drew the line at combat troops.  
+[00:28:15] Like his approach to Cuba, Kennedy was hoping to steer a middle course in Vietnam.  
+[00:28:21] That middle course, dubbed Project Beef Up, doubled U.S. military aid in Vietnam,  
+[00:28:28] and tripled the presence of so-called advisors,  
+[00:28:31] creating a sprawling American colony in Saigon.  
+[00:28:35] Quote, Kennedy also approved use of defolience, herbicides, and napalm against communist fighters  
+[00:28:40] and secretly permitted U.S. advisors to take a more active role in the fighting,  
+[00:28:46] writes Lawrence.  
+[00:28:47] Using helicopters and armored vehicles supplied by Washington,  
+[00:28:50] South Vietnamese forces beat back attacks by the Viet Cong with new vigor, end quote.  
+[00:28:57] Diem's government partnered with U.S. military brass to execute the so-called Strategic Hamlets  
+[00:29:03] program, a vast campaign of forced resettlement for the peasants in South Vietnam.  
+[00:29:09] As the program ground on, tens of thousands of rural Vietnamese were forced to destroy  
+[00:29:15] their ancestral villages at gunpoint, only to move into shoddy new homes.  
+[00:29:20] surrounded by barbed wire.  
+[00:29:24] However brutal, all of this appeared to produce gains for South Vietnam, and therefore,  
+[00:29:30] U.S. policy.  
+[00:29:32] But neither the Americans nor Saigon had realized how effective the Ho Chi Minh Trail had already become.  
+[00:29:40] The communists shook the Americans from their delusions in January, 1963,  
+[00:29:46] near the village of Abbach, where the Viet Cong, armed with intelligence about an impending attack,  
+[00:29:51] perforated U.S. helicopters and smashed South Vietnamese units.  
+[00:29:57] Aupak was exactly what the communists needed, writes author Neil Sheehan,  
+[00:30:02] to infuse the building of a Viet Cong army with the patriotic emotion they'd aroused and poured  
+[00:30:07] into the creation of the original Viet Minh.  
+[00:30:11] Eventually, Diem's brother was caught opening secret channels with the North to reach a deal  
+[00:30:17] and cut out the meddling Kennedy White House.  
+[00:30:21] For its part,  
+[00:30:22] Illinois had so far avoided calling for Diem's overthrow.  
+[00:30:27] None of this was lost on the rest of the world, including Vietnam's former colonizer, France,  
+[00:30:33] whose president, Charles de Gaul, joined the USSR in calling for negotiations to end the war.  
+[00:30:41] The Americans cooked up a solution to handle both the brothers in Saigon and this ominous talk of peace.  
+[00:30:49] The regime of self-Fietnam's president, Nagoda den Diem.  
+[00:30:53] comes to an end in a wave of violence.  
+[00:30:55] A few days before the army revolt, these last pictures showed a man who seemed to have no premonition  
+[00:31:00] of the horrible death he was to meet.  
+[00:31:02] In early November, 1963, the U.S. supported a military coup in which President Diem.,  
+[00:31:10] once dubbed the Miracle Man in Vietnam by Life magazine, was unceremoniously shot at point-blank  
+[00:31:17] blank range and dumped into an unmarked grave.  
+[00:31:21] The well-laid army plot began quietly.  
+[00:31:23] during siesta time. News of the successful coup brought wild celebrations.  
+[00:31:30] Perhaps the grim trajectory of the war in Vietnam explains Kennedy's decision in October of  
+[00:31:36] 1963 to initiate secret withdrawals of U.S. troops from the country at years end, but 20 days  
+[00:31:44] after the CIA-backed Wanda killed Diem, John Kennedy, lay dead in the back of a Lincoln  
+[00:31:51] Continental in Dealey Plaza.  
+[00:31:53] Prince Sianuk had never much cared for Diem.  
+[00:32:05] But no one was more disgusted and alarmed by his assassination than Sianuk.  
+[00:32:10] He became, perhaps rightfully, more paranoid than ever.  
+[00:32:15] Quote, throughout the 60s, Sianuk's autocracy became increasingly unpredictable, writes  
+[00:32:21] Shawcross, and a trickle of young men and women, both on the right and the left, retired to Paris  
+[00:32:27] or faded into the forests to join either Sunday.  
+[00:32:31] Nyaq-den's Kamer nationalists, or the few communists who had remained after 1954.  
+[00:32:38] Cambodian politics were turned into a strange sort of merry-go-round.  
+[00:32:42] Quote, at first, the prince favored the right and persecuted the left, say Evans and Rowley.  
+[00:32:48] Then, in 1963, when Sionuk thought that the right was growing strong, he turned to the left.  
+[00:32:54] And then in 1966, just when the left appeared to be consolidating its position,  
+[00:32:59] Cianuk dropped it to reinstate the right once more.  
+[00:33:04] End quote.  
+[00:33:05] At one point, Sianuk personally backed several left-wingers for parliament, including Q Sampan.  
+[00:33:12] But problems kept coming.  
+[00:33:15] Student riots kicked up in the northwest, based on local grievances inflamed further by police brutality  
+[00:33:21] until young people were burning pictures of the beloved prince.  
+[00:33:26] This shocked Sionuk, no doubt, but the uprisings also caught the communists.  
+[00:33:30] by surprise. They hadn't organized any of it, but they would still pay the price.  
+[00:33:36] The government released a, quote, list of known enemies, including many leaders of the Khmer Rouge  
+[00:33:41] and their fellow travelers. They all figured it was time to get out of Dodge.  
+[00:33:47] Salath Sarr, a student in Paris only a few years earlier, had just recently been elected  
+[00:33:52] secretary of the party. He fled Phnom Penh as soon as the list was published.  
+[00:33:59] More than one escaping communist made their trip in the trunk of a car.  
+[00:34:04] Saar was soon followed by Yang Sari, who would one day become the Khmer Rouge's Minister of Foreign Affairs,  
+[00:34:11] and also Sonsen, who would become Minister of Defense.  
+[00:34:16] They trudged through jungles to a Viet Cong base in southern Vietnam.  
+[00:34:20] Here, the poorest border would allow the Khmer Rouge to regroup and train in guerrilla warfare.  
+[00:34:27] At 238 in the forward cabin of Air Force,  
+[00:34:30] Force won, a necessary ceremony.  
+[00:34:48] Like Harry Truman in Korea before him, Lyndon Johnson did not want to balloon the Vietnam War  
+[00:34:54] into a showdown with China or a nuclear crisis. But like Barack Obama in Afghanistan after him,  
+[00:35:03] Johnson felt that covert operations and air superiority could secure him a victory at low cost.  
+[00:35:11] But LBJ was still skeptical.  
+[00:35:13] Quote, there is surely no.  
+[00:35:15] parallel in modern history, writes historian Gareth Porter, to the 13 separate attempts  
+[00:35:21] by the national security bureaucracy over a 14-month period to get Johnson to authorize the use  
+[00:35:27] of military force against North Vietnam. And throughout this time, as Young puts it,  
+[00:35:34] Hanoi leaders, quote, actively sought openings for a negotiated settlement. This included  
+[00:35:40] accepting an indefinite separation of North and South Vietnam, provided that the  
+[00:35:45] U.S. withdraw its forces, but, quote, there was no response from the United States.  
+[00:35:52] Instead, American covert operations reached their zenith in the summer of 64.  
+[00:35:58] Take the best military men you have, though, just tell them, and I have, I've been watching listening  
+[00:36:04] these stories for 30 years for the Armed Services Committee, and we were always sure with an  
+[00:36:08] an day of two, we're not so damn sure, and then a day of two more, we were sure it wasn't, didn't happen  
+[00:36:12] at all.  
+[00:36:13] Yeah.  
+[00:36:13] On August 2nd, American and South Vietnamese forces conducted raids on islands off a Gulf  
+[00:36:20] in northern Vietnam, called Tonkin.  
+[00:36:24] On that day, August 2nd, the captain of a U.S. destroyer reported that he had been fired on  
+[00:36:29] by North Vietnamese patrol boats.  
+[00:36:32] Lyndon Johnson put down a red line.  
+[00:36:35] The U.S. would respond to any further attacks.  
+[00:36:39] In two days later, that is exactly what the 7th.  
+[00:36:43] fleet reported.  
+[00:36:45] But those reports of a subsequent attack, a crossing of the red line on August 4th, they were  
+[00:36:52] considered in real time to be unreliable and erroneous, especially by one Pentagon analyst  
+[00:36:58] who was on his first day at the job, named Daniel Ellsberg.  
+[00:37:03] Only days after the Gulf of Tonkin incident, secret tapes recorded at the White House  
+[00:37:09] at the time reveal that President Johnson himself doubted that  
+[00:37:14] any attack had occurred.  
+[00:37:16] And I just say that you want to be sure before you tell me that we were fired upon,  
+[00:37:21] that we were fired upon, because you just came in a few weeks ago and said that damn they  
+[00:37:25] launch an attack on us, they're firing on us.  
+[00:37:27] And we got through all the firing, which concluded maybe they hadn't fired at all.  
+[00:37:30] In the years since, figures ranging from Secretary of Defense McNamara to Vietnamese  
+[00:37:36] General von Wenzep, to the captain of the Maddox himself agreed that no Vietnamese  
+[00:37:44] attack occurred on August 4th.  
+[00:37:47] But, as Ellsberg puts it, that was not how things were moving in Washington that Tuesday afternoon.  
+[00:37:55] The president's men had met to select targets in the north and to work on the precise wording  
+[00:38:00] of the long-contemplated congressional resolution.  
+[00:38:04] A resolution would avoid the problem Harry Truman faced when he went to war in Korea  
+[00:38:09] without soliciting prior congressional approval, and it was certainly preferable to a declaration of  
+[00:38:15] provided one could have been passed, especially in an election year.  
+[00:38:20] On August 5th, the Gulf of Tonkin resolution was put before Congress,  
+[00:38:25] after LBJ had briefed some of the relevant congressmen behind closed doors.  
+[00:38:31] The bill passed.  
+[00:38:33] The story announced to the world was that, for the first time since World War II,  
+[00:38:38] U.S. Navy ships were being fired on by an enemy in quote-unquote peace time.  
+[00:38:46] My fellow Americans, as president and commander-in-chief, it is my duty to the American people  
+[00:38:55] that renewed hostile actions against United States ships on the high seas and the Gulf  
+[00:39:05] of Tonkin have today required me to order the military forces of the United States take action and reply.  
+[00:39:17] The events at Tonkin and the spin that surrounded them completely flipped the question of Vietnam  
+[00:39:23] in the minds of the American public, writes Lewis Harris, founder of the Harris  
+[00:39:29] Paul, quote, the plurality that had opposed carrying the war to North Vietnam,  
+[00:39:35] overnight became a two-to-one majority in support of all-out involvement, end quote.  
+[00:39:44] To Hanoi, the American escalations to exploit the confusion and spectacle of Tonkin was obvious.  
+[00:39:52] A few days after the past,  
+[00:39:53] of the Tonkin resolution, North Vietnamese premier Fam Van Dong, meeting with a Canadian  
+[00:39:59] intermediary, told him to tell the United States that North Vietnam was, quote, extremely  
+[00:40:05] angry and would fight a war if it came. To other leaders of the world, an Americanization of the war  
+[00:40:13] was obvious and preventable. French President Charles Agall, in fact, criticized Johnson  
+[00:40:20] and repeated the call for a neutral Vietnam, as had Pope Paul the 6th.  
+[00:40:25] But, United Nations leader Uthant, was told straight up that no peace moves would be made until after the American election.  
+[00:40:47] Back in Cambodia, as more Khmer communists fled Sianuk's repression,  
+[00:40:53] General Secretary Salath Saar and his comrades convinced their Vietnamese hosts to let them have their own separate base.  
+[00:41:02] known as Office 100.  
+[00:41:06] The independence of the Khmerz, reports journalist Philip Short, could also be seen in these early meetings,  
+[00:41:12] where they privately endorsed, quote, armed violence against Cianuk's government.  
+[00:41:17] And this was not the party line of their hosts.  
+[00:41:21] Quote, Hanoi's policy through the period was to cooperate with Sianuk, according to Shawcross,  
+[00:41:27] and the Vietnamese communists gave very little aid to their Cambodian comrades, end quote.  
+[00:41:33] Perhaps that is why another term written down in these early meetings of the Khmer Rouge was self-reliance.  
+[00:41:39] In the jungles along the Cambodia-Vietnam border, the moderate socialism of Q. Sampan's thesis evaporated.  
+[00:41:50] The ideology fermenting in the forests presented itself as orthodox Marxism-Leninism,  
+[00:41:55] but under the surface something different was going on.  
+[00:42:00] The Khmer Rouge borrowed much from Maoism, but took its emphasis.  
+[00:42:04] on revolutionary consciousness, mind over matter, to a new extreme. For example, China,  
+[00:42:11] Russia, and Vietnam had all faced the same puzzle, how to pilot a working-class revolution  
+[00:42:17] in a land that was populated mostly by peasant farmers. But increasingly, the Khmer Rouge  
+[00:42:24] seemed to deny a role for the working class altogether. Quote, the Cambodian party's  
+[00:42:30] inability to penetrate the country's nascent proletariat.  
+[00:42:34] right short, was to have far-reaching consequences.  
+[00:42:38] By 1965, they had decided that the factories had been infiltrated, and the workers transformed into  
+[00:42:44] enemy agents. From then on, factory workers were systematically refused admission to the party.  
+[00:42:51] End quote. This tendency raised eyebrows among the more orthodox Vietnamese.  
+[00:42:58] Still, at this stage, the Khmer guerrillas were attached at the hip to the Vietcom.  
+[00:43:03] They had no one else to count.  
+[00:43:05] The foreign ministries of the more conservative Soviet Union, as well as the increasingly  
+[00:43:10] radical People's Republic of China, continued to recognize and praise the government of everyone's  
+[00:43:16] favorite monarch, Prince Noradim Sianuk. By 1964, the prince had decided the North Vietnamese  
+[00:43:28] were going to win the war. Quote, Sianuk distrusted and disliked his Vietnamese neighbors,  
+[00:43:33] right, Shawcross. He recognized, however, the power of Hanoi.  
+[00:43:38] end quote.  
+[00:43:39] And despite his status as Mr. Neutral, Sianuk's country was, as Elizabeth Becker puts it, riveted to the war.  
+[00:43:48] Cianuk began looking the other way as Viet Cong units used parts of eastern Cambodia as temporary  
+[00:43:54] sanctuaries.  
+[00:43:55] The U.S. blockade of Vietnam also forced communists to find new supply routes, notes Chaucras.  
+[00:44:01] At China's urging, Phnom Penhengen sent supplies up to the Viet Cong encampments from the port city  
+[00:44:07] of Sianukville.  
+[00:44:10] Now that he had placed his bet on a northern victory,  
+[00:44:13] Sianuk broke off relations with Saigon.  
+[00:44:17] The fate of Vietnam, he said,  
+[00:44:20] appears to me to be sealed.  
+[00:44:27] Some Americans were already in agreement with the prince.  
+[00:44:31] In the words of a senior advisor to Lyndon Johnson in early 1965,  
+[00:44:37] things were coming apart in South Vietnam.  
+[00:44:41] On Christmas Eve,  
+[00:44:42] Just before the new year began, NLF guerrillas, Viet Cong, had blown up two Americans  
+[00:44:49] and dozens of South Vietnamese soldiers.  
+[00:44:52] And then, in early February, NLF forces attacked a helicopter base in the Central Highlands,  
+[00:44:58] killing seven and destroying ten aircraft outright.  
+[00:45:03] In March, the next U.S. escalation came in the form of a bombing campaign, Operation Rolling Thunder.  
+[00:45:12] South Vietnam's generals  
+[00:45:14] claimed, on paper, to have ten times the communist manpower.  
+[00:45:19] That had long been discredited.  
+[00:45:21] So the Americans ramped up their own presence.  
+[00:45:24] In summer of 65, Johnson announced his plans to send 50,000 more troops.  
+[00:45:30] The number of U.S. soldiers rose to 125,000.  
+[00:45:35] By the end of November, it rose to 200,000,  
+[00:45:39] with more approved to come, thanks to the widening of the draft back home.  
+[00:45:44] But Hanoi had mobilized hundreds of thousands of its own, and thousands of Chinese non-combat troops began arriving in North Vietnam in the late summer.  
+[00:45:54] Despite the free hand given by the Gulf of Tonkin Resolution, despite rolling thunder, despite cooperation from Saigon, the war refused to go America's way.  
+[00:46:07] Having run on a grand vision of social progress and economic prosperity, LBJ's commitment to Vietnam had  
+[00:46:15] already begun to crack up his political coalition. Only months after his landslide re-election,  
+[00:46:21] the first major peace protests in the U.S. broke out over opposition to rolling thunder.  
+[00:46:27] While the majority of Americans still voiced support for the Vietnam War, campus activists,  
+[00:46:33] of the group Students for a Democratic Society, organized the largest ever anti-war demonstration  
+[00:46:40] in Washington, D.C., drawing a crowd of 20,000 people.  
+[00:46:44] And with American involvement in Vietnam, only deepening in 1966, campus shutdowns  
+[00:46:51] appeared more and more, from New York City to Madison, Wisconsin, a new front in Linden's war.  
+[00:47:04] LBJ was not the only one trying to keep his coalition intact.  
+[00:47:09] When Cambodia's parliamentary elections rolled around in 1966, Sienuk chose not to pick the winners  
+[00:47:17] this time.  
+[00:47:18] It may be,  
+[00:47:19] writes Philip Short, that after ten years of hand-picked parliaments, which constantly failed  
+[00:47:24] his expectations, he wanted a change, and, in the absence of any better method, determined to let  
+[00:47:31] the dice fall where they may. If so, the results were not what he had hoped for, end quote.  
+[00:47:38] The parliament lurched the right. In October, it chose a prime minister in enigmatic right-wing  
+[00:47:45] general, Lonnall.  
+[00:47:48] A devout Buddhist, bordering on a misconduct.  
+[00:47:50] mystic, Lon Nall, was by all accounts, as deranged as he was ruthless.  
+[00:47:56] In true Khmer style, writes short, his home, a rambling estate on the road to the airport,  
+[00:48:02] was always full of relatives and hangers-on.  
+[00:48:06] He encouraged his troops to call him Black Papa to underline that he was a dark-skinned  
+[00:48:11] Khmer without foreign blood.  
+[00:48:14] He was openly racist against Cambodia's ethnic minorities and hated the Vietnamese in particular.  
+[00:48:20] He was erratic and superstitious, and Prince Sienuk had good reason to personally fear  
+[00:48:26] the man. A few years earlier, as defense minister, Lon Nal met with the U.S. military mission.  
+[00:48:33] He said he regretted his prince's anti-American stance and made it clear that, quote,  
+[00:48:39] There is a point beyond which the military will refuse to support the chief of state, end quote.  
+[00:48:48] This was the prince's new prime minister.  
+[00:48:52] From this point on, Sianuk began to withdraw from day-to-day leadership.  
+[00:48:58] His court took on a dreamlike state.  
+[00:49:00] The prince took refuge in amateur filmmaking, right short.  
+[00:49:04] He wrote, directed, and starred in a series of maudlin romances with his wife Monique as the  
+[00:49:09] leading lady, and sundry members of the government, including the chief of staff, and supporting roles.  
+[00:49:15] This fever dream was interrupted the next year when a massive peasant uprising broke out in the  
+[00:49:21] northwest province of Badenbong. People had apparently had enough of Launal's forces  
+[00:49:26] seizing their rice. Elizabeth Becker reports, in the early morning of April 2nd, 1967,  
+[00:49:33] two soldiers collecting rice were murdered. Cambodia's armed communist revolt had begun.  
+[00:49:41] Shawcross writes, quote, Sianuk ordered La Nal to liquidate the rioters. The deed was done  
+[00:49:46] bloodily. Villages were raised and peasants were clubbed to death. Hundreds fled to the  
+[00:49:51] Maki, the resistance, forever embittered, end quote.  
+[00:49:56] The remaining socialists in Sianuk's government, including Q Sampan, disappeared.  
+[00:50:02] For years, they were believed dead.  
+[00:50:05] It wasn't just domestic politics that were getting hairy.  
+[00:50:09] Quote, even more dangerous for Cambodia's political stability was the slow derailment  
+[00:50:14] of the prince's neutrality policy, right short.  
+[00:50:17] He writes, this is not entirely Sionuk's fault.  
+[00:50:21] It is hard to maintain a balance.  
+[00:50:22] between east and west, when the intelligence service of one side keeps trying to assassinate you  
+[00:50:27] for fear you might get too close to the other. In 66, Prince Sianuk had had had enough of U.S. shenanigans  
+[00:50:34] in his neighborhood. He renounced all U.S. aid, saying, look what happens when you put your trust  
+[00:50:42] in the free world. I'm an XI colonel with blood up to my armpits. Not personally. I never killed  
+[00:50:51] myself, but I managed wars that killed a lot of people.  
+[00:50:56] That was the voice in a BBC documentary of John Stockwell, a former CIA base chief in Vietnam.  
+[00:51:05] In 1967, the war in Vietnam was going no better, and by many measures worse than it had the year before.  
+[00:51:14] The post-DEM leadership in Saigon was hardly inspiring.  
+[00:51:18] Quote, the government and its allies manipulated the Constitution writing,  
+[00:51:22] process to assure that only staunch anti-communists could hold office, writes Lawrence.  
+[00:51:27] And then they rigged the elections held in September 1967. Despite widespread fraud,  
+[00:51:34] quote, the government's candidate for president, Nguyen Van Tew, won, with just 35 percent of the popular  
+[00:51:41] vote. As U.S. troop levels began to flatline or reduce, America relied even further on darker  
+[00:51:49] methods of prosecuting the war in Vietnam. The CIA-led Phoenix program was formally set up in  
+[00:51:57] 1967. This was a wide-reaching covert program using U.S. and mercenary forces to,  
+[00:52:04] quote-unquote, neutralize support for the enemy among the civilian population. Neutralize  
+[00:52:11] meant to kill, capture, or make defect. Quote, central to Phoenix, writes journalist Douglas Valentine,  
+[00:52:18] is the fact that it targeted civilians, not soldiers.  
+[00:52:23] South Vietnamese civilians, whose names appeared on blacklists, could be kidnapped,  
+[00:52:28] tortured, detained for two years without trial, or even murdered, simply on the word of an anonymous  
+[00:52:35] informer. At its height, Phoenix managers imposed quotas of 1,800 neutralizations per month.  
+[00:52:45] VCI, VICI, Viet Cong infrastructure, that is,  
+[00:52:48] civilians were brutally murdered along with their families or neighbors as a means of terrorizing  
+[00:52:55] the neighboring population into a state of submission, Valentine writes. Such horrendous acts were,  
+[00:53:02] for propaganda purposes, made to look as if they had been committed by the enemy, end quote.  
+[00:53:08] And the Phoenix program spread with the war itself across the border into Cambodia.  
+[00:53:16] Quote, a CIA commissioned project was charged.  
+[00:53:19] with the mission of organizing cross-border counterintelligence operations  
+[00:53:23] to find out who within the Cambodian government was helping the NVA and VC infiltrate and attack  
+[00:53:31] special forces, recon teams, and agent nets. One day, Fifth Special Forces Captain John McCarthy  
+[00:53:38] was sitting beside his principal agent, a Cambodian working for the operation, in the front  
+[00:53:44] seat of a car parked on a street in Tainin.  
+[00:53:49] double agent, the Cambodian was a member of the Camer Saray, a dissident Cambodian political  
+[00:53:55] party created by the CIA to overthrow Prince Sianuk. Without warning, McCarthy turned  
+[00:54:02] and put a bullet in between his informant's eyes.  
+[00:54:07] End quote. From a BBC documentary about the Phoenix program.  
+[00:54:14] When they tortured me, the Americans stood on one side and talked to my torturers. They used  
+[00:54:18] electric shock.  
+[00:54:20] When they turned it from one to a.  
+[00:54:21] We were still conscious, but felt pain.  
+[00:54:24] When they used nine, we became unconscious.  
+[00:54:27] Then they used a pair of pincers to pull my nails out and in, one nail at a time.  
+[00:54:33] I thought my fingers were going to drop off.  
+[00:54:36] In just three years, U.S. military spending had risen from $54 billion to $84 billion, reaching  
+[00:54:44] 9.4% of American GDP, a post-Korean War peak that has never been matched.  
+[00:54:51] This was good business for Boeing and Lockheed Martin, but it wasn't working for everyone  
+[00:54:56] back home.  
+[00:54:57] In August 1967, notes Marilyn Young, a 10% surcharge on individual and corporate taxes ended  
+[00:55:05] the illusion that the economy could painlessly supply both guns and butter, end quote.  
+[00:55:12] Although Johnson had passed his Great Society and the Civil Rights Act, and by now the Voting  
+[00:55:17] Rights Act, his administration was consumed by the war,  
+[00:55:20] and increasingly the backlash to it.  
+[00:55:25] Massive protests against the war continued, and new tactics like burning draft cards or targeting  
+[00:55:32] recruiters and war-friendly corporations such as Dow Chemical also became more common.  
+[00:55:41] In the South Vietnamese village of Tainin, we spoke to one Mr. Kna about what he remembers from  
+[00:55:48] this period of the American War.  
+[00:55:52] The time when Americans bombed this place was during Operation Junction City in the late  
+[00:55:57] 60s.  
+[00:55:58] They sprayed chemical defoliants in the Tainin forest.  
+[00:56:02] The chemicals destroy people's bodies.  
+[00:56:05] My nieces who are in Saigon, their father used to serve in the Revolution,  
+[00:56:11] and their mother as well.  
+[00:56:13] Their two daughters were hit with the chemicals.  
+[00:56:16] Now they are in their 30s or 40s, but only can roll around.  
+[00:56:21] In the early morning of January 31st,  
+[00:56:31] 1968,  
+[00:56:32] Viet Cong units, the length and breadth of South Vietnam surged into action.  
+[00:56:37] Then came the TED Offensive.  
+[00:56:41] In more than a hundred cities and towns,  
+[00:56:44] shock assaults by Viet Cong Sapper Commandos  
+[00:56:47] were followed by wave after wave of supporting troops.  
+[00:56:51] Support at home for the war  
+[00:56:53] fell from 50 to 33 percent.  
+[00:56:56] With our hopes and the world's hopes for peace and the balance every day,  
+[00:57:02] I do not believe that I should devote an hour or day of my time to any personal partisan causes.  
+[00:57:13] In late March, after a meeting with his most senior advisors, President Johnson announced  
+[00:57:18] he was not seeking re-election.  
+[00:57:21] I shall not seek.  
+[00:57:23] And I will not seek.  
+[00:57:25] And I will not accept the nomination of my party for another term as your president.  
+[00:57:32] A week later, Martin Luther King Jr. was assassinated.  
+[00:57:36] All over America, black ghettos exploded in rage and grief.  
+[00:57:40] Robert Kennedy spoke.  
+[00:57:43] For those of you who are racked,  
+[00:57:47] and are attempted to feel with hatred and distrust.  
+[00:57:52] I can also feel in my own heart, the same kind of feeling.  
+[00:57:57] Less than three months later,  
+[00:57:58] the anti-war Democratic candidate Bobby Kennedy was also assassinated.  
+[00:58:05] Members of the Youth International Party,  
+[00:58:10] yippies, they called themselves, converged on Chicago.  
+[00:58:13] They said they were there to protest the war, poverty, racism, and other social ills.  
+[00:58:19] Some of them were also determined to provoke a confrontation,  
+[00:58:23] to draw attention from the convention to the streets.  
+[00:58:26] That August, at the 1968  
+[00:58:29] Democratic Convention in Chicago, Vice President Hubert Humphrey was selected as the  
+[00:58:34] party's nominee, while protesters were assaulted by police outside the hall.  
+[00:58:39] Mayor Richard Daly vowed to keep it peaceful, even if it took force to keep the peace.  
+[00:58:45] He was backed by 12,000 police, 5,000 National Guardsmen, 7,500 regular army troops.  
+[00:58:53] Something else had happened back in March.  
+[00:58:57] In the village of Sondmi, near the South  
+[00:59:00] Central Coast of South Vietnam, U.S. forces carried out a massacre of over 500 South Vietnamese civilians.  
+[00:59:10] Mistakingly referred to as the Mili Massacre in the American Press,  
+[00:59:14] the killings took place across several hamlets in Sonmi Village.  
+[00:59:18] American infantry killed men, women, and children, raped women and children,  
+[00:59:25] and shoveled the dead bodies into ditches, or left them dead in the mud on the road.  
+[00:59:31] There was an attempt to stop the massacre, or in any case, rescue civilians from it,  
+[00:59:37] by the American officer Hugh Thompson Jr., whose crew ushered victims, some of whom were pretending to be dead,  
+[00:59:44] into his helicopter to escape.  
+[00:59:46] The U.S. military and its government would cover up the Song Mi Massacre.  
+[00:59:51] The American public and the world would not learn of the true events there until one year later.  
+[01:00:00] But the so-called Mili Massacre  
+[01:00:02] massacre was simply one piece of a larger picture.  
+[01:00:06] Journalist Nick Terse writes, of Operation Speedy Express, a program carried out by the  
+[01:00:14] Army's 9th Infantry Division in the Mekong Delta.  
+[01:00:18] A self-described grunt who participated in Speedy Express wrote a confidential letter to  
+[01:00:24] William Westmoreland, then Army Chief of Staff, saying that the 9th Division's atrocities in the  
+[01:00:29] campaign amounted to, quote,  
+[01:00:32] a mili each month for over a year.  
+[01:00:36] Westmoreland personally took action to quash an investigation into the large-scale atrocities  
+[01:00:41] described in the soldier's letter.  
+[01:00:44] Quote, a secret Pentagon investigation into Speedy Express remained classified for decades before  
+[01:00:51] I found it, buried in the National Archives.  
+[01:00:55] The military estimated that as many as 7,000 civilians were killed during the operation,  
+[01:01:01] end quote.  
+[01:01:03] Amilai each month.  
+[01:01:12] As the Americans beat back the Tet Offensive,  
+[01:01:16] Prince Sihanuk's earlier presciance on Vietnam gave way to short-sighted pragmatism.  
+[01:01:22] He appears to have been more impressed by the casualties the communists sustained  
+[01:01:26] than by the political impact in the U.S., right Shawcross.  
+[01:01:31] With perhaps more than a little prodding from his new right-wing prime minister, Lon Nahl,  
+[01:01:35] Sianuk completely reversed his bet on Hanoi,  
+[01:01:39] and said he would be open to represement with America,  
+[01:01:42] so long as they recognize Cambodia's borders.  
+[01:01:47] Because by now, it was not only the communists  
+[01:01:50] who romped across Cambodia's borders as they pleased,  
+[01:01:53] report Shawcross.  
+[01:01:54] Quote, the Americans conducted secret forays as well.  
+[01:01:58] In Vietnam, U.S. Special Forces and the CIA recruited mercenaries  
+[01:02:03] called civilian irregular defense groups from the mountain tribes people  
+[01:02:07] and from the Cambodians who had lived in the Mekong Delta.  
+[01:02:12] They were under the command of special forces.  
+[01:02:14] The U.S. was also working with the nationalist Sun Yuktan.  
+[01:02:19] This was officially denied.  
+[01:02:21] But in fact, whenever Tan wished to visit the mercenary camps spaced along the Cambodian border,  
+[01:02:27] he was flown there in an American helicopter.  
+[01:02:35] Meanwhile, the Vietnamese were dealing with one of the many shocks from the deepening Sino-Sovietz split.  
+[01:02:42] What had begun as a comradly dispute between the USSR and China,  
+[01:02:46] over different paths to socialism,  
+[01:02:49] had degenerated into border clashes and troop mobilizations.  
+[01:02:53] In the early 60s, Hanoi had been much closer with Beijing.  
+[01:02:58] The North Vietnamese had found more in common with the militant revolutionary Maoists  
+[01:03:03] than with Khrushchev's peaceful coexistence talk.  
+[01:03:07] But by the end of the decade,  
+[01:03:08] especially under the new leadership of Leonid Brezhnev and Alexei Kassigin,  
+[01:03:12] The USSR had proved more supportive of North Vietnam than anyone had expected.  
+[01:03:18] It supplied far more aid than anyone else, including the Chinese.  
+[01:03:22] Now the Vietnamese were catching flack from their Chinese allies  
+[01:03:26] who insisted the Vietnamese snub Moscow.  
+[01:03:31] Party leader Deng Xiaoping even threatened to withdraw Chinese support from Vietnam,  
+[01:03:35] writes Jeremy Friedman.  
+[01:03:37] Coupled with this was the advice, almost a demand,  
+[01:03:40] to reject peace negotiations with Washington.  
+[01:03:43] quote, the North Vietnamese in turn became ever more doubtful of the wisdom of the Chinese approach,  
+[01:03:50] especially because of their doubts of whose interests it was meant to serve.  
+[01:03:55] The time was, in fact, ripe for negotiations.  
+[01:03:59] That autumn, President Johnson's advisors prepared for peace talks with the communists  
+[01:04:04] to take place in Paris.  
+[01:04:08] But along came a spider.  
+[01:04:17] Quote,  
+[01:04:17] Of all the men running, Richard Nixon is the most dangerous to have his president.  
+[01:04:24] This is what Henry Kissinger is reported to have said before the 1968 Republican Convention.  
+[01:04:30] He knew of what he spoke, writes historian Greg Grandin.  
+[01:04:34] Kissinger had been responsible for digging up the quote-unquote shit files on Nixon  
+[01:04:39] for his candidate, Nelson Rockefeller.  
+[01:04:43] And as Kissinger had put it to someone else, Nixon, quote, doesn't deserve  
+[01:04:48] the right to rule.  
+[01:04:51] But sometime in September of that year, Kissinger sobered up.  
+[01:04:55] With his candidate out, he realized that his path to power lay with Team Nixon.  
+[01:05:01] He contrived a plan.  
+[01:05:03] Since he was by now, working as a consultant to the State Department,  
+[01:05:07] Kissinger called Nixon's team to let them know about the new peace talks going on in Paris.  
+[01:05:14] Discussions about a possible end to the war were picking up steam,  
+[01:05:18] far quicker than any before.  
+[01:05:21] Kissinger told the Nixon people that he was headed to Paris,  
+[01:05:25] and he offered to pass them information on the negotiation's progress behind Johnson's back.  
+[01:05:32] Richard Nixon had long favored escalation in Vietnam.  
+[01:05:37] William Shawcross scans the calendar.  
+[01:05:39] Quote, in 1954, he had advocated sending American troops and bombers to help the French.  
+[01:05:46] In 1962, he had encouraged Kennedy to help the French.  
+[01:05:49] to step up the bombing.  
+[01:05:50] In 1964, he had advised that the enemy be pursued into Laos and North Vietnam.  
+[01:05:56] In August 66, he had demanded that half a million American men be sent to Saigon.  
+[01:06:02] Just as Dean Rusk claimed that the war kept a billion Chinese armed with nuclear weapons at bay,  
+[01:06:08] so Nixon campaigned in New Hampshire in February 1968 on the grounds that the Vietnam  
+[01:06:14] effort was the quote, cork in the bottle of Chinese-execine.  
+[01:06:19] expansion in Asia.  
+[01:06:21] Now, with delicate peace talks underway and the offer from Henry Kissinger to spy on them,  
+[01:06:28] Nixon saw his chance to grip that cork, sabotage the Democrats, and win the White House all in  
+[01:06:35] one.  
+[01:06:36] After all, peace in Vietnam before the election would only hurt Nixon and help the Democrats.  
+[01:06:45] His campaign sent a message to South Vietnam and its new president, too.  
+[01:06:50] Hold on. Don't give in. Your real friends are coming. Meanwhile, Team Nixon received  
+[01:06:59] secret intel from Kissinger on the progress of the Paris peace talks, and he warned them of  
+[01:07:04] the possibility of a bombing halt before Election Day.  
+[01:07:08] But the key connection was DC socialite Anna Chenow.  
+[01:07:14] Cheneau was the Chinese-born widow of a World War II aviation hero. She was a Diane of a  
+[01:07:20] Diane of the anti-communist China lobby. She was a former ally of Chiang Sheck and one-time  
+[01:07:27] friend of John F. Kennedy. And by 1968, she was the chairwoman of Republican women for Nixon.  
+[01:07:35] Cheneau served as the hotline between the Republicans and South Vietnam's president,  
+[01:07:40] Nguyen Van Tew. Nixon campaign chairman John Mitchell was calling her daily in the lead-up to  
+[01:07:46] election day. And Nixon himself had been in touch with Chanoe early on.  
+[01:07:50] quote, according to her personal calendar, writes journalist Shane O'Sullivan.  
+[01:07:56] Shano introduced South Vietnam's ambassador to Nixon's people two weeks after Nixon announced  
+[01:08:02] his candidacy in New Hampshire.  
+[01:08:05] Now, both Shano and Kissinger were feeding what they were told in person back to Nixon's  
+[01:08:11] intelligence men.  
+[01:08:14] No less than President Chu told Shano himself, quote,  
+[01:08:17] I would much prefer to have the peace talks after your election.  
+[01:08:22] and Nixon couldn't have agreed more.  
+[01:08:25] Anna Cheneau was asked years later by the journalist Anthony Summers  
+[01:08:29] if her follow-up meetings with the White House were part of cutting a deal with President  
+[01:08:33] II.  
+[01:08:34] Cheneau nodded.  
+[01:08:35] Quote, they worked out this deal to win the campaign.  
+[01:08:40] Power over powers all reason.  
+[01:08:44] The plan unfolded like an intricate dance,  
+[01:08:47] albeit one with millions of lives at stake.  
+[01:08:50] According to Marilyn Young,  
+[01:08:52] President Two would  
+[01:08:53] deliberately mislead Johnson into believing all was well.  
+[01:08:57] In conversations with Vietnamese politicians, over phones he knew to be tapped by the CIA.  
+[01:09:03] President Hugh expressed his readiness to participate in the Paris talks.  
+[01:09:07] While for his part, Nixon magnanimously refrained from comment on Johnson's peace efforts,  
+[01:09:13] except to express hope for their progress.  
+[01:09:17] Theodore White, in his chronicle The Making of the President,  
+[01:09:21] writes that a little over a week before the 1968,  
+[01:09:24] election, quote, American negotiators in Paris had worked out a clean understanding with  
+[01:09:29] the enemy.  
+[01:09:30] On Halloween, 1968, Lyndon Johnson publicly announced the Paris negotiations and the bombing halt.  
+[01:09:39] The public reception to the peace developments was rapturous, writes White.  
+[01:09:44] And among the media, all concluded that peace was near.  
+[01:09:49] Could such a breakthrough put Democrat Hubert Humphrey over the edge?  
+[01:09:53] On November 1st, two spoiled the party.  
+[01:09:59] Speaking before the South Vietnamese National Assembly,  
+[01:10:02] two said that he was opposed to the peace talks unfolding in Paris.  
+[01:10:08] The Nixon-Shinoe conspiracy had won.  
+[01:10:23] Henry Kissinger had helped elect a man who had surreptitiously promised the South Vietnamese  
+[01:10:29] junta a better deal than they would get from the Democrats.  
+[01:10:34] Wright's journalist Christopher Hitchie.  
+[01:10:36] quote, this meant, in the words of a later Nixon slogan,  
+[01:10:42] Four more years.  
+[01:10:46] Four more years of an unwinnable, undeclared, and murderous war, which was to spread.  
+[01:10:54] End quote.  
+[01:10:56] And those four more years spelled the end for neutral Cambodia.

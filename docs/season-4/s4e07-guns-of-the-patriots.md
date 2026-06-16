@@ -1,0 +1,66 @@
+# Blowback S4E7 — "Guns of the Patriots"
+
+> 📄 **[Read the full transcript](transcripts/s4e07-guns-of-the-patriots.md)**
+
+
+> **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:05:00
+> **Thesis:** The fall of the Taliban (Oct–Dec 2001) — a CIA-led war won less by bombs than by **bribery** of the Northern Alliance and Taliban commanders; the war crimes it enabled (the Dasht-i-Leili container massacre); the installation of **Hamid Karzai** (whom the US nearly killed); bin Laden's escape at **Tora Bora**; and, at home, the post-9/11 overhaul of the national security state (the AUMF, the Patriot Act, assassination/rendition authority, and Cheney's decades-old "continuity of government" shadow plans).
+>
+> _Narration order; `[hh:mm:ss]` = audio jump point; real dates in **bold**. Speech-to-text slips corrected (Dostum ≈ "Dostam," Schroen ≈ "Shrohn," Tora Bora ≈ "Torabora")._
+
+## Cold open: the Kunduz airlift `[00:00:00]`
+- **Nov 15, 2001** — Pakistani planes flew into besieged Kunduz and evacuated up to 1,000 ISI officers, Taliban, and al-Qaeda personnel. Not Pakistan undermining the war — Seymour Hersh reported the **Bush administration approved** the "death convoy" airlift (Musharraf asked Bush; **Cheney took charge**, not telling State/Powell until after). The CIA didn't even monitor who got off the planes. `[00:00:00]`
+
+## "Where are the maps?" `[00:03:55]`
+- After 9/11 the FBI had evidence linking three hijackers to bin Laden's camps. Bush: "this was a war in which people were going to have to die… I was not a military tactician." Gen. **Tommy Franks** said a major assault would take months; **Rumsfeld**: "You don't have months." The Pentagon high command barely knew Afghanistan ("Where are the maps?"). The Taliban offered few targets — which is why Rumsfeld suggested bombing **Iraq** instead (better targets) and Wolfowitz pushed to pin 9/11 on Saddam (Bush: "That's not an issue for now"). A scrapped slide: "Thinking Outside the Box, Poisoning Food Supply." `[00:03:55]`
+
+## The CIA in the lead `[00:08:09]`
+- The plan (Tenet, **Cofer Black**): CIA paramilitary teams + the **Northern Alliance** + special forces + "tons of money" to buy the squabbling warlords. Black: "when we're through with them, they will have flies walking across their eyeballs" (becoming "the flies on the eyeballs guy"). Bush: "Whatever it takes." `[00:08:09]`
+- **Tenet's "We are at war"** `[00:11:01]`: on Sept 15 Tenet proposed armed Predator drones, sealing borders, pursuing al-Qaeda "in 92 countries"; his Sept 16 memo — "We are at war. There can be no bureaucratic impediments to success. All the rules have changed." Rumsfeld wanted a 21st-century war (a swipe at the uniformed planners) and "tighter control over public affairs… like a political campaign." Bush: "we'll just have to put some of the most sensitive stuff, not on paper." `[00:11:01]`
+
+## Assembling the coalition `[00:13:11]`
+- Bush's ultimatum to the Taliban ("not open to negotiation or discussion"). Powell built the coalition; Bush called Putin and others. Russia/NATO issued a joint statement; China was reluctant (worried about US troops near Xinjiang). **Uzbekistan** (north of Afghanistan) was the prize, with Putin playing conciliator (hosting Central Asian leaders Sept 17). Iran (via UK's Jack Straw) was amenable to destroying its enemy the Taliban (offering search-and-rescue, sealing its border). `[00:13:11]`
+- **The legal machinery** `[00:16:17]`: mid-Sept — the **AUMF** ("all the authority he needs"; Barbara Lee's lone dissent, Maxine Waters' reservations); a month later the **Patriot Act**. The CIA's counterterror center ballooned to ~2,000 staff. Bush's **Sept 17 memo** authorized a new covert action + billions in funding, plus (six days after 9/11) authorization for **targeted killings** — and kidnapping, rendition, detention, and soon torture. `[00:16:17]`
+
+## The Moscow deal `[00:19:50]`
+- Armitage and Black went to Moscow ("We're coming to Afghanistan… we want you to look away"; "We're going to put their heads on sticks"). A Russian official: "you're really going to get the hell kicked out of you." Bush–Putin (45 min): Putin offered search-and-rescue and no objection to a US role in Central Asia (a "significant concession" surprising Rice). The **Sept 22 deal**: in return Bush stopped criticizing Russia's **Chechnya** war, promised to consult Moscow on Central Asia, and to accelerate Russia's integration into Western economic institutions. `[00:19:50]`
+
+## The bags of cash `[00:22:19]`
+- **Sept 26** — the first CIA officers landed in the Panjshir Valley with "$10 million in boxed cash… handed out like candy on Halloween" (Sayyaf got $100,000). Bagman **Gary Schroen** (out of retirement for "one last job") carried $3M in $100 bills, laying $1M before Massoud's successor **Gen. Fahim** ("You have never seen anything like what we're going to deliver"). Black's order to Schroen: "Get bin Laden… I want his head in a box… to show the president" (Schroen requesting cardboard boxes, dry ice, and pikes). The cash let warlords build mansions, supply US bases, and play the drug/currency markets. `[00:22:19]`
+
+## Mullah Omar's choices `[00:27:03]`
+- Some Taliban (and the Council of Clerics) urged handing over bin Laden; the foreign minister met the CIA's Islamabad station chief about transferring him to a neutral country — but Washington demanded an *unconditional* handover, and Omar's ISI handlers urged him to resist. Omar, depressed and paranoid, slept in a bunker with a gas mask (a chemical-attack fear shared by millions of Americans amid the **anthrax** scare). Bush by October: "It's a broader war… If we don't get Osama, it doesn't mean it's a fail." `[00:27:03]`
+
+## K2 and the Central Asian bases `[00:29:02]`
+- Uzbekistan got ~$15M (eventually ~$300M+) for hosting the **K2** base (whose soil later allegedly poisoned 61+ US soldiers with cancer) — its intel services would help render and torture prisoners. Tajikistan, Kyrgyzstan, Kazakhstan, Turkmenistan followed suit. Rice realized too late no one had answered "Who will run Afghanistan?" `[00:29:02]`
+
+## The air war and the famine weapon `[00:31:32]`
+- **Oct 6, 2001** — Operation Enduring Freedom's air campaign began. The "best target" near Kabul turned out to be a *fertilizer plant*. Rumsfeld at the podium: "they're not a lot of high-value targets." The CIA was already rendering suspects to Egypt, Jordan, "African states where civil liberties and due process were not significant issues." Cheney wanted Bush out of the room when Tenet floated **starving the Taliban** ("Withdraw and get fed. If you don't withdraw, you don't get fed" — "abetting famine… organized starvation as a political tool"). Bombs hit Red Cross depots (twice); Rumsfeld blamed the Red Cross's coordinates. Bush to King Abdullah: "pretty soon, we'll have to start displaying scalps." `[00:31:32]`
+- **"Afghanistan is [running out of targets]"** `[00:37:09]`: three days in, Bush wanted 50 Predator drones. **Oct 26** Bush refused the Saudi crown prince's plea not to strike during **Ramadan** ("Tenet wanted to stand up and cheer"). Refugees fled by the tens of thousands. `[00:37:09]`
+
+## Continuity of Government `[00:40:00]`
+- **Oct 29** — a radiological-attack threat sent **Cheney** to "a secure, undisclosed location" ("This is about the Constitution"). This realized a decades-old obsession: the Reagan-era **Continuity of Government (COG)** program in which Cheney and Rumsfeld periodically vanished to bunkers — "not so much… continuity of government… but rather a plan to shift power to the executive branch" (it was decided it would be "easier to operate without Congress"). On 9/11 Cheney and Rumsfeld "both simultaneously absented themselves" for a conversation that remains unknown (Peter Dale Scott). COG elements surfaced in the war on terror: the Patriot Act, the NSA's mass interception (Bush: "Listen to every phone call"), DHS, and a literal **shadow government** of ~100 managers sent to live secretly outside Washington. `[00:40:00]`
+- **The first pitch** `[00:45:21]`: Oct 30 — Bush threw a World Series strike in a FDNY windbreaker; 15,000 fans imitated his thumbs-up. Karl Rove: "it's like being at a Nazi rally." But behind the scenes Bush felt he was fumbling — Cheney in hiding, bin Laden at large, the Taliban still in power. `[00:45:21]`
+
+## Dostum and Dasht-i-Leili `[00:46:48]`
+- **Gen. Abdul Rashid Dostum** (the side-switching, brutal Uzbek warlord — "no one except God up there and me down here will care about you") retook **Mazar-i-Sharif** on horseback (**Nov 9**) with US Special Forces ("the horse soldiers," later the film *12 Strong*) — then committed "the most outrageous and brutal human rights violation of the entire war." Surrendered Taliban were packed ~200 to a cargo container, locked in (survivors "licking the sweat off each other's bodies"); a declassified State Dept report estimated **1,500+** died on the journey (the **Dasht-i-Leili** massacre, confirmed by UN investigators at mass graves in 2002). No investigation — Dostum was on the CIA payroll; Wolfowitz: "we are not going to be going after him for that." Richard Perle: "we would much rather be aligned with Mother Teresa." `[00:46:48]`
+
+## Money wins the war `[00:51:09]`
+- Mazar's fall turned the tide. "The real undermining of the Taliban was caused by dollars, not bombs" (Rashid) — guided by MI6, the CIA bought "every Northern Alliance commander in sight" and then the Taliban commanders (Richard Clarke estimated ~$70M in bribes; thousands of Taliban switched sides — one holdout got a precision bomb outside his HQ, then accepted $40,000). **Kabul fell** ~Nov 13 with little fighting (the Taliban withdrawing to Kandahar). The Pentagon was bewildered: "Now we own the country. Before Christmas… that's kind of cool." The country was taken with only ~2,500 US troops. `[00:51:09]`
+
+## Picking Karzai `[00:54:14]`
+- At the **Bonn conference** (Taliban excluded), the US picked **Hamid Karzai** — diplomat James Dobbins wanted "a conciliator… an Afghan, but not an Islamic fundamentalist. A Pashtun, but… the Popalzai tribe rather than the Ghilzai" of the Taliban. Days before being made leader, Karzai's bunker near Kandahar **exploded** — a 2,000-lb US B-52 bomb that missed its target (killing 3 US soldiers and up to 50 Afghans; Karzai survived). `[00:54:14]`
+- **No reconciliation** `[00:57:07]`: the US refused any national reconciliation (unlike the Soviets/Najibullah), leaving out "the best organized and… still the most popular political movement" — even as many Taliban (reportedly including Mullah Omar) offered to surrender. Instead it vested vast presidential power in Karzai "with few checks or balances." A diplomat: building a strong central government "is 100 years, which we didn't have" (the hosts note Afghanistan *had* a stronger central government decades earlier — which America sabotaged). By December ~10,000 Taliban (20%) were dead, thousands captured; the rest melted into the villages or fled to Pakistan "only to return later." `[00:57:07]`
+- **The cost** `[00:59:42]`: 75% of Kabul rubble; 4,000–8,000 direct civilian casualties plus up to 20,000 indirect deaths (drought, hunger, displacement). The US media touted the "wave of the future" (laser bombs, drones, A-teams). Malalai Joya: "we do not have a government yet. And when we have the government, we will be watching." `[00:59:42]`
+
+## Tora Bora `[01:00:51]`
+- **Late Nov–Dec 2001** — the hunt for bin Laden focused on **Tora Bora** (a Soviet/mujahideen-era cave complex near Pakistan). Fearing his escape over the unguarded border, CIA and Delta commanders pleaded for reinforcements — **Rumsfeld and Franks refused** (a major's lament: "I always wonder what would have happened… which never happened"). ~700,000 lbs of explosives dropped over four days — **bin Laden and senior al-Qaeda got away** (he later bragged of having been there). Cofer Black never got the head in a box; Franks and Rumsfeld later spread "dubious talking points" denying bin Laden had even been at Tora Bora. `[01:00:51]`
+- **Coda** `[01:04:14]`: Jan 2002 — Woodward asked Rumsfeld about his post-9/11 suggestion to bomb Iraq; Rumsfeld "exploded," demanded it struck from the record ("I didn't say that"), and was placated by the offer of an "18-and-a-half-second gap" in the tape (a Watergate echo): "Now you're talking." `[01:04:14]`
+
+## Sources cited for this episode
+_From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
+- **The war & the fall of the Taliban:** Bob Woodward, *Bush at War*; Steve Coll, *Directorate S* (2018); Sean Naylor, *Relentless Strike* (2015); Craig Whitlock, *The Afghanistan Papers*; Ahmed Rashid, *Descent into Chaos*; Anand Gopal, *No Good Men Among the Living*.
+- **Dasht-i-Leili:** John Barry/Newsweek ("The Death Convoy of Afghanistan"); the FOIA documents; Carlotta Gall and James Risen/NYT; AAAS satellite imagery (2009).
+- **The national security state & COG:** James Mann, *Rise of the Vulcans* (2004); Peter Dale Scott, *The Road to 9/11*; the Washington Post "shadow government" reporting (2001).
+- **Memoirs:** George Tenet, *At the Center of the Storm* (2007); Pervez Musharraf, *In the Line of Fire* (2006).
+- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

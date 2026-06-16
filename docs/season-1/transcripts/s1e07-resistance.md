@@ -1,0 +1,747 @@
+# S1E7 — #Resistance — Transcript
+
+[← Back to episode notes](../s1e07-resistance.md)
+
+[00:00:00] The little serpent has left, and the great serpent has come.  
+[00:00:06] The big serpent was Saddam Hussein and the Americans are the small serpent?  
+[00:00:11] It is the opposite, my friend.  
+[00:00:13] The Americans are the big serpent.  
+[00:00:15] The Americans got rid of your enemy.  
+[00:00:17] Saddam Hussein isn't the enemy of your enemy, your friend?  
+[00:00:22] Just because we're rid of Saddam and the evil bathists  
+[00:00:25] doesn't mean the occupation is a good thing.  
+[00:00:27] Our salvation from Saddam was only with the great...  
+[00:00:30] race of God.  
+[00:00:33] All praises to Allah.  
+[00:00:35] He works in mysterious ways.  
+[00:00:54] Welcome to Blowback, a podcast about the Iraq War.  
+[00:01:02] I'm Noah Colwyn.  
+[00:01:03] I'm Brendan James.  
+[00:01:04] And this is episode seven, hashtag resistance.  
+[00:01:07] This episode today is mostly going to be about the end of 2003 into 2004.  
+[00:01:12] Last episode, episode six, we talked about the first year of the American occupation  
+[00:01:18] through the lens of the coalition provisional authority, the CPA, and policies like debatification.  
+[00:01:25] And today, we're going to talk about what all of that provoked and what evil and ugly shit we resorted to.  
+[00:01:31] The first part of today's episode is going to be about a really important opponent of the American occupation,  
+[00:01:36] the Shia leader, Mukta al-Sadar.  
+[00:01:38] And the second part's going to be about the rise of the Sunni insurgency and some of the myths that  
+[00:01:42] the Americans created to deal with it.  
+[00:01:43] And the last part of today's episode will be about Abu Ghraib and the revelations about the horrible things we did.  
+[00:01:48] there. The people of Majas swiftly replaced the picture of Saddam Hussein with a man he killed,  
+[00:02:02] their hero Ayatollah Sadar. When the British arrived, they were pleased. But what they told us  
+[00:02:08] today suggests the grievances have overcome their gratitude. And local men killed and injured the British troops.  
+[00:02:15] Something that we've talked about at a few different points on the show is that under Saddam Hussein and  
+[00:02:19] the Baathas party's rule, the Iraqi government was run by Sunni Muslims. The thing is, Sunni Muslims only account  
+[00:02:26] for one-third of Iraq's Muslim population. The remaining two-thirds are Shia.  
+[00:02:30] This is pretty exceptional among Muslim nations as something like 85 to 90% of the world's Muslims  
+[00:02:36] are Sunni. So that there are a lot of Shia Muslims in Iraq makes a lot of sense because Ali,  
+[00:02:42] whom Shia Muslims believe to be Muhammad's rightful successor, he's buried in Iraq in the city of Kufa,  
+[00:02:49] which is very close to the city of Najaf, which is like the spiritual stronghold of Shia Muslims.  
+[00:02:54] Under Saddam, Shia Muslims, Shia Muslims were kept.  
+[00:02:56] under a very tight leash, as the Baathas party and Saddam were part of the country's Sunni minority.  
+[00:03:02] Shia Muslims were not allowed to make religious pilgrimages, even within Iraq, to their holy  
+[00:03:07] sites. And most public religious stuff in general was out of the question. Influential Shia  
+[00:03:12] religious clerics were, they weren't, you know, killed off by Saddam. They were kept under very strict  
+[00:03:17] control as part of the delicate balancing act that Saddam maintained in order to keep control of the  
+[00:03:22] country. So when American soldiers rolled into Iraq in 2003, uh,  
+[00:03:26] They didn't really quite know what to expect in part because they weren't prepared, because as we've discussed at length on the show,  
+[00:03:33] we didn't know shit about shit when we invaded the country.  
+[00:03:35] Correct.  
+[00:03:36] But there was something new that they saw that they didn't really expect unseen.  
+[00:03:40] So with Saddam Hussein gone, Shiite Muslims in Iraq were able to be publicly Shia.  
+[00:03:45] And naturally, the Americans understood that if they were going to form a government, a specific subject that we're going to get to later on,  
+[00:03:51] the Shia Muslims were probably going to comprise the majority of,  
+[00:03:56] of that government, even if they were sharing power with the Sunnis. So in those early days after the  
+[00:04:01] invasion, when Jay Garner and Paul Bremer and the CPA were just sort of getting their bearings,  
+[00:04:07] it was actually the Shia religious networks that had been mostly underground during Saddam's time  
+[00:04:12] that really came out. And they weren't initially hostile to the Americans so much as they saw  
+[00:04:17] very quickly how everything was crumbling. For example, the looting that we discussed, that was happening  
+[00:04:22] on the ground, like immediately after the invasion. It was actually shit.  
+[00:04:26] Shia clerics who organized a lot of the sort of de facto police squads and property recovery  
+[00:04:32] units, which were totally insubstantial, but the only gesture at actually, you know, keeping civil  
+[00:04:39] society together was coming from those elements.  
+[00:04:41] Yeah, well, Rumsfeld and the DoD. was saying, don't even bother intervening, let them do it.  
+[00:04:46] Exactly. On April 10th, 2003, so about three weeks after the invasion, an Ayatollah from a family  
+[00:04:53] of influential Shia clerics, was shot.  
+[00:04:56] stabbed and hacked to death by a mob in Najaf. This Ayatollahs was from the Al-Khoi family.  
+[00:05:02] He was, as Patrick Coburn described him in 2003, a popular liberal sort of Ayatola,  
+[00:05:09] somebody whom the Americans were actually pretty enthusiastic about working with, as evidenced  
+[00:05:12] by the fact that they let him into Iraq when they had not yet let in some of the...  
+[00:05:17] Our own guys. Yeah, some of our own guys. And so he had hit the ground and he was already working  
+[00:05:23] the streets, trying to, you know, bring factions to...  
+[00:05:26] together and see what they could build in this new post-Saddam reality.  
+[00:05:31] And according to journalist George Packer, who was a correspondent for the New Yorker,  
+[00:05:35] when Jay Garner's team got wind of how Al-Hoy was killed, he didn't actually, his team didn't  
+[00:05:40] give it a lot of attention. A general told Packer, oh, it's just them killing each other.  
+[00:05:44] This was, to put it mildly, the wrong read. The mob that killed El-Hoy was a group of men,  
+[00:05:49] loyal to a cleric from another influential religious family, a guy who wasn't even yet  
+[00:05:53] 30 years old and who, frankly, wasn't even on the Americans' race.  
+[00:05:56] radar. That guy's name was Muktada Al-Sutter. He's been in hiding for the past few weeks,  
+[00:06:02] evading U.S. forces who'd vowed to take him dead or alive. The Americans were puzzled by Al-Sauder.  
+[00:06:08] They didn't know much about him. The media and government officials described him as this  
+[00:06:12] mysterious shadowy cleric, and they knew that Saddam had killed his father and two brothers in 1999 after  
+[00:06:18] that pre-ashirable. Yeah, he came, he was almost like religious royalty in Iraq. He came from a family  
+[00:06:23] that was very well-established and very well-known, but he himself,  
+[00:06:26] was really just, I mean, he was sort of just a scrappy young upstart at the time.  
+[00:06:31] But the thing that was important was that he was the most important person who, from the moment  
+[00:06:36] that the American boots hit the ground, and even before then, was willing to tell the Americans  
+[00:06:40] to fuck off. Right.  
+[00:06:43] While Sotter's legitimacy, yeah, came from his father, who was a religious leader in command of what  
+[00:06:48] is called the Sotterist movement. Sotterism, while it has sort of deep theological convictions,  
+[00:06:53] it's not the same theological impulses that drive the, that drive the, that  
+[00:06:57] drive the Iranian government. Sotterism is more concerned with developing a society that has,  
+[00:07:02] you know, healthy Islamic norms. So they're, you know, pretty into women wearing the veil,  
+[00:07:07] things of that nature. But they're also much more concerned with, you know, what I think we would  
+[00:07:11] call in the United States, uh, our issues of social justice. Their base was primarily poor people.  
+[00:07:16] The Shia population in Iraq were the underclass. And even a movement that boiled up in religious  
+[00:07:22] terms would have to handle and be able to politicize, uh, their class.  
+[00:07:27] Right. And I think that the other part of this is that, you know, when you talk about, like, as you say, this kind of material situation,  
+[00:07:34] the reality was that there is the biggest, like, population center of Shia Muslims in Iraq was not in Najaf.  
+[00:07:40] It was not in these religious shrines or cities of those religious shrines.  
+[00:07:44] It was in Baghdad, in a slum of Baghdad previously called Saddam City, but which was soon rechristened after the American invasion, Sadr's city.  
+[00:07:53] I also like how there's a slum that's, you know, malnourished and everyone inside of it.  
+[00:07:57] desires to either move out of it or see their lot improved. And Saddam looks and that and goes,  
+[00:08:03] yeah, I'm going to call that Saddam City. And here you had two to two and a half million people  
+[00:08:08] living in about 20 square kilometers. It's the worst possible conditions you can imagine. And also,  
+[00:08:13] these are people who are uniquely positioned to bear the brunt of the American occupation, which is being  
+[00:08:18] run out of Baghdad. Yeah, I think we have to stress, you know, just how the Mahdi army earned its popular  
+[00:08:24] support. You know, in a country that had been reduced to rubble by the Americans,  
+[00:08:29] McTotter-Al-Sauder's outfits stepped up. I'm quoting from Anthony Shadid's book here,  
+[00:08:33] quote, the Madi Army returned stolen cars, set up checkpoints to prevent looting,  
+[00:08:38] helped deliver kerosene and flour, and even paid the salaries of workers for a while.  
+[00:08:44] Surrounded by young advisors, McTada said, quote, what I can do, I do.  
+[00:08:50] And that's what it's all about. That's what the FBI could never understand that will  
+[00:08:54] the organization does is offer protection for people who can't go to the cops.  
+[00:08:59] One of the ways that the American media tended to kind of obfuscate the nature of this  
+[00:09:03] and what solderism was from the outset was that, you know, they would do things like  
+[00:09:07] call solder city a suburb of Baghdad, which in a technical sense might be true. But the reality  
+[00:09:12] was that satirism wasn't some weird, strange theological force that the Americans didn't quite  
+[00:09:18] understand and was, you know, befuddling to them. It was actually that satirism was just the religious  
+[00:09:23] movement that did two things most successfully, which was one, advocate aggressively to get  
+[00:09:29] the Americans out, and articulate a vision of society that at least resembled something more equal  
+[00:09:35] than the way it was currently run.  
+[00:09:37] Give me a little bit of a portrait of El Soder here, because he's going to be so important,  
+[00:09:40] not only in this episode, but really for the rest of our conception of Iraqi politics.  
+[00:09:45] Like, what does he look like? What's his deal?  
+[00:09:46] Like, what's his vibe?  
+[00:09:47] Al Sada dresses in black. He dresses very simply.  
+[00:09:50] Cool.  
+[00:09:51] He speaks in kind of very strict.  
+[00:09:53] straightforward declarative sentences.  
+[00:09:55] Right.  
+[00:09:56] He's always presented himself as a modest kind of guy.  
+[00:10:00] And unlike a lot of other tribal leaders in Iraq, what you see is what you get.  
+[00:10:05] Right.  
+[00:10:06] In fact, the great irony of him is that for all of the confusion that Americans claim to have  
+[00:10:11] about Maktada al-Sadder and why they didn't anticipate him or understand him, well, he's actually  
+[00:10:17] a pretty straightforward guy.  
+[00:10:18] He was always telling us exactly what he was about.  
+[00:10:20] He was, there was never any sort of, I don't think any sort of grander.  
+[00:10:23] illusion that he was selling us on.  
+[00:10:26] Well, I wonder if part of that is simply the  
+[00:10:28] stubborn refusal of a dying empire  
+[00:10:32] to go. Well, the guy who's  
+[00:10:33] recruiting loads of supporters and becoming increasingly  
+[00:10:36] popular because he wants the Americans out and calls us  
+[00:10:39] the giant snake, he can't possibly, that can't  
+[00:10:42] really be why he's popular.  
+[00:10:43] That can't really be why.  
+[00:10:44] And so here's the thing is that it's because the Americans  
+[00:10:46] had this insane idea about what they were coming into  
+[00:10:49] in Iraq, like politically. And we've discussed about how  
+[00:10:52] the Chalabi intelligence gave them  
+[00:10:53] a skewed idea, how, like, Bremer and the CPAs just, like, constant bungling, like,  
+[00:10:58] didn't give, like, you know, that, like, prohibited them from coming to an honest  
+[00:11:02] conclusion about what the reality was.  
+[00:11:03] And part of it was also that, you know, when we talk about the effect of sanctions, there had been  
+[00:11:08] this idea that there was going to be this secular middle class in Iraq that America was going  
+[00:11:14] to come in and save, and that this secular middle class was going to be, like, Falkor from the  
+[00:11:18] never-ending story, and that we were going to ride it to, I really, I really,  
+[00:11:23] don't remember how that movie ends, but you get the idea.  
+[00:11:26] Well, it was never ending. It was the whole point.  
+[00:11:27] But so, like, we, we thought that the Iraqi middle class was going to be this, this sort of emancipating  
+[00:11:32] kind of force that the Americans would use to guide Iraq into its next phase.  
+[00:11:37] As we actively administered its destruction during the 1990s, we also thought by the time we  
+[00:11:42] invade, none of that would have, I don't know, counted or really happened, and we'd get there,  
+[00:11:47] and they would take control of all the engines of civil society and government.  
+[00:11:51] Right. And Patrick Coburn had a terrific line about  
+[00:11:53] this, which is that the new post-Sardom Iraq had no secular heroes. So as the U.S. was not  
+[00:12:01] recognizing what was happening before their eyes, they were assembling the feckless and corrupt  
+[00:12:05] Iraqi governing council. And this was in the mid part of 2003 shortly after the invasion.  
+[00:12:11] Yeah, we talked about it last episode. It was just sort of a collection of feuding politicians  
+[00:12:17] from Iraq that were really just a stalking horse for Paul Bremer. And part of one of the things that,  
+[00:12:21] you know, a great example of how the council and how Bremer  
+[00:12:24] and totally were misreading the political landscape was that they didn't offer an invitation  
+[00:12:30] to Al-Sauder. Now, Al-Sauder ended up benefiting from this domestically because as the  
+[00:12:36] occupation went on, his exclusion from this council was only a greater sign of his legitimacy.  
+[00:12:42] Right. He wasn't tainted by association with the occupation and the Americans.  
+[00:12:45] So initially, the Americans viewed Al-Sauder as kind of a popular thug. In fact, they looked at him  
+[00:12:51] as kind of like the wayward son of someone who they  
+[00:12:54] would have liked to have done business with. Kind of like Saddam, when you think about it.  
+[00:12:58] Sure.  
+[00:12:59] And they hadn't really counted on him coming around. So there's a quote that I want to read here that  
+[00:13:03] Ambassador Hume Heran, Bremer's liaison to the Shia, said of Sotter, quote,  
+[00:13:09] his father would be so distressed if he'd seen his son. How can you do an Eric Erickson on  
+[00:13:13] Maktada al-Sauder? Here's this unchurched son of one of the great churchmen who fills the role  
+[00:13:18] without any of the qualifications. What is he lashing out at? Is it his own sense of  
+[00:13:22] inadequacy that is being projected out?  
+[00:13:24] So the Americans thought he was a head case, and they thought that he was working against America  
+[00:13:29] because he had some daddy issues he was working through.  
+[00:13:32] Sure.  
+[00:13:32] When in reality, of course, as we just described...  
+[00:13:34] Look at the fucking president who's carrying out the Iraq war.  
+[00:13:36] Meanwhile...  
+[00:13:37] So, al-Sadder during this time, he goes to ground kind of a little bit.  
+[00:13:42] He goes to make a pilgrimage to Mecca, and on the way back, he stops by in Iran.  
+[00:13:48] And now this is where Americans would begin to start developing evidence that they  
+[00:13:52] they showed that al-Sadr was an Iranian puppet. This wasn't quite the case. As many of us,  
+[00:13:58] as many people learned when Qasem Soleimani was blown up by Donald Trump.  
+[00:14:05] Iran, over the last couple decades, has worked deciduously to build a kind of network of different  
+[00:14:11] organizations and pseudo governments and provisional governments that can, you know, work against  
+[00:14:18] American and Sunni Arab interests elsewhere in the Muslim world.  
+[00:14:22] Hezbollah is probably the most famous example of this and the most successful example of this.  
+[00:14:26] Well, al-Sadder made a similar kind of pitch for himself in Iran, and the Iranians bought it,  
+[00:14:34] and they went along with it, and they gave him the funding to create his own sort of,  
+[00:14:38] or to really grow his own militia and do what would become the Madi army.  
+[00:14:42] Now, Maktada al-Sadr was not the only beneficiary of the Iranian government and military's money and  
+[00:14:49] expertise. Other political parties, most importantly the Supreme Council of the Islamic Revolution  
+[00:14:55] of Iraq or Skiri, which we'll discuss further in later episodes. Skiri and other political parties  
+[00:15:02] and their affiliated sectarian Shia militias also benefited from the Iranian government's  
+[00:15:08] largesseller was still tight with Iran, and he remains tight with Iran. In fact, he's based there  
+[00:15:13] today. But just because Maktada al-Sadr seems heavily influenced by Iran, that doesn't mean that  
+[00:15:19] there's sort of a one-to-one relationship between his interests, the Iranian government's  
+[00:15:23] interest, and the interests of the satirist movement. In fact, I think the Madi army and its  
+[00:15:29] composition is a good example of this. The Madi army was not some conventional army, like the Iraqi  
+[00:15:35] army or the American army. It was a kind of mass movement slash army drawn from many, many  
+[00:15:43] Iraqis who were poor and unemployed. A militia, a popular militia. Correct. But it was huge.  
+[00:15:49] and well funded and it was developed the capacity to actually start picking fights with Americans.  
+[00:15:54] Thousands of men marching purposefully through the streets in unison, dressed from head to toe in black  
+[00:16:00] and chanting repeatedly. We are the army of Maktada. We are the Mahadi army. With most estimates putting  
+[00:16:10] the number of fighters in the tens of thousands. After Sutter comes back to Iraq in late 2003  
+[00:16:15] and the Madi army begins to coalesce. Something started happening in Iraq that was outside of the Shia  
+[00:16:20] Muslims control, but would ultimately put people like Sotter in direct conflict with the United  
+[00:16:26] States. So we'll get into this in the next part of the episode, but the gist of it is this.  
+[00:16:31] The American invasion of Iraq had the effect of radicalizing a ton of Sunni Muslims within Iraq,  
+[00:16:35] but also the countries surrounding it. And we're going to get into some of that radicalization within Iraq later.  
+[00:16:40] But the terrorists, too, knocked down the, you know, dominoes that began the process of us going  
+[00:16:45] into Iraq. And by dominoes, I mean the Twin Towers.  
+[00:16:49] That's not keeping that.  
+[00:16:50] that's funny.  
+[00:16:53] Those guys were Saudi Arabian.  
+[00:16:55] So a bunch of people from countries around Iraq, Egypt, Jordan, Saudi Arabia, began to make  
+[00:17:01] their way into Iraq.  
+[00:17:03] Extreme Wahhabists cut from the kind of extremist mold that you would later see in groups like ISIS.  
+[00:17:09] And in August 2003, they began setting off bombs.  
+[00:17:13] The suicide bombers were really mostly these foreign guys, according to Coburn and other officials  
+[00:17:24] who were studying the phenomenon at the time.  
+[00:17:26] Although they were sort of notionally tied to Abu Musab al-Zirqawi, the shadowy al-Qaeda figure  
+[00:17:32] in Iraq to whom the U.S. would describe all bad Sunni things.  
+[00:17:35] The guy that we actually used as part of the case to go in in in the first place because we  
+[00:17:39] erroneously said he was a friend of both Saddam and bin Laden.  
+[00:17:43] And we'll discuss him more a little bit after this.  
+[00:17:46] Those bombing sort of coalesced around the general jihadi radicalization that the  
+[00:17:51] American invasion had inspired and growing Sunni discontent within Iraq.  
+[00:17:56] at the American occupation.  
+[00:17:58] By the end of 2003, a couple hundred Iraqi civilians were killed by suicide bombs, and that toll would  
+[00:18:04] skyrocket throughout 2004 and even higher in the years after the fact.  
+[00:18:10] In March 2004, as the suicide bombing campaign from radical Sunni extremists was, like, you know,  
+[00:18:17] reaching higher and higher levels.  
+[00:18:19] We're now a year into the occupation as well.  
+[00:18:21] The suicide bombs struck one target on one day in particular that sort of changed the tenor.  
+[00:18:27] in terms of the Shia resistance.  
+[00:18:29] Suicide bombs targeted Shia observing a multi-day religious ritual in March 2004,  
+[00:18:35] killing more than 130 people in the cities of Baghdad and Karbala.  
+[00:18:39] And that same month, Paul Bremer was starting to feel particularly antsy about the rise of  
+[00:18:45] one Muqtada al-Sadder.  
+[00:18:46] The increasing belligerence of the Mahdi army, which was getting in progressively more confrontation  
+[00:18:51] with British, Spanish, and American troops all throughout Iraq, eventually,  
+[00:18:56] Paul Bremer and the CPA felt I have to do something about Al-Sadder.  
+[00:19:00] So in the days after the deaths of many dozens of mostly Shia Muslims,  
+[00:19:04] Paul Bremer had the bright idea to close down the Sadurist's newspaper in Baghdad for 60 days.  
+[00:19:10] Apparently, the article that really set Bremer off was one called, quote,  
+[00:19:15] Bremer follows in footsteps of Saddam.  
+[00:19:18] So obviously, in order to dispel that horrible notion, he shut down a newspaper in his new,  
+[00:19:23] dictatorial position.  
+[00:19:25] From Sadr's follow.  
+[00:19:29] words was immediate and violent.  
+[00:19:31] Didn't the Americans promise us freedom and democracy they asked?  
+[00:19:35] But he wanted to put Sotter in a timeout.  
+[00:19:38] Yes.  
+[00:19:39] He thought that he was going to give this, you know, stupid provincial thug, spanking.  
+[00:19:44] Yeah.  
+[00:19:44] And that wasn't what happened.  
+[00:19:47] In fact, everything snowballed from there.  
+[00:19:48] Tens of thousands of Iraqis took to the streets in Baghdad to protest Bremer's actions.  
+[00:19:52] And Bremer, confident that he had kept all solder in his place,  
+[00:19:55] actually focused his attention on fighting the Sunnis on the separate front in Western  
+[00:19:59] Iraq in Fallujah, which we'll get to later.  
+[00:20:01] This was a huge mistake.  
+[00:20:03] The Sadrists were then able to quite suddenly take control of huge chunks of southern Iraq.  
+[00:20:08] Satter's army took over several Shiite towns and expelled coalition forces from the holy  
+[00:20:13] capital, Najan.  
+[00:20:15] During this time, there was also a skirmish that came to be known as Black Sunday in Baghdad,  
+[00:20:20] in which a number of U.S. soldiers died.  
+[00:20:23] Ultimately, this wasn't particularly sustainable, as the Sotterists couldn't actually hold  
+[00:20:27] that much territory, but they proved.  
+[00:20:29] a point. And they did accomplish two really important things. The first of which was that  
+[00:20:33] Sotter City and Baghdad became a legitimate stronghold of the Sauterist movement that could not be  
+[00:20:39] dislodged and with which the Americans were going to have to contend for the next number of years.  
+[00:20:43] Well, if it's called Sotter City, I mean, you might as well put the Sotterist movement inside.  
+[00:20:47] I mean, it would have been pretty embarrassing if All Sotter had lost control of Sotter. Sotter.  
+[00:20:51] Yeah, you got a, yeah, brand management. And the other place that he had held under his control was  
+[00:20:55] Najaf in the Southeast. And now this triggered a brutal scene.  
+[00:20:59] of Najaf, which Al Sardar survived. And in fact, it was so brutal and it made such headlines that  
+[00:21:06] there were Sunni fighters in Fallujah who were making their way to, to Najaf, simply because  
+[00:21:14] they saw this incredible embarrassment that Al Sada was making of the Americans. Right. So by this point,  
+[00:21:23] if you recall last episode, where we focused on the first year of Paul Bremer, this is near the end  
+[00:21:28] of his term. And in June 2004,  
+[00:21:31] Bremer finally made the handoff to officially give the keys to Iraq to a new interim government.  
+[00:21:39] The amazing ceremony that marked this occasion was Bremer handing over a big manila folder to the new prime minister.  
+[00:21:47] We welcome Iraq's steps to take its rightful place and equality and honor among the three nations of the world.  
+[00:21:55] sincerely Elphal Bremer, ex-administrator,  
+[00:22:01] That guy was named Iyad Alawi. If that name sounds familiar, it's because we talked  
+[00:22:07] about him in episode two. He was one of the CIA former Baathist goons that we used to try and  
+[00:22:13] commit terrorism inside of Iraq and do a coup in the middle of the 90s. The other person who is important  
+[00:22:18] to know here is another Ayatollah whose name is Ali al-Sastani, who was then in his mid-70s, and is  
+[00:22:25] the de facto spiritual leader of Shia Muslims. He's still alive now, right? He is still alive and he's still  
+[00:22:31] influential. He's causing a ruckus right now. And Olawi, when he came into power, he made a very  
+[00:22:37] big mistake very quickly. And that first big mistake is that while Al-Sastani, the most important  
+[00:22:42] spiritual leader for Shia Muslims in Iraq, was out of the country for medical treatment,  
+[00:22:47] O'awi tried to keep him out. Woodward reports that Al-Awi's excuse for this to the Americans was that  
+[00:22:53] he didn't like the quote, turbans. Yeah, he, there's a lot of quotes where he's like, we need to get rid of  
+[00:22:57] the turban. And Al-Sada and Al-Sistani are not the same kind of.  
+[00:23:01] kind of guys. They're two different types of guys, is what I'm saying here. Al-Sastani was a more, you know,  
+[00:23:08] wizened kind of, like, senior figure. The great owl. Kind of. And he continues to serve that kind of  
+[00:23:15] role, and he's operated as a very sort of subtle power broker, both among Shia Muslims and between  
+[00:23:20] Shia Muslims and the power-sharing agreements that were starting to, at least the Americans were trying to  
+[00:23:25] cobbled together for whatever government would emerge in Iraq. And Al-Sauder sees things differently.  
+[00:23:31] Al-Sauder is fundamentally anti-American. His abiding interest is not to recreate the Islamic Republic  
+[00:23:37] of Iran because it should be noted the people that the Americans are working with. They're the  
+[00:23:41] friends of Iran. They're also friends of Iran. Everybody's a friend of Iran if you're a Shia-Iraqi exile,  
+[00:23:47] considering that the Islamic Republic of Iran is the largest and most important Shia-Muslim Muslim country  
+[00:23:52] in the Middle East. So Al-Sahder did not want to  
+[00:23:55] to recreate the Islamic Republic of Iran in Iraq, but he wanted to create an Islamically observant state  
+[00:24:01] free from the purview of the Americans. And his ambition to accomplish that is what set him apart  
+[00:24:07] from the other Shia clerics. So Al-Sauder season opening, and this is an early August 04, when  
+[00:24:13] Al-Sastanis, you know, kept out of the country now, and he rallies as supporters in Najaf. And Marine commanders  
+[00:24:19] respond, and they begin without approval from their superiors, a prolong.  
+[00:24:25] Engage. The ending of which basically left Al-Sahder in control of Naja.  
+[00:24:39] What our mission is, and our mission is that we'll do as soon as we can,  
+[00:24:45] the will be the destruction of Sotter's militia, and then is to kill or capture Al-Sauder himself.  
+[00:24:54] So although Al-Sauder's Madi Army spent a good chunk of 2004 trading shots in territory with  
+[00:24:59] American troops in Baghdad and Najaf, the emerging  
+[00:25:03] insurgency wasn't really centered on Shia Muslims more generally. In fact, it was Sunni Muslims  
+[00:25:08] in the first few years after the invasion that mounted the fiercest resistance to the American  
+[00:25:13] occupation through suicide bombs, through roadside bombs, through a whole variety of tactics that  
+[00:25:19] would become infamous and staples on the nightly news. Would this be because in part the Shia population,  
+[00:25:24] however much they'd come to load the Americans like everybody else, were at first released from  
+[00:25:30] that Ba'athist Sunni clique that was ruling them. And  
+[00:25:33] had a generally more optimistic view of what could be possible at this point rather than the Sunnis?  
+[00:25:38] Yes, absolutely. I think one of the ways to look at the Sunni insurgency and what fueled it is the  
+[00:25:45] sense of dispossession that many Sunnis felt with the fall of Saddam Hussein and the Baathas party.  
+[00:25:51] This emerging insurgency, the waves of suicide bombings that broke out in late 2003,  
+[00:25:58] rippling from Najif to Baghdad to Mosul, the Americans,  
+[00:26:03] didn't really count on this happening after the invasion, and thus were unprepared to identify  
+[00:26:09] who might be doing it. Now, when Colin Powell went to the United Nations in February of 2003  
+[00:26:15] to help seal the deal on the Iraq war, he brought up a guy named Abu Musab al-Zerkawi.  
+[00:26:23] Iraq today harbors a deadly terrorist network headed by Abu Musab al-Zakawi,  
+[00:26:29] an associate and collaborator of Osama bin Laden and his al-Zerkao.  
+[00:26:33] Right, and we talked about him in our episode even before the Powell speech. You know, he had been  
+[00:26:37] identified supposedly as a link between Saddam and bin Laden, because while he was a jihadist  
+[00:26:44] and tangentially related to bin Laden, according to American intelligence, he was also operating  
+[00:26:51] inside of Iraq. However, he was in the part of Iraq that Saddam didn't control, and he turned out to be,  
+[00:26:56] by testimony of his own associates, a rival of bin Laden, who had not sworn any kind of oath and was not  
+[00:27:01] really any kind of member of al-Qaeda. Yeah, and all this conspiracizing kind of, like,  
+[00:27:07] on the part of the Americans about this, because it really is just like, like, inventing shit  
+[00:27:10] out of thin air. Oh, yeah. They, like, it sort of goes to show just how detached they were  
+[00:27:16] from the reality on the ground. And as the Sunni, and as Sunni resistance started, began to pick up  
+[00:27:21] around the country, the Americans started, you know, looking for something to explain while this was  
+[00:27:27] happening. Right. And Al-Qaeda was already a familiar answer. And so,  
+[00:27:31] they shoved their hand in a hat. And the name that they came up with was Abu Musab Al-Zirqawi.  
+[00:27:38] So Zarkawi himself was an unremarkable guy. He was born in Jordan. He fought alongside Mujahideen and  
+[00:27:43] Afghanistan against the Soviet Union. Typical resume. Yeah, you know, he got hooked up with some more  
+[00:27:48] hardcore jihadists in Pakistan in the early 90s. And then he spent most of the 90s in jail in Jordan.  
+[00:27:54] Al-Zerkawi's presence in Iraq was, as presented by the journalist Lawrence Wright,  
+[00:27:58] particularly inspired by the venom he had for Shia Muslims.  
+[00:28:01] So while the American government claimed that Al-Zarqawi had been working with Saddam prior to the  
+[00:28:06] U.S. invasion, there's no evidence to support that. In fact, Saddam may not have even been aware  
+[00:28:10] that Al-Zarkawi was even in the country. So the story isn't that Zarkawi was under Saddam's thumb  
+[00:28:15] or that he was in cahoots with Saddam. The story is that when we invaded Iraq in March 2003, we  
+[00:28:21] unleashed Zarkawi on the rest of the country. Oh, the reason I keep insisting that there was a  
+[00:28:26] relationship between Iraq and Saddam and al-Qaeda because there was a relationship between Iraq.  
+[00:28:31] and Al-Qaeda. Now, as I mentioned in the first part of this episode, a significant chunk of the Sunni fighters  
+[00:28:36] who carried out those suicide bombings were foreign fighters. The jihadists from abroad who were  
+[00:28:41] galvanized by the American invasion. The role of these guys, along with Zarkawi, however, was aggressively  
+[00:28:47] overhyped. As I said, just a bit ago about Zarkawi, it was part of the American government strategy  
+[00:28:53] of finding things to explain that were very simple about the insurgency and that they could get under  
+[00:28:59] control and did not speak to larger problems about the state of the U.S. occupation.  
+[00:29:04] Right. And it wasn't just a simpler explanation. We didn't want to admit that like any colonized  
+[00:29:09] or occupied people, the Iraqis themselves were rising up against the Americans. Much better to say  
+[00:29:14] that there were these troublemakers from abroad who were sneaking in and poisoning the well,  
+[00:29:19] these foreign jihadists. There are bathists. There are Fethaheim Saddam people. There are criminals.  
+[00:29:24] There are jihadists coming in from other countries. There are,  
+[00:29:29] people stirring up mischief from neighboring countries. Throughout the war, we would try to make  
+[00:29:33] it seem as though this was, none of this could possibly be coming from the Iraqis. These must  
+[00:29:37] be Syrians and these must be Jordanians. And you might think of American sniper, the sniper  
+[00:29:43] in the black outfit or whatever. He's Syrian. He's not Iraqi. Because Iraqis, you know,  
+[00:29:48] they, they were grateful. Right. And you'll see reverberations of that and how we talk about ISIS  
+[00:29:53] a decade later and so on. And, you know, to be clear, is how we did a lot of bad shit.  
+[00:29:58] more of which we'll talk about later on. But his role as an explanation for what was going on was part of a deliberate strategy.  
+[00:30:08] In fact, it was part of a self-admitted sci-op campaign by the Pentagon.  
+[00:30:14] Brandon, I want you to look at something. Can you just, like, describe to me these two slides that I'm showing you.  
+[00:30:21] These look like PowerPoint slides. And the first slide, offensive strategic communications.  
+[00:30:28] Fighting the negative insurgency, Abu Musab al-Zarkawi. Selective leak to Dexter Filkins.  
+[00:30:35] That's the New York Times guy and then later New Yorker guy, right?  
+[00:30:39] 10 million reward, now 25 million.  
+[00:30:42] The next bullet point, the Matrix. Cool.  
+[00:30:45] Tight.  
+[00:30:46] March 04. Villanize Zarkawi slash leverage xenophobia response through media operations,  
+[00:30:55] Sciop, special ops.  
+[00:30:58] And the second slide.  
+[00:30:58] This slide is called Result.  
+[00:31:01] Through aggressive strategic communications, Abu Musab al-Zarkawi now represents, one bullet point.  
+[00:31:08] Terrorism in Iraq. Next. Foreign fighters in Iraq. Next. Suffering of Iraqi people.  
+[00:31:15] Finally, denial of Iraqi aspirations, disrupting the transfer of sovereignty.  
+[00:31:20] And the last bit says, effect. Eliminate popular support for a potentially sympathetic insurgency.  
+[00:31:26] Deny ability of insurgency. Deny ability of insurgency.  
+[00:31:28] quote, take root among the people.  
+[00:31:32] Well, that's smoking gun, if I've ever seen.  
+[00:31:33] That might be the only smoking gun in the Iraq War.  
+[00:31:36] So that's from a story published in April 2006 by Thomas Rix, who was a defense military  
+[00:31:42] correspondent embedded in Iraq at the time for the Washington Post.  
+[00:31:49] Now, he framed the story, like, I think brilliantly.  
+[00:31:52] And while I have some quibbles with Ricks elsewhere, this is a really, like, this is, I believe,  
+[00:31:57] one of the best stories that was pieces of reporting that was written in the Iraq War,  
+[00:32:02] not just because of what it showed about what the government was willing to do to paint Zarqawi,  
+[00:32:06] and we'll decode a bit of these slides in a second, but also because of how he framed it.  
+[00:32:11] Here's the lead of his article published on April 10th, 2006.  
+[00:32:14] The U.S. military is conducting a propaganda campaign to magnify the role of the leader of al-Qaeda in Iraq,  
+[00:32:19] according to internal military documents and officers familiar with the program.  
+[00:32:24] The effort has raised his profile in a way that some military intelligence officials  
+[00:32:27] believe may have overstated his importance and helped the Bush administration tie the war  
+[00:32:31] to the organization responsible for the September 11th, 2001 attacks.  
+[00:32:37] So what these slides and what this story showed is that in the months and the year after  
+[00:32:43] the invasion of Iraq, the cherry-picked intelligence that was used to build the case for war  
+[00:32:52] was then repurposed to justify to the world why things were going to.  
+[00:32:58] to shit in Iraq. And the way that they did this was through incredible deception.  
+[00:33:05] They, you know, what they call media operations are Asiop. And the selective leak is,  
+[00:33:10] I think, a kind of terrific story. And, you know, this Dexter Filkin story that they refer to in the  
+[00:33:16] slide, the headline is U.S. says, files, seek Kada aid in Iraq. That's a horrible fucking headline.  
+[00:33:24] Like, it just doesn't clarify anything. That's staying in.  
+[00:33:27] The story. The story. The story.  
+[00:33:28] that they talk about published in February 2004 begins, American officials here have obtained  
+[00:33:33] a detailed proposal that they conclude was written by an operative in Iraq to senior leaders of  
+[00:33:38] al-Qaeda, asking for help to wage a sectarian war in Iraq in the next months. Oh, so that explains  
+[00:33:44] why everything's happening. It's not to do with anything the Americans did. It has to do with the  
+[00:33:47] fact that there are all these nefarious outsiders who are trying to pit these Iraqis against  
+[00:33:51] one another. So if we want to talk about how successful this Saup was, this media operation was  
+[00:33:57] General Mark Kimet, who was the military official responsible for this and who was serving  
+[00:34:04] a post in Central Command. He said that it was the most successful influence operation that the  
+[00:34:09] army had run to date. Yeah, the SIEOP was real and it was delivered from the very top brass  
+[00:34:16] of the Bush administration. There's an article from CBS here. Defense Secretary Donald Rumsfeld  
+[00:34:21] is comparing Abu Misabozarkawi to Adolf Hitler in the final days of Nazi Germany.  
+[00:34:27] In a pep talk to thousands of paratroopers Thursday, Rumsfeld likened al-Qaeda's reportedly  
+[00:34:33] wounded chief in Iraq. There's a nice little assist from the media there. To a cornered Adolf Hitler  
+[00:34:39] during the final days of Nazi Germany. So not only is he the answer to why Iraq is going to shit,  
+[00:34:46] he's also, I don't know how, but somehow comparable to a guy who commanded a giant  
+[00:34:51] industrial army in the middle of Europe. Or that the Sunni insurgency like Hitler's Nazi army was  
+[00:34:57] something facing imminent defeat. Would die with him. Yeah. It may be that we, with Zarkawi,  
+[00:35:00] have the opportunity to pick him up if the intelligence continues the way we did with Saddam Hussein  
+[00:35:06] so that one day it all comes to us. We have the big aha. All the intelligence comes together. We find  
+[00:35:13] him and then we kill them or we capture it. But yeah, the Zarkawi myth is a really important thing to  
+[00:35:18] debunk because with it you debunk the idea that the insurgency was foreign jihadis, rather than actual  
+[00:35:26] Iraqis who wanted Americans out. But don't just take it from us. Take it from the CIA itself.  
+[00:35:32] Washington Post reported in 2005, the CIA's analysis showed the insurgency wasn't just former  
+[00:35:38] Bathas or deadenders, but quote, newly radicalized Sunni Iraqis, nationalists offended by the  
+[00:35:46] occupying force, and others disenchanted by the economic turmoil and destruction caused by the fighting,  
+[00:35:52] i.e. America's occupation. One other thing I just want to note is,  
+[00:35:56] this insurgency, which was mostly Iraqis, had the support of most of the population in Iraq,  
+[00:36:02] who weren't themselves taking up arms. And some people might go, oh, why would this be? Didn't the  
+[00:36:07] insurgency? Weren't they the ones carrying out all these horrifying attacks on civilians? A minority of them,  
+[00:36:12] the Zarkarweites, yes. And those guys did truly sick shit that was obviously contributing to the horror and the  
+[00:36:18] violence. But the intelligence, whether it was collected by the military itself or by third-party groups,  
+[00:36:23] showed that the vast majority of attacks carried out by insurgents were on coalition  
+[00:36:29] and American forces. And a small percentage, like four or five percent in one of these  
+[00:36:34] reports, was attacks on civilians.  
+[00:36:37] Zarkhali's not going to give up. That's what he does. He gets up in the morning and wants to  
+[00:36:41] recruit people and arm them and finance them and kill people. Preferably, anybody can get his hands  
+[00:36:48] on. It doesn't matter what their age is, what their sex is, what their nationality is. That's what he  
+[00:36:52] does. He isn't going to give up. If it wasn't all a giant al-Qaeda-Zarkawi organized thing, as the U.S.  
+[00:36:59] painted the Sunni insurgency to be, then what was the Sunni insurgency? So what was really  
+[00:37:05] happening was this. In Sunni cities and tribal areas around Iraq. And remember, Sunnis are a relative  
+[00:37:11] minority within Iraq's broader population. So these are cities that are a bit further out. Most  
+[00:37:17] importantly, the city of Fallujah, which we're going to discuss in the second. Whereabouts in Iraq are they  
+[00:37:21] located. Further, like, central to the west and then also toward the north. In these areas, debatification,  
+[00:37:27] the dissolution of the Iraqi army, and the violence of the American occupation were radicalizing a whole  
+[00:37:33] lot of people who had nothing to do with Zarkawi. Right. It didn't really have much to do with jihadist ideology  
+[00:37:38] more generally either. It was just a response to the mass deprivation that they witnessed and the genuine belief that  
+[00:37:45] many of them had that Shia Muslims were conspiring to kill them with the Americans. Right. It's easy to  
+[00:37:51] to say that like, oh, this is like, you know, mass delusion. Like, like, the people, wasn't about  
+[00:37:56] to be some, like, incredible genocide. This was how these people felt. I mean, you just place yourself  
+[00:38:00] in the shoes of someone who's living in their town and then at night, the U.S. military  
+[00:38:05] busts down their doors and steals their kid or shoots their kid dead, whether or not he was  
+[00:38:10] guilty of anything. You start to think, well, Saddam's gone. He was, for better or for worse,  
+[00:38:15] our guarantor politically in a Shia majority country. Someone must be conspiring to fuck us over.  
+[00:38:21] Correct. And with tens of thousands of Sunnis blacklisted from civil service jobs,  
+[00:38:28] teachers, aid workers, infrastructure experts, and so on, barred from holding the kinds of jobs  
+[00:38:34] that they previously have, in addition to the widespread unemployment caused by the dissolution of  
+[00:38:40] the Iraqi army. U.S. forces outside the coalition's headquarters say their patrol opened fire  
+[00:38:45] after coming under attack. Many of the demonstrators of former Iraqi troops demanding  
+[00:38:51] jobs. And so I don't want to say that this was all like Sunni versus Shia, because even among  
+[00:38:56] the Sunni insurgency, as we talked about in the last episode, as even among Shia Muslims,  
+[00:39:00] there were all of these incredible divisions. In fact, most of the Sunni insurgency was not  
+[00:39:04] dictated by loyalty to Zarkawi, as we've just talked about. It was dictated by familial, communal,  
+[00:39:09] communal, and in some cases, religious ties. And this was another easy narrative for Americans,  
+[00:39:14] whether those in power or those watching TV at home, a way to explain a way why Iraq was going  
+[00:39:19] badly is, oh, these religious nut cases over there in the Muslim world, they just  
+[00:39:24] can't stop killing each other. It was, it was an explainer that required no greater understanding  
+[00:39:30] of what was happening to these people and just said, oh, they're religious nuts. They should  
+[00:39:34] all chill out. So the former Iraqi soldiers who hooked up with Sunni militias, you know,  
+[00:39:40] they picked fights with occupying American forces and also frequently were drawn into confrontations  
+[00:39:46] with American forces. But what the Sunni insurgents  
+[00:39:49] would probably most become known for it. I think the international sort of icon of it was the  
+[00:39:55] roadside bombs that would blow up Humvees and became a staple on the nightly news back home  
+[00:40:01] in the United States. They don't put them inside their farmhouses or on their property.  
+[00:40:07] What they do is they dig little shallow holes along roads and they throw them  
+[00:40:15] mortar rounds, rifles, uh, anything.  
+[00:40:20] explosive. We're looking to the flanks and we just passed by an idea and it just blew up  
+[00:40:26] in our face. So in the first part of this episode, we described Makhada al-Sadr's and the Shia militias  
+[00:40:30] that he represented and the confrontations that they got into over the first couple years of the occupation  
+[00:40:37] with the American government in Sadr City in Baghdad and then in Najaf in southern Iraq. The central spoke of  
+[00:40:43] the Sunni insurgency. It was the city of Fallujah, which is about 40 miles west of Baghdad. On March 31st,  
+[00:40:50] 2004, four Blackwater contractors were killed in Fallujah. Two of the four contractors,  
+[00:40:56] their bodies were strung up and hung from a bridge, and footage and photos were widely rebroadcast,  
+[00:41:01] and the American political leadership, you know, was pretty aggressive in saying that something  
+[00:41:06] had to be done. Now, the military didn't really have any strategic objectives for what to do to  
+[00:41:13] contain or eliminate the insurgency in Fallujah other than kill the insurgents. In fact, insurgents  
+[00:41:19] and Fallujah had been escalating activities against American soldiers so effectively that they  
+[00:41:24] almost killed General John Abizade, the head U.S. military official for the entire Middle  
+[00:41:30] East. IEDs and RPGs, not just roadside bombs, but actual active patrols were taking shots  
+[00:41:36] at American soldiers and beginning fights on a very routine basis. And this all took place in the  
+[00:41:41] period before and after the ambush on the Blackwater contractors. Within a week, however, after the attack,  
+[00:41:47] the Bush administration and the military cobbled together Operation Valiant Resolve, which was their  
+[00:41:53] attempt to take back the city from the insurgents. It commenced on April 4th. The attack was a  
+[00:42:06] spectacular failure. The military did not take back the city. In fact, after capturing a chunk of the  
+[00:42:12] city, the interim Iraqi government forced the Americans to back the fuck out because of how badly  
+[00:42:17] the Americans had demolished city. In fact, here's how one lieutenant colonel, a certain James Mad Dog Mattis,  
+[00:42:23] described his initial orders to troops. The commanding general has changed the op order  
+[00:42:29] from capture or kill the enemy to kill or capture. He wants the emphasis on kill. And the Americans  
+[00:42:36] ultimately had to pull out on May 1st a month later. So the American operation, which had begun on April  
+[00:42:41] 4th, ended on May 1 when they pulled out. So the Americans actually, they didn't want to totally abandon  
+[00:42:48] Fallujah, but they didn't really get any direction from above on what they had to do. So this is  
+[00:42:53] story of the Fallujah Brigade. So the brigade was about a 1600 man volunteer force  
+[00:43:00] thrown together as a compromise between the Marines and the Iraqi interim government. It was an idea  
+[00:43:06] cooked up by an American general, and Paul Brammer and the CPA didn't really know much about it.  
+[00:43:11] So a bunch of the people who comprised this 1600 man force, in a city of 300,000 people,  
+[00:43:16] by the way, this 1600 man volunteer force, a bunch of them actually used to be insurgents,  
+[00:43:21] and a bunch of them part of the, you know, same exact kinds of, you know, quote-unquote terror networks  
+[00:43:27] that Americans hope to penetrate. And then the Americans gave them guns and authority. It was  
+[00:43:31] completely ineffective and people deserted fights. They was widespread corruption. And it was  
+[00:43:37] basically just like a brutal mercenary force. And the Marine colonel who was in charge of it  
+[00:43:41] told a Los Angeles Times reporter after the fact the whole Fallujah Brigade thing was a  
+[00:43:46] fiasco. The whole brigade was completely ineffective and it was an embarrassment and it was a  
+[00:43:51] strategy that didn't work. And in fact, it had just given a bunch of weapons to a bunch of people who  
+[00:43:57] would later use them against America. So this all wraps up in the spring. So by the fall,  
+[00:44:03] Fallujah remains outside of American control. And because the first elections for the Iraqi  
+[00:44:07] government were going to take place in January 2005, it was a pretty big problem that a city of 300,000  
+[00:44:13] people would not be able to participate in those elections. And in fact would be perhaps an  
+[00:44:17] incredibly destabilizing thing against those elections. And it's all. And it's all. And it's  
+[00:44:21] also, you know, worth mentioning that for the Americans to try and put together some sort of like  
+[00:44:26] even like pretend viable government in Iraq, they were going to need Sunnis to have buy-in.  
+[00:44:32] Yeah. And not counting all those potential Sunni votes in the city was something that  
+[00:44:37] forced their hand in a situation that they'd already created for themselves. So the American military  
+[00:44:41] decided not to act until after the U.S. elections were over in November 04. And they just maintained  
+[00:44:49] the siege with air strikes and  
+[00:44:51] and so on before they were ready to actually do their big, big boy battle to force out the  
+[00:44:57] Sunni insurgents from the city. On November 7th, the Americans were ready. And Patrick Coburns  
+[00:45:02] described what follows as the quote, sort of set piece battle at which the American military  
+[00:45:07] usually excelled. Let's be candid here for a moment. Allow us to be frank.  
+[00:45:24] Allow me to be frank. Let me be frank. The Americans were always going to win. It was just a matter of  
+[00:45:30] how much damage would be done before victory was declared. And it was, by the way, it was  
+[00:45:34] 8,000 American troops and Iraqi army soldiers that were still around against roughly 3,000  
+[00:45:42] insurgents. The vast majority of the city civilians ran out of town knowing what was about to happen.  
+[00:45:47] Yeah. But the Battle of Fallujah that follows is generally regarded as the single most combat  
+[00:45:52] heavy event of the whole damn war, and it turned to the city into a scrapbeat. The Americans, as ever,  
+[00:45:58] were in denial about how much damage they were doing.  
+[00:46:00] 36,000 of 50,000 homes in the city were destroyed along with 60 schools and 65 mosques and shrines.  
+[00:46:07] A British officer told Colburn that on one night, over 40, 155 millimeter artillery rounds,  
+[00:46:14] which can blow chunks out of buildings, were fired into a single small sector of the city.  
+[00:46:20] An early well-known story of the operation was the taking of a hospital, where American and Iraqi  
+[00:46:24] soldiers ordered patients and doctors, you know, people who were trying to administer care in the middle of a war zone,  
+[00:46:30] they ordered these people to sit or lie down on the floor while troops tied their hands  
+[00:46:35] behind their back. The U.S. military used chemical weapons as well. White phosphorus, which would be used  
+[00:46:40] by the IDF in Gaza just a few years later, ended up burning and scarring civilian bystanders because,  
+[00:46:46] as the Americans would later note in their case against Saddam for using the same exact weapons, chemical  
+[00:46:52] weapons used in an urban area tend to have unintended consequences. I would even just say I whirl with the  
+[00:46:58] idea that the American military was in denial about the damage they were doing. I think you  
+[00:47:03] pull a lot of articles at the time and a lot of the quotes at the time from colonels and generals.  
+[00:47:07] They did know what was going on here. We have this sort of automatic reaction to think of the U.S.  
+[00:47:13] as this big bumbling empire, but they knew what they were doing in Fuluzia. They knew that they were  
+[00:47:17] destroying this place. And just like in Vietnam, you know, Operation Phoenix, the goal was to terrorize.  
+[00:47:23] The goal was to annihilate. And that's exactly what they achieved.  
+[00:47:28] So from the time that the Americans launched their big assault on Fallujah in November 2004 to the real sort of bitter end of the fighting, it took about six weeks.  
+[00:47:42] But the full extent of the damage done to Iraqis wouldn't really be known for at least another few years.  
+[00:47:47] A 2010 study from English researchers reported increases in birth defects, infant mortality, and cancer among Fallujah residents that exceeded the rates among survivors of the atomic bomb in Hiroshima.  
+[00:47:59] One explanation for this is that.  
+[00:48:01] that the U.S. tanks and jets were using depleted uranium rounds.  
+[00:48:04] We did that in the Gulf War, too, in 1991.  
+[00:48:07] These are literally radioactive weapons. Obviously, all of this violated international law.  
+[00:48:13] The U.S. military confessed to having killed about 1,200 insurgents, and civilian tolls were said to be  
+[00:48:23] maybe 800 people. I'm drawing here from a great post by Richard Seymour.  
+[00:48:28] Later, Iraqi groups and medical workers.  
+[00:48:32] put that estimated death toll much higher to as many as 6,000 deaths, most of them civilians.  
+[00:48:39] And beyond just the death toll, horrifying as it is, we turned Fallujah into a high-key  
+[00:48:45] police state for everyone, the hundreds of thousands who were returning to their homes.  
+[00:48:50] And here's some things we were doing over there that I don't think Americans at home  
+[00:48:53] really had any idea about. I don't know if they have an idea about them now.  
+[00:48:57] Boston Globe, late 2004, returning Fallusions will face clampdown.  
+[00:49:02] quote, under the American military plans, quote,  
+[00:49:06] troops would funnel fulusions to so-called citizen processing centers on the outskirts of the city  
+[00:49:11] to compile a database of their identities through DNA testing and retina scans.  
+[00:49:17] Residents would receive badges displaying their home addresses that they must wear at all times.  
+[00:49:22] Buses would ferry them into the city where cars, the deadliest tool of suicide bombers, would be banned.  
+[00:49:29] DNA into a database, badges,  
+[00:49:32] your papers, please, at all times, and no more cars for you.  
+[00:49:37] Finally, the Marine officers designed a forced labor system, requiring men to work in military-style  
+[00:49:45] battalions.  
+[00:49:46] Quote, depending on their skills, they would be assigned jobs in construction, waterworks, or rubble  
+[00:49:52] clearing platoons.  
+[00:49:54] So the people of this city have to flee by the hundreds of thousands because the Americans  
+[00:49:59] shell the shit out of their city.  
+[00:50:01] Then when they were.  
+[00:50:02] return, they're processed through the Gestapo machine and conscripted to clean up the rubble  
+[00:50:07] from said American attack.  
+[00:50:09] November 13th, the heroism of Marines like Castle breaks the enemy.  
+[00:50:18] After six days of intense urban fighting, the Marines have killed 1,000 insurgents and captured  
+[00:50:26] 200 more.  
+[00:50:28] The operation, just one day longer than the April attack, is a success.  
+[00:50:34] The effect of retaking Fallujah in this brutal, extreme fashion,  
+[00:50:38] as with most of the American policy of occupation at that time, was to move the Americans  
+[00:50:44] about one step forward and five steps backward.  
+[00:50:47] The insurgents simply learned to stop taking whole cities for Americans to then reclaim.  
+[00:50:52] Although many Iraqi Shia were incensed by the suicide attacks by Sunnis that were believed  
+[00:50:58] to have been coming from Fallujah, the nonstop media coverage of American action in  
+[00:51:04] Fallujah and of the American brutality in Fallujah, ultimately only only.  
+[00:51:08] emboldened the Sunnis to step up their attacks.  
+[00:51:10] The trajectory of this was really, really quite dangerous.  
+[00:51:14] It's something that we're going to get to later.  
+[00:51:16] The Americans are sensitive about their military casualties.  
+[00:51:20] They don't want too much bad news to get out.  
+[00:51:23] They want the good news.  
+[00:51:25] The political was a great victory.  
+[00:51:29] And it will be in military terms.  
+[00:51:32] But that doesn't mean that they're about to quell the insurgency in Iraq.  
+[00:51:36] So this episode, we've talked a lot about some of the battles,  
+[00:51:39] bombings and broader politicking of both the Sunni and Shia insurgencies and factions.  
+[00:51:44] And we're going to check back in on Zarqawi, Makta al-Sadder, and others later on.  
+[00:51:49] But I'd like to talk now about some of the things that the Americans did that helped motivate these people.  
+[00:51:56] When we talk about what were the things that inspired thousands and thousands of people to take up arms  
+[00:52:03] against the United States, Abu Ghraib is probably the first place we should look.  
+[00:52:09] In my experience,  
+[00:52:11] said General Stanley McChrystal in his memoir, years later, we found that nearly every first-time  
+[00:52:17] jihadist claimed Abu Ghraib had first jolted him into action.  
+[00:52:21] In January 2004, while briefing Bush, Donald Rumsfeld let's slip that something had happened at  
+[00:52:27] an American prison in Iraq. Oh, by the way, Rumsfeld mentioned, we have this incident.  
+[00:52:33] There were allegations of prisoner abuse by Army military police and interrogators at Abu Ghraib.  
+[00:52:38] And Abu Ghraib was actually Saddam's old fortress.  
+[00:52:41] prison that was already infamous for all the horrible fucked up shit that happened while he was in  
+[00:52:47] control of it.  
+[00:52:47] Right. And rather than immediately shut down Abu Ghraib, the Americans repurposed it, using it as a place  
+[00:52:53] to put, you know, thousands of detainees, as they called them together, while the Americans  
+[00:52:58] sorted out what to do exactly on the ground. This meant that lots of people who probably shouldn't  
+[00:53:04] have been rubbing shoulders if you wanted to prevent an insurgency were, in fact, rubbing  
+[00:53:08] shoulders, and this includes, for example, the future leader of ISIS.  
+[00:53:12] But Abu Ghraib was repurposed far beyond its function just to hold people.  
+[00:53:17] When Rumsfeld told Bush about this abuse in January 2004, he said an investigation was  
+[00:53:23] underway.  
+[00:53:24] As the journalist Bob Woodward described Rumsfeld saying it, we're on it.  
+[00:53:28] Throughout 2003 and into 2004, a steady trickle of reports from Amnesty International and the  
+[00:53:34] Associated Press had said that there were human rights abuses being committed.  
+[00:53:38] at Abu Ghraib, but there weren't a whole lot of specifics. But on April 28, 2004, 60 Minutes ran an  
+[00:53:45] episode about the prison that was followed up shortly thereafter by a report from the New Yorker by  
+[00:53:50] Sy Hirsch. These revelations would change everything. Major General Antonio Taguba, the author  
+[00:54:00] of the report, wrote that American jailers did the following to the Iraqi prisoners under their  
+[00:54:05] control, and here I'm quoting directly, breaking chemical lights and pouring the phosphoric liquid on  
+[00:54:11] detainees. Threatening detainees with a charged 9mm pistol. Pouring cold water on  
+[00:54:16] naked detainees. Beating detainees with a broom handle and a chair. Threatening male detainees with rape and forcing  
+[00:54:23] them to wear women's underwear. Allowing a military police guard to stitch the wound of a detainee  
+[00:54:27] who was injured after being slammed against the wall in his cell. Sodomizing a detainee with a chemical  
+[00:54:33] light and perhaps a broomstick. Using military working dogs to frighten and intimidate  
+[00:54:37] detainees with threats of attack and in one instance actually biting a detainee.  
+[00:54:41] detainee. And one quote from the report that I've amended slightly for clarity that I wanted  
+[00:54:47] to bring that I thought was also pretty important. The detainees were all naked. A bunch of people  
+[00:54:53] from military intelligence and the military police were there that night. The detainees were made to do  
+[00:54:58] strange exercises by sliding on their stomach, jumping up and down, they'd water thrown on them,  
+[00:55:05] and they got wet, and they were called all kinds of names such as gay and they were asked,  
+[00:55:09] do they like to make love to guys? At one point,  
+[00:55:11] Nakhla goes on to say, they were then handcuffed together by their hands and their legs were shackled,  
+[00:55:17] and they were stacked on top of one another, ensuring that their naked genitals were placed next to one  
+[00:55:23] another. The evidence for all of these claims was aired on 60 Minutes in the forms of these now  
+[00:55:28] horrifically iconic photos and videos that were taken by the American soldiers themselves while committing  
+[00:55:34] these acts. Repercussions were felt quickly. About two weeks after the 60 Minutes report aired, a video was posted  
+[00:55:41] online depicting the beheading of 26-year-old American Nick Berg, who had disappeared in  
+[00:55:45] Iraq weeks earlier. Al-Zerkawi and his associates took credit for the killing, a new grim feature  
+[00:55:52] of the war in Iraq that would become more common over the following years. January, one of theirs,  
+[00:55:57] a kid, one of the kids from inside the unit, goes into the police and shows the photographs.  
+[00:56:03] They started an investigation. Rumsfeld admits, after the story's become known, that by the end  
+[00:56:09] of January, he's been told by the end of the end of January, he's been told by the  
+[00:56:11] in the middle of January, and he's told the president right away about it.  
+[00:56:14] No looking at the pictures, but they know how bad it is.  
+[00:56:16] What do they do for the next four months?  
+[00:56:19] What do they do at the highest levels of my government until the stories become public?  
+[00:56:24] Nothing except prosecute seven GIs.  
+[00:56:27] And we still don't know everything that happened inside of Abu Ghraib.  
+[00:56:32] Some of the darker stuff that we still don't know was claimed by Cy Hirsch at the time.  
+[00:56:38] He said that the U.S. had evidence, both audio and video.  
+[00:56:41] of young boys being sexually abused in the prison by U.S. forces.  
+[00:56:46] And a report in the Washington Post in May 2004 quotes one detainee who said he witnessed an army translator  
+[00:56:52] having sex with a boy at the prison.  
+[00:56:54] Quote, he said the boy was between 15 and 18 years old.  
+[00:56:58] Someone hung sheets to block the view, but he said that he heard the boy's screams and  
+[00:57:02] climbed a door to get a better look.  
+[00:57:04] He said he watched the assault and told investigators that it was documented by a female soldier  
+[00:57:09] taking pictures.  
+[00:57:10] In addition to the torture, there were  
+[00:57:11] also reports of dozens of detainees at Abu Ghraib had died, either perhaps killed by their  
+[00:57:17] American jailers or people who had died in other suspicious circumstances while in American custody.  
+[00:57:24] Now, the story that the American soldiers who committed these abuses told was that they were  
+[00:57:29] instructed and encouraged to do so by the military intelligence and CIA officials who were  
+[00:57:35] overseeing interrogations at the prison. In fact, portions of the so-called Bush torture memos  
+[00:57:41] that were released by the Obama administration in 2009 would directly link the kinds of abuses  
+[00:57:46] committed at Abu Ghraib with what the Bush administration explicitly said was okay.  
+[00:57:52] The punishments handed out for the abuses at Abu Ghraib were frankly relatively light.  
+[00:57:57] Twelve soldiers were convicted. Two colonels were dismissed.  
+[00:58:03] Nobody else lost their job.  
+[00:58:05] And on your screen right now, making his way to the Senate hearing defense secretary Donald Rumsfeld,  
+[00:58:09] who answered the questions today about the treatment of the treatment of  
+[00:58:11] Iraqi prisoners by the U.S. military.  
+[00:58:14] Pretty much everyone was clamoring for Rumsfeld resignation in the media.  
+[00:58:17] And although Rumsfeld would claim that he offered his resignation to Bush twice and that it had been  
+[00:58:21] rejected, and that Cheney, his old chum from Congress and the Ford administration, pushed  
+[00:58:27] to keep him in. All that sentimental bullshit, it kept Don Rumsfeld in his job.  
+[00:58:31] These events occurred on my watch. As Secretary of Defense, I am accountable for them,  
+[00:58:37] and I take full responsibility.  
+[00:58:39] Over the next few months, the Americans would start trying to try.  
+[00:58:41] to thin out the crowd of thousands of prisoners inside Abu Ghraib and let hundreds of people out.  
+[00:58:46] The prison would temporarily be closed and then reopened by the interim Iraqi government  
+[00:58:51] a few years later before being shut down in 2014, and it remains closed to this day.  
+[00:58:58] Although George Bush would eventually issue an actual apology with the words,  
+[00:59:01] I am sorry, or I apologize, or some variation on that core theme of what it means to give an apology,  
+[00:59:09] initially, that was not what he said to the world.  
+[00:59:12] Today, we're going to let you go out on what he actually said when he went on the Arabic News TV channel Al-Arabia on May 5th, 2004, a week after the scandal broke.  
+[00:59:24] Bye.  
+[00:59:25] It's very important for people, your listeners, to understand, in our country, that when a issue is brought to our attention on this magnitude, we act.  
+[00:59:38] And we act in a way where leaders are willing to discuss it with the media.  
+[00:59:42] And we act in a way where, you know, where, you know,  
+[00:59:44] you know, our Congress asked pointed questions to the leadership.  
+[00:59:49] In other words, people want to know the truth.  
+[00:59:50] That stands in contrast to dictatorships.  
+[00:59:53] A dictator wouldn't be answering questions about this.  
+[00:59:56] A dictator wouldn't be saying that the system will be investigated,  
+[00:59:59] and the world will see the results of the investigation.  
+[01:00:01] A dictator wouldn't admit reforms needed to be done.  
+[01:00:05] And so the people in the Middle East must understand that this was horrible.  
+[01:00:11] But we're dealing with it in a way that we'll bring  
+[01:00:14] confidence to not only our citizens, which is very important, but confidence to people  
+[01:00:21] of the world, that this situation will be rectified and justice will be done.  
+[01:00:25] This will be done.
