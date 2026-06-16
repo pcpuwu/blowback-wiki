@@ -13,11 +13,11 @@ Each episode has a narration-order set of notes with `[hh:mm:ss]` jump points, r
 ## Seasons
 
 1. **Iraq** — the road to the 2003 invasion
-2. **Cuba** — the revolution and the long US siege
+2. **Cuba** — the revolution and the long US war on Cuba
 3. **Korea** — the war that never ended
 4. **Afghanistan** — empire's graveyard
-5. **The First Gulf War & after**
-6. **Apartheid South Africa**
+5. **Cambodia** — the secret bombing and the Khmer Rouge
+6. **Angola** — Cold-War civil war and apartheid South Africa's intervention
 
 ---
 
