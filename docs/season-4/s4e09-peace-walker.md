@@ -1,7 +1,7 @@
 # Blowback S4E9 — "Peace Walker"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E9%20Peace%20Walker){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e09-peace-walker.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:10:00
 > **Thesis:** The Obama years (2009–16) — the "good war" gets its surge, its star generals (McKiernan fired, McChrystal flamed out, Petraeus), and its counterinsurgency ("COIN") gospel, all sold with cooked statistics ("the mirage of the good war"). Beneath it: Karzai's epic election fraud, the bottom-up mafia corruption the CIA protected, the heroin oligarchy, the killing of bin Laden (and the Hersh counter-narrative), and a "withdrawal" that never really happened.
@@ -52,7 +52,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
-- **The Obama war:** Craig Whitlock, *The Afghanistan Papers*; Michael Hastings, *The Operators* / "The Runaway General"; George Packer, *Our Man* (Holbrooke); Sarah Chayes (on corruption); Carlotta Gall, *The Wrong Enemy*.
-- **The bin Laden raid:** Seymour Hersh, *The Killing of Osama Bin Laden* (2016); VICE on *Zero Dark Thirty*.
-- **Pakistan & drones:** Mark Mazzetti/NYT on Raymond Davis; Peter Dale Scott; Fitzgerald & Gould, *Crossing Zero* (2011).
-- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
+- **The Obama war:** [1] Craig Whitlock, *The Afghanistan Papers*; Michael Hastings, *The Operators* / "The Runaway General"; George Packer, *Our Man* (Holbrooke); Sarah Chayes (on corruption); Carlotta Gall, *The Wrong Enemy*.
+- **The bin Laden raid:** [2] Seymour Hersh, *The Killing of Osama Bin Laden* (2016); VICE on *Zero Dark Thirty*.
+- **Pakistan & drones:** [3] Mark Mazzetti/NYT on Raymond Davis; Peter Dale Scott; Fitzgerald & Gould, *Crossing Zero* (2011).
+- [4] _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

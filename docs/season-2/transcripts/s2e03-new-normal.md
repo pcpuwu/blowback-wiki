@@ -1,6 +1,7 @@
 # S2E3 — New Normal — Transcript
 
-[← Back to episode notes](../s2e03-new-normal.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E3%20New%20Normal){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s2e03-new-normal.md)**
 
 [00:00:00] CBS Radio presents is Cuba going red?  
 [00:00:03] Good evening. The inescapable fact is brutally simple.  

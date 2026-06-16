@@ -1,6 +1,7 @@
 # S1E8 — Electioneering — Transcript
 
-[← Back to episode notes](../s1e08-electioneering.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E8%20Electioneering){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s1e08-electioneering.md)**
 
 [00:00:15] Taliban, free elections and Iraq  
 [00:00:17] Saddam Hussein locked up  

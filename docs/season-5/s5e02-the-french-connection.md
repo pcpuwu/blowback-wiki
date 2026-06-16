@@ -1,7 +1,7 @@
 # Blowback S5E2 — "The French Connection"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E2%20The%20French%20Connection){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e02-the-french-connection.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:00:40
 > **Thesis:** The deep history — the ancient Khmer Empire, French colonialism's "dismemberment" of Indochina (Vietnam the crown jewel, Cambodia and Laos as buffers), the divergent births of Vietnamese vs. Cambodian nationalism, the First Indochina War (climaxing at **Dien Bien Phu**, 1954), and the **Geneva Conference** — which made Vietnam's communists, freed Sihanouk's Cambodia, and *betrayed* the Cambodian communists, planting the seed of the Khmer Rouge's grievance.
@@ -45,7 +45,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
-- **Indochina history:** Mark Atwood Lawrence, *The Vietnam War: A Concise International History* (2010); Marilyn Young, *The Vietnam Wars*; Grant Evans & Kelvin Rowley, *Red Brotherhood at War*; K.W. Taylor, *A History of the Vietnamese* (2013); Charles Keith, *Subjects and Sojourners* (2024).
-- **Cambodia:** Elizabeth Becker, *When the War Was Over*; David Chandler, *A History of Cambodia*; Ben Kiernan, *How Pol Pot Came to Power*; Philip Short, *Pol Pot*; William Shawcross, *Sideshow*; Matthew Jagel, *Khmer Nationalist: Son Ngoc Thanh* (2023).
-- **Dien Bien Phu & Geneva:** Gen. Vo Nguyen Giap, *Dien Bien Phu* (memoir); the US State Dept. milestones; the Bulletin of the Atomic Scientists on the A-bomb offer; Ho Chi Minh's 1946 letter to Truman.
-- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_
+- **Indochina history:** [1] Mark Atwood Lawrence, *The Vietnam War: A Concise International History* (2010); Marilyn Young, *The Vietnam Wars*; Grant Evans & Kelvin Rowley, *Red Brotherhood at War*; K.W. Taylor, *A History of the Vietnamese* (2013); Charles Keith, *Subjects and Sojourners* (2024).
+- **Cambodia:** [2] Elizabeth Becker, *When the War Was Over*; David Chandler, *A History of Cambodia*; Ben Kiernan, *How Pol Pot Came to Power*; Philip Short, *Pol Pot*; William Shawcross, *Sideshow*; Matthew Jagel, *Khmer Nationalist: Son Ngoc Thanh* (2023).
+- **Dien Bien Phu & Geneva:** [3] Gen. Vo Nguyen Giap, *Dien Bien Phu* (memoir); the US State Dept. milestones; the Bulletin of the Atomic Scientists on the A-bomb offer; Ho Chi Minh's 1946 letter to Truman.
+- [4] _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

@@ -1,7 +1,7 @@
 # Blowback S4E8 — "Sons of Liberty"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E8%20Sons%20of%20Liberty){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e08-sons-of-liberty.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:09:30
 > **Thesis:** The Bush occupation years (2002–08) — the "Axis of Evil" turn against Iran; the warlords (and their boy-slaves and drug rackets) restored to power; the lavishing of Pakistan, Uzbekistan, and the Karzai family with cash; the torture/black-site/rendition regime; Malalai Joya's defiant Loya Jirga speech; the contractor bonanza (Halliburton/KBR); the heroin explosion (92% of world supply, much of it in US-allied hands); and the Taliban's steady comeback while Washington insisted the war was won.
@@ -54,8 +54,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
-- **The occupation:** Ahmed Rashid, *Descent into Chaos*; Craig Whitlock, *The Afghanistan Papers*; Anand Gopal, *No Good Men Among the Living*; Carlotta Gall, *The Wrong Enemy*; Joshua Partlow, *A Kingdom of Their Own*.
-- **Malalai Joya:** *A Woman Among Warlords* (2009).
-- **Khalilzad & torture:** Jon Lee Anderson, "American Viceroy" (2005); Ed Pilkington/Guardian on Abu Zubaydah; Carlotta Gall on Dilawar.
-- **Contractors & drugs:** Pratap Chatterjee, *Halliburton's Army* (2009); Seymour Hersh, "The Other War" (2004); James Risen/NYT on poppy; Peter Dale Scott on the drug-revenue shares.
-- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
+- **The occupation:** [1] Ahmed Rashid, *Descent into Chaos*; Craig Whitlock, *The Afghanistan Papers*; Anand Gopal, *No Good Men Among the Living*; Carlotta Gall, *The Wrong Enemy*; Joshua Partlow, *A Kingdom of Their Own*.
+- **Malalai Joya:** [2] *A Woman Among Warlords* (2009).
+- **Khalilzad & torture:** [3] Jon Lee Anderson, "American Viceroy" (2005); Ed Pilkington/Guardian on Abu Zubaydah; Carlotta Gall on Dilawar.
+- **Contractors & drugs:** [4] Pratap Chatterjee, *Halliburton's Army* (2009); Seymour Hersh, "The Other War" (2004); James Risen/NYT on poppy; Peter Dale Scott on the drug-revenue shares.
+- [5] _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

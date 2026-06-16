@@ -1,6 +1,7 @@
 # S6E8 — Cut Off Their Hands — Transcript
 
-[← Back to episode notes](../s6e08-cut-off-their-hands.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E8%20Cut%20Off%20Their%20Hands){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s6e08-cut-off-their-hands.md)**
 
 [00:00:00] Now, this does not mean, as some would have as believe, that we're in imminent danger of nuclear war.  
 [00:00:06] We're not.  

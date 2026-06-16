@@ -1,7 +1,7 @@
 # Blowback S4E7 — "Guns of the Patriots"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E7%20Guns%20of%20the%20Patriots){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e07-guns-of-the-patriots.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:05:00
 > **Thesis:** The fall of the Taliban (Oct–Dec 2001) — a CIA-led war won less by bombs than by **bribery** of the Northern Alliance and Taliban commanders; the war crimes it enabled (the Dasht-i-Leili container massacre); the installation of **Hamid Karzai** (whom the US nearly killed); bin Laden's escape at **Tora Bora**; and, at home, the post-9/11 overhaul of the national security state (the AUMF, the Patriot Act, assassination/rendition authority, and Cheney's decades-old "continuity of government" shadow plans).
@@ -59,8 +59,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
-- **The war & the fall of the Taliban:** Bob Woodward, *Bush at War*; Steve Coll, *Directorate S* (2018); Sean Naylor, *Relentless Strike* (2015); Craig Whitlock, *The Afghanistan Papers*; Ahmed Rashid, *Descent into Chaos*; Anand Gopal, *No Good Men Among the Living*.
-- **Dasht-i-Leili:** John Barry/Newsweek ("The Death Convoy of Afghanistan"); the FOIA documents; Carlotta Gall and James Risen/NYT; AAAS satellite imagery (2009).
-- **The national security state & COG:** James Mann, *Rise of the Vulcans* (2004); Peter Dale Scott, *The Road to 9/11*; the Washington Post "shadow government" reporting (2001).
-- **Memoirs:** George Tenet, *At the Center of the Storm* (2007); Pervez Musharraf, *In the Line of Fire* (2006).
-- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
+- **The war & the fall of the Taliban:** [1] Bob Woodward, *Bush at War*; Steve Coll, *Directorate S* (2018); Sean Naylor, *Relentless Strike* (2015); Craig Whitlock, *The Afghanistan Papers*; Ahmed Rashid, *Descent into Chaos*; Anand Gopal, *No Good Men Among the Living*.
+- **Dasht-i-Leili:** [2] John Barry/Newsweek ("The Death Convoy of Afghanistan"); the FOIA documents; Carlotta Gall and James Risen/NYT; AAAS satellite imagery (2009).
+- **The national security state & COG:** [3] James Mann, *Rise of the Vulcans* (2004); Peter Dale Scott, *The Road to 9/11*; the Washington Post "shadow government" reporting (2001).
+- **Memoirs:** [4] George Tenet, *At the Center of the Storm* (2007); Pervez Musharraf, *In the Line of Fire* (2006).
+- [5] _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

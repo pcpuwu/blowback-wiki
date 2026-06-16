@@ -1,7 +1,7 @@
 # Blowback S4E1 — "Snake Eater"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E1%20Snake%20Eater){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e01-snake-eater.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~44:00
 > **Thesis:** The season-opener for **Afghanistan** — a 40+ year saga (CIA covert war in the 70s → Soviet invasion in the 80s → the jihad going global in the 90s → 9/11 and the US war on terror → the 2021 withdrawal). The framing argument: Islamic fundamentalism is "as American as apple pie" — "MacJihad," the unacknowledged alliance between US power and political Islam — and the 2021 chaos makes no sense without going back decades.
@@ -38,5 +38,5 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources). This intro draws on the season's core "Books used throughout":_
-- George Crile, *Charlie Wilson's War* (2003); Steve Coll, *Ghost Wars* (2004); John Cooley, *Unholy Wars* (2002); Peter Dale Scott, *The Road to 9/11* (2007); Ahmed Rashid, *Descent into Chaos* (2008); Craig Whitlock, *The Afghanistan Papers* (2021); Anand Gopal, *No Good Men Among the Living* (2014); plus Timothy Mitchell ("MacJihad") and Saadat Hasan Manto, *Letters to Uncle Sam*.
-- _(Full per-episode bibliography for the season is in [`s4-sources.md`](s4-sources.md).)_
+- [1] George Crile, *Charlie Wilson's War* (2003); Steve Coll, *Ghost Wars* (2004); John Cooley, *Unholy Wars* (2002); Peter Dale Scott, *The Road to 9/11* (2007); Ahmed Rashid, *Descent into Chaos* (2008); Craig Whitlock, *The Afghanistan Papers* (2021); Anand Gopal, *No Good Men Among the Living* (2014); plus Timothy Mitchell ("MacJihad") and Saadat Hasan Manto, *Letters to Uncle Sam*.
+- [2] _(Full per-episode bibliography for the season is in [`s4-sources.md`](s4-sources.md).)_

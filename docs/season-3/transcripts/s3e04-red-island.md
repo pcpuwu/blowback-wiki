@@ -1,6 +1,7 @@
 # S3E4 — Red Island — Transcript
 
-[← Back to episode notes](../s3e04-red-island.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E4%20Red%20Island){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s3e04-red-island.md)**
 
 [00:00:02] He who can destroy a thing controls a thing.  
 [00:00:06] Episode 4, Red Island.  

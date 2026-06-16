@@ -1,6 +1,7 @@
 # S2E1 — The Jupiter Menace — Transcript
 
-[← Back to episode notes](../s2e01-the-jupiter-menace.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E1%20The%20Jupiter%20Menace){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s2e01-the-jupiter-menace.md)**
 
 [00:00:01] The President of the United States.  
 [00:00:05] October 10, 2003.  

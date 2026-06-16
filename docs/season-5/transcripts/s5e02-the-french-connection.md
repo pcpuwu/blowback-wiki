@@ -1,6 +1,7 @@
 # S5E2 — The French Connection — Transcript
 
-[← Back to episode notes](../s5e02-the-french-connection.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E2%20The%20French%20Connection){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s5e02-the-french-connection.md)**
 
 [00:00:00] A hero of wartime resistance, Ho Chi men.  
 [00:00:03] At 55, Ho has become a legend.  

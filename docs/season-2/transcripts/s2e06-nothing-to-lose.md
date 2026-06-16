@@ -1,6 +1,7 @@
 # S2E6 — Nothing to Lose — Transcript
 
-[← Back to episode notes](../s2e06-nothing-to-lose.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E6%20Nothing%20to%20Lose){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s2e06-nothing-to-lose.md)**
 
 [00:00:00] Good evening, my fellow citizens. I returned this morning from a week-long trip to Europe,  
 [00:00:07] and I want to report to you on that trip in full. It was in every sense an unforgettable experience.  

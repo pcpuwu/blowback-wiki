@@ -1,7 +1,7 @@
 # Blowback S3E5 — "Train to Busan"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E5%20Train%20to%20Busan){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e05-train-to-busan.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:18:38
 > **Thesis:** The week the war "broke out" (**June 25, 1950**) — and the host's central argument that it didn't simply *break out*. A year of South-instigated border clashes, secret Kim–Stalin–Mao correspondence, conspicuous US/Dulles/MacArthur meetings, and an oddly silent American intelligence apparatus precede Kim Il-sung's invasion. Then the rout: Seoul falls in three days, the ROK collapses, Truman commits ground troops as a "police action," and Rhee's retreating regime massacres tens of thousands of its own (Daejeon, No Gun Ri, Jeju).
@@ -69,8 +69,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources)._
-- **Korea / the war's outbreak:** Su-kyoung Hwang, *Korea's Grievous War*; Bruce Cumings, *Korea's Place in the Sun* / *The Origins of the Korean War* (and his interview); *The Bridge at No Gun Ri* / *The Road to No Gun Ri* (Hanley, Cho, Mendoza); Marguerite Higgins, *War in Korea* (1951).
-- **The strange run-up / cover-ups:** I.F. Stone, *The Hidden History of the Korean War* (1952); the CIA's *Baptism by Fire* (2014); Douglas MacArthur, *Reminiscences* (1964); Stephen Casey, *Selling the Korean War*.
-- **The communist side:** Zhu, Goncharov & Lewis, *Uncertain Partners* (Stalin–Mao–Kim); Nikita Khrushchev, *Memoirs*; Masuda Hajimu, *Cold War Crucible*.
-- **Big-picture / framing:** Samuel F. Wells Jr., *Fearing the Worst* (2020); David Halberstam, *The Coldest Winter* (2007); William Blum, *Killing Hope*; Albert Szymanski, *The Logic of Imperialism* (1983); William Polk (origins of the conflict).
-- _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_
+- **Korea / the war's outbreak:** [1] Su-kyoung Hwang, *Korea's Grievous War*; Bruce Cumings, *Korea's Place in the Sun* / *The Origins of the Korean War* (and his interview); *The Bridge at No Gun Ri* / *The Road to No Gun Ri* (Hanley, Cho, Mendoza); Marguerite Higgins, *War in Korea* (1951).
+- **The strange run-up / cover-ups:** [2] I.F. Stone, *The Hidden History of the Korean War* (1952); the CIA's *Baptism by Fire* (2014); Douglas MacArthur, *Reminiscences* (1964); Stephen Casey, *Selling the Korean War*.
+- **The communist side:** [3] Zhu, Goncharov & Lewis, *Uncertain Partners* (Stalin–Mao–Kim); Nikita Khrushchev, *Memoirs*; Masuda Hajimu, *Cold War Crucible*.
+- **Big-picture / framing:** [4] Samuel F. Wells Jr., *Fearing the Worst* (2020); David Halberstam, *The Coldest Winter* (2007); William Blum, *Killing Hope*; Albert Szymanski, *The Logic of Imperialism* (1983); William Polk (origins of the conflict).
+- [5] _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_

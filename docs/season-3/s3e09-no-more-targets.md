@@ -1,7 +1,7 @@
 # Blowback S3E9 — "No More Targets"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E9%20No%20More%20Targets){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e09-no-more-targets.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:13:42
 > **Thesis:** The war's final, longest phase (1951–53): a static battle line, peace talks repeatedly sabotaged by the US (often to serve other ends, like the Japan treaty), the POW "voluntary repatriation" deadlock that prolonged the war 18 months, MacArthur's failed turn to right-wing politics (and Truman's own collapse via the steel-seizure case), Eisenhower's election — and over it all the genocidal US air war that burned every North Korean city to ash. Armistice (July 27, 1953), not peace, with 2–4 million dead.
@@ -64,7 +64,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources)._
-- **The war & air campaign:** Bruce Cumings, *The Korean War* (2010) — incl. his genocide argument and interview; Su-kyoung Hwang, *Korea's Grievous War*; "Within Limits: The U.S. Air Force and the Korean War" (USAF, 1996); Thomas Powell on the POWs.
-- **The home front & MacArthur:** I.F. Stone, *The Hidden History of the Korean War* and *The Haunted Fifties* (1989); Michael Schaller, *Douglas MacArthur*; William Manchester, *American Caesar*; Maeva Marcus, *Truman and the Steel Seizure Case* (1994).
-- **POWs:** Monica Kim, *The Interrogation Rooms of the Korean War* (2019).
-- _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_
+- **The war & air campaign:** [1] Bruce Cumings, *The Korean War* (2010) — incl. his genocide argument and interview; Su-kyoung Hwang, *Korea's Grievous War*; "Within Limits: The U.S. Air Force and the Korean War" (USAF, 1996); Thomas Powell on the POWs.
+- **The home front & MacArthur:** [2] I.F. Stone, *The Hidden History of the Korean War* and *The Haunted Fifties* (1989); Michael Schaller, *Douglas MacArthur*; William Manchester, *American Caesar*; Maeva Marcus, *Truman and the Steel Seizure Case* (1994).
+- **POWs:** [3] Monica Kim, *The Interrogation Rooms of the Korean War* (2019).
+- [4] _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_

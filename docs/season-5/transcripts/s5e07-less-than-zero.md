@@ -1,6 +1,7 @@
 # S5E7 — Less Than Zero — Transcript
 
-[← Back to episode notes](../s5e07-less-than-zero.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E7%20Less%20Than%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s5e07-less-than-zero.md)**
 
 [00:00:08] After the Khmer Rouge took over Cambodia,  
 [00:00:11] Chairman Mao Zedong of the People's Republic of China  

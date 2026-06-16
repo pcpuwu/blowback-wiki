@@ -1,6 +1,7 @@
 # S2E2 — Lo Hicimos — Transcript
 
-[← Back to episode notes](../s2e02-lo-hicimos.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E2%20Lo%20Hicimos){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s2e02-lo-hicimos.md)**
 
 [00:00:01] In Havana this year, we talked to Fidel Castro about the irony of his 1959 trip to the United  
 [00:00:06] States, a friendly CIA encounter in New York, but an ominous meeting in Washington with the  

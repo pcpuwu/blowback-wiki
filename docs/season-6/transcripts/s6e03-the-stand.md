@@ -1,6 +1,7 @@
 # S6E3 — The Stand — Transcript
 
-[← Back to episode notes](../s6e03-the-stand.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E3%20The%20Stand){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s6e03-the-stand.md)**
 
 [00:00:00] At the height of the Cuban Missile Crisis, in October 1962,  
 [00:00:04] President John F. Kennedy took time out of managing potential nuclear apocalypse  

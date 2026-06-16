@@ -1,7 +1,7 @@
 # Blowback S6E3 — "The Stand"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E3%20The%20Stand){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e03-the-stand.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:14:30
 > **Thesis:** The liberation war (1961–73) — the 1961 uprisings and Portugal's napalm-and-massacre response (US-supplied, traded for the Azores base); the rise of the three nationalisms in a decade-long guerrilla war; the FNLA's corruption under Mobutu's patronage vs. the MPLA's surprising eastern success; Savimbi's secret collaboration with the Portuguese; and the deepening involvement of Cuba, the USSR, China, and apartheid South Africa (which, via Namibia/SWAPO, could not tolerate an independent Angola).
@@ -43,7 +43,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S6-Sources](https://blowback.show/S6-Sources)._
-- **The liberation war:** David Birmingham; Basil Davidson, *In the Eye of the Storm*; Natalia Telepneva, *Cold War Liberation*; Martin Meredith, *The State of Africa*; Jeremy Harding, *The Fate of Africa*; Inge Brinkman on the MPLA's witchcraft cases.
-- **Cuba & the international dimension:** Piero Gleijeses, *Conflicting Missions*; Elizabeth Schmidt, *Foreign Intervention in Africa*.
-- **South Africa/Namibia:** Robert Ross; Richard J. Evans, *The Coming of the Third Reich* (the Namibia–Nazi brownshirt link); Marissa Moorman, *Intonations*.
-- _(Full per-episode list in [`s6-sources.md`](s6-sources.md).)_
+- **The liberation war:** [1] David Birmingham; Basil Davidson, *In the Eye of the Storm*; Natalia Telepneva, *Cold War Liberation*; Martin Meredith, *The State of Africa*; Jeremy Harding, *The Fate of Africa*; Inge Brinkman on the MPLA's witchcraft cases.
+- **Cuba & the international dimension:** [2] Piero Gleijeses, *Conflicting Missions*; Elizabeth Schmidt, *Foreign Intervention in Africa*.
+- **South Africa/Namibia:** [3] Robert Ross; Richard J. Evans, *The Coming of the Third Reich* (the Namibia–Nazi brownshirt link); Marissa Moorman, *Intonations*.
+- [4] _(Full per-episode list in [`s6-sources.md`](s6-sources.md).)_

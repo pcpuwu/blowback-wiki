@@ -1,7 +1,7 @@
 # Blowback S2E2 — "Lo Hicimos"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E2%20Lo%20Hicimos){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e02-lo-hicimos.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:20:06
 > **Thesis:** The Cuban Revolution — traced from Spanish colonialism and the sugar-and-slavery economy through the US neocolony, the Batista dictatorship and its "gangsterismo," to Fidel's rise and the rebels' improbable victory on **Jan 1, 1959**, setting Cuba on a collision course with the United States.
@@ -54,10 +54,10 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources). Bucketed by theme:_
-- **US designs on Cuba / 1898:** Writings of John Quincy Adams; *Cuba and the United States: Ties of Singular Intimacy* (Louis A. Pérez Jr., 2003) & related Pérez articles; John L. Offner, "McKinley and the Spanish-American War"; "Credit 'Splendid Little War' to John Hay" (NYT, 1991).
-- **Sugar & slavery:** Franklin W. Knight, "Origins of Wealth and the Sugar Revolution in Cuba"; "Cuba and the United States in the Atlantic Slave Trade" (Iglesias Utset & Felipe González); *The Last Slave Ships* (John Harris, 2020).
-- **Martí / independence:** Ann Louise Bardach's review of *José Martí: A Revolutionary Life*; "The Threat of a Free Haiti" (Samuel Farber, Jacobin).
-- **The neocolony / republic:** Richard Gott, *Cuba: A New History* (2004); James H. Hitchman on Leonard Wood and the protectorate; "Myths of Racial Democracy: Cuba" (Alejandro de la Fuente); "The Machadato and Cuban Nationalism" (Jules Benjamin).
-- **Batista & gangsterismo:** *Fulgencio Batista: The Making of a Dictator* (Frank Argote-Freyre, 2006); *The Politics of Heroin* (Alfred McCoy, 1972); "Havana, Cuba: Contraband Capitalism…" (Peter Schneider).
-- **The revolution:** *Contesting Castro* (Thomas Paterson, 1995); *The United States and the Origins of the Cuban Revolution* (Jules Benjamin, 1992); Michelle Chase, *Revolution Within the Revolution*.
-- _(Full list, incl. "Books used throughout" and "Sources Frequently Cited," in [`s2-sources.md`](s2-sources.md).)_
+- **US designs on Cuba / 1898:** [1] Writings of John Quincy Adams; *Cuba and the United States: Ties of Singular Intimacy* (Louis A. Pérez Jr., 2003) & related Pérez articles; John L. Offner, "McKinley and the Spanish-American War"; "Credit 'Splendid Little War' to John Hay" (NYT, 1991).
+- **Sugar & slavery:** [2] Franklin W. Knight, "Origins of Wealth and the Sugar Revolution in Cuba"; "Cuba and the United States in the Atlantic Slave Trade" (Iglesias Utset & Felipe González); *The Last Slave Ships* (John Harris, 2020).
+- **Martí / independence:** [3] Ann Louise Bardach's review of *José Martí: A Revolutionary Life*; "The Threat of a Free Haiti" (Samuel Farber, Jacobin).
+- **The neocolony / republic:** [4] Richard Gott, *Cuba: A New History* (2004); James H. Hitchman on Leonard Wood and the protectorate; "Myths of Racial Democracy: Cuba" (Alejandro de la Fuente); "The Machadato and Cuban Nationalism" (Jules Benjamin).
+- **Batista & gangsterismo:** [5] *Fulgencio Batista: The Making of a Dictator* (Frank Argote-Freyre, 2006); *The Politics of Heroin* (Alfred McCoy, 1972); "Havana, Cuba: Contraband Capitalism…" (Peter Schneider).
+- **The revolution:** [6] *Contesting Castro* (Thomas Paterson, 1995); *The United States and the Origins of the Cuban Revolution* (Jules Benjamin, 1992); Michelle Chase, *Revolution Within the Revolution*.
+- [7] _(Full list, incl. "Books used throughout" and "Sources Frequently Cited," in [`s2-sources.md`](s2-sources.md).)_

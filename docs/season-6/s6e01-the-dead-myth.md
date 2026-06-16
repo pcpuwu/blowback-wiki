@@ -1,7 +1,7 @@
 # Blowback S6E1 — "The Dead Myth"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E1%20The%20Dead%20Myth){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e01-the-dead-myth.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~46:00
 > **Thesis:** The season-opener for **Angola** — the Cold War's biggest showdown in Africa. A revolution against Portugal's backward empire, then a civil war in which the socialist **MPLA** (backed by **Cuba** and the USSR) faced the CIA, mercenaries, **apartheid South Africa**, and the ex-Maoist warlord **Jonas Savimbi** (UNITA). Mandela's verdict: Cuba's defeat of the South Africans in Angola "destroyed the myth of the invincibility of the white oppressor" — the turning point against apartheid.
@@ -36,5 +36,5 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S6-Sources](https://blowback.show/S6-Sources). This intro draws on the season's core "Books used throughout":_
-- Piero Gleijeses, *Conflicting Missions* (2002) and *Visions of Freedom* (2013); David Birmingham, *A Short History of Modern Angola* (2015); John Stockwell, *In Search of Enemies* (1978); Martin Meredith, *The State of Africa*; Elizabeth Schmidt, *Foreign Intervention in Africa*; Elaine Windrich, *The Cold War Guerrilla: Jonas Savimbi* (1992).
-- _(Full per-episode bibliography for the season is in [`s6-sources.md`](s6-sources.md).)_
+- [1] Piero Gleijeses, *Conflicting Missions* (2002) and *Visions of Freedom* (2013); David Birmingham, *A Short History of Modern Angola* (2015); John Stockwell, *In Search of Enemies* (1978); Martin Meredith, *The State of Africa*; Elizabeth Schmidt, *Foreign Intervention in Africa*; Elaine Windrich, *The Cold War Guerrilla: Jonas Savimbi* (1992).
+- [2] _(Full per-episode bibliography for the season is in [`s6-sources.md`](s6-sources.md).)_

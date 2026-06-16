@@ -1,7 +1,7 @@
 # Blowback S3E2 — "The Uninvited"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E2%20The%20Uninvited){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e02-the-uninvited.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:10:07
 > **Thesis:** The deep history behind the Korean War — Korea's kingdoms, its colonization by Imperial Japan, the parallel rise of the American empire (Hawaii, the Philippines), the anti-Japanese resistance that produced Kim Il-sung, and the arbitrary US division of Korea at the **38th parallel** in 1945.
@@ -36,7 +36,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources)._
-- **Korean history:** Han Woo-keun, *The History of Korea* (1974); Bruce Cumings, *Korea's Place in the Sun*; Suzy Kim.
-- **US empire:** Michael Devine on John W. Foster and Hawaii; Ken De Bevoise, *Agents of Apocalypse* (the Philippines); Gareth Stedman-Jones, "The Specificity of US Imperialism"; McKinley's "benevolent assimilation" interview; Lenin, "War and Revolution" (1917).
-- **The division:** Dean Rusk, *As I Saw It* (1991) — the 38th-parallel account.
-- _(Full per-episode list, plus the "Works Used Frequently Throughout" section, in [`s3-sources.md`](s3-sources.md).)_
+- **Korean history:** [1] Han Woo-keun, *The History of Korea* (1974); Bruce Cumings, *Korea's Place in the Sun*; Suzy Kim.
+- **US empire:** [2] Michael Devine on John W. Foster and Hawaii; Ken De Bevoise, *Agents of Apocalypse* (the Philippines); Gareth Stedman-Jones, "The Specificity of US Imperialism"; McKinley's "benevolent assimilation" interview; Lenin, "War and Revolution" (1917).
+- **The division:** [3] Dean Rusk, *As I Saw It* (1991) — the 38th-parallel account.
+- [4] _(Full per-episode list, plus the "Works Used Frequently Throughout" section, in [`s3-sources.md`](s3-sources.md).)_

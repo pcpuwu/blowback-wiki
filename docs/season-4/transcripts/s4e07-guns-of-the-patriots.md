@@ -1,6 +1,7 @@
 # S4E7 — Guns of the Patriots — Transcript
 
-[← Back to episode notes](../s4e07-guns-of-the-patriots.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E7%20Guns%20of%20the%20Patriots){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s4e07-guns-of-the-patriots.md)**
 
 [00:00:00] On November 15, 2001, several weeks into the U.S. war in Afghanistan, there was an odd  
 [00:00:08] incident. In northern Afghanistan, northern alliance commanders outside Kunduz reported seeing  

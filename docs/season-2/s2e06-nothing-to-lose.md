@@ -1,7 +1,7 @@
 # Blowback S2E6 — "Nothing to Lose"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E6%20Nothing%20to%20Lose){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e06-nothing-to-lose.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~59:53
 > **Thesis:** The Bay of Pigs fallout — the humiliated Kennedys escalate into **Operation Mongoose**, the largest covert program in CIA history, a sustained sabotage/terror/assassination campaign — while the Vienna summit, Berlin, and the Jupiter missiles set the stage for the Missile Crisis.
@@ -37,9 +37,9 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources)._
-- **Mongoose / CIA:** "American Experience: Operation Mongoose" (PBS); "The Kennedy Vendetta" (Branch & Crile); *The Cuban Counterrevolution* (Arboleya); Church Committee reports; "The Mystery of the JM Wave"; Thomas Powers, "Inside the Department of Dirty Tricks."
-- **The mafia plot / RFK:** "Texts on Alleged US Assassination Plots" (NYT, 1975); FBI Balletti file; "The CIA's 'Loaded Gun'" (on William Harvey).
-- **Vienna / Berlin / Jupiters:** *The Vienna Summit* (Bischof et al.); "The Cuban Missile Crisis: Trading the Jupiters in Turkey?" (Bernstein); "JFK's Russian Conspiracy" (Naftali).
-- **Helms / Bissell:** "Richard M. Bissell… Is Dead" (NYT); "Richard Helms: The Intelligence Professional Personified" (CIA); *The Book of Honor* (Ted Gup).
-- **Regional / OAS / propaganda:** *The Most Dangerous Area in the World* (Rabe); *Red Heat* (von Tunzelmann); *Psywar on Cuba* (Jon Elliston); Kornbluh's Mongoose FOIA work.
-- _(Full list in [`s2-sources.md`](s2-sources.md).)_
+- **Mongoose / CIA:** [1] "American Experience: Operation Mongoose" (PBS); "The Kennedy Vendetta" (Branch & Crile); *The Cuban Counterrevolution* (Arboleya); Church Committee reports; "The Mystery of the JM Wave"; Thomas Powers, "Inside the Department of Dirty Tricks."
+- **The mafia plot / RFK:** [2] "Texts on Alleged US Assassination Plots" (NYT, 1975); FBI Balletti file; "The CIA's 'Loaded Gun'" (on William Harvey).
+- **Vienna / Berlin / Jupiters:** [3] *The Vienna Summit* (Bischof et al.); "The Cuban Missile Crisis: Trading the Jupiters in Turkey?" (Bernstein); "JFK's Russian Conspiracy" (Naftali).
+- **Helms / Bissell:** [4] "Richard M. Bissell… Is Dead" (NYT); "Richard Helms: The Intelligence Professional Personified" (CIA); *The Book of Honor* (Ted Gup).
+- **Regional / OAS / propaganda:** [5] *The Most Dangerous Area in the World* (Rabe); *Red Heat* (von Tunzelmann); *Psywar on Cuba* (Jon Elliston); Kornbluh's Mongoose FOIA work.
+- [6] _(Full list in [`s2-sources.md`](s2-sources.md).)_

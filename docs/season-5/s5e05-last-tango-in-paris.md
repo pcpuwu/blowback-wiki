@@ -1,7 +1,7 @@
 # Blowback S5E5 — "Last Tango in Paris"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E5%20Last%20Tango%20in%20Paris){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e05-last-tango-in-paris.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:05:30
 > **Thesis:** 1970–73 — the Khmer Rouge come into their own (Pol Pot's rise, the FUNK alliance with exiled Sihanouk, early signs of fanaticism), Lon Nol's republic rots into a corrupt garrison state committing anti-Vietnamese pogroms, Nixon completes the **opening to China** (at Vietnam's expense), the Paris Accords finally end America's Vietnam War (Jan 1973) — and the saturation bombing of Cambodia escalates toward its apocalyptic peak.
@@ -53,7 +53,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
-- **Cambodia & the Khmer Rouge:** Philip Short, *Pol Pot*; Elizabeth Becker, *When the War Was Over*; William Shawcross, *Sideshow*; Ben Kiernan, *How Pol Pot Came to Power*.
-- **Nixon, Kissinger & Vietnam:** Seymour Hersh, *The Price of Power*; Carolyn Woods Eisenberg, *Fire and Rain*; Robert K. Brigham, *Reckless*; Ken Hughes, *Chasing Shadows* (2015); Chen Jian, *Zhou Enlai: A Life* (2024); Mark Atwood Lawrence.
-- **GI resistance:** David Cortright, *Soldiers in Revolt*; Marv Truhe, *Against All Tides* (USS Kitty Hawk).
-- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_
+- **Cambodia & the Khmer Rouge:** [1] Philip Short, *Pol Pot*; Elizabeth Becker, *When the War Was Over*; William Shawcross, *Sideshow*; Ben Kiernan, *How Pol Pot Came to Power*.
+- **Nixon, Kissinger & Vietnam:** [2] Seymour Hersh, *The Price of Power*; Carolyn Woods Eisenberg, *Fire and Rain*; Robert K. Brigham, *Reckless*; Ken Hughes, *Chasing Shadows* (2015); Chen Jian, *Zhou Enlai: A Life* (2024); Mark Atwood Lawrence.
+- **GI resistance:** [3] David Cortright, *Soldiers in Revolt*; Marv Truhe, *Against All Tides* (USS Kitty Hawk).
+- [4] _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

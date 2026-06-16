@@ -1,7 +1,7 @@
 # Blowback S5E1 — "The Wolves Are Closing In"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E1%20The%20Wolves%20Are%20Closing%20In){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e01-the-wolves-are-closing-in.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~43:30
 > **Thesis:** The season-opener for **Cambodia** — how a small, neutral country was "fed to the meat grinder as a matter of political expediency." Not just the Vietnam War but the *chain reaction* it set off across Indochina: secret bombing → coup → invasion → the Khmer Rouge → the genocide → Vietnam's ousting of Pol Pot → and the shocking US/Chinese support for the Khmer Rouge through the 1980s. A story of the Sino-Soviet rivalry and the crack-up of Asian communism.
@@ -40,5 +40,5 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources). This intro draws on the season's core "Books used throughout":_
-- William Shawcross, *Sideshow: Kissinger, Nixon, and the Destruction of Cambodia* (1979); Seymour Hersh, *The Price of Power* (1983); Elizabeth Becker, *When the War Was Over* (1998); Ben Kiernan, *How Pol Pot Came to Power* (2004); Philip Short, *Pol Pot* (2004); David Chandler, *Brother Number One* / *A History of Cambodia*; Marilyn Young, *The Vietnam Wars*; Nayan Chanda, *Brother Enemy* (1986).
-- _(Full per-episode bibliography for the season is in [`s5-sources.md`](s5-sources.md).)_
+- [1] William Shawcross, *Sideshow: Kissinger, Nixon, and the Destruction of Cambodia* (1979); Seymour Hersh, *The Price of Power* (1983); Elizabeth Becker, *When the War Was Over* (1998); Ben Kiernan, *How Pol Pot Came to Power* (2004); Philip Short, *Pol Pot* (2004); David Chandler, *Brother Number One* / *A History of Cambodia*; Marilyn Young, *The Vietnam Wars*; Nayan Chanda, *Brother Enemy* (1986).
+- [2] _(Full per-episode bibliography for the season is in [`s5-sources.md`](s5-sources.md).)_

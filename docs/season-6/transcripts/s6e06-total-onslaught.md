@@ -1,6 +1,7 @@
 # S6E6 — Total Onslaught — Transcript
 
-[← Back to episode notes](../s6e06-total-onslaught.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E6%20Total%20Onslaught){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s6e06-total-onslaught.md)**
 
 [00:00:23] Welcome to Blowback. I'm Brendan James. And I'm Noah Colwin. And this is Season 6, Episode 6,  
 [00:00:30] Total Onslaught. Last time, we covered what came after Angolan independence, how, in the first  

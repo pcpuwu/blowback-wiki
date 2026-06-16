@@ -1,7 +1,7 @@
 # Blowback S4E10 — "The Phantom Pain"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E10%20The%20Phantom%20Pain){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e10-the-phantom-pain.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:00:30
 > **Thesis:** The end (2016–2023) and the reckoning — Mullah Omar's hidden death and the Taliban succession; Trump's "mother of all bombs" and surging civilian deaths, then the US–Taliban **Doha deal** (Feb 2020, the government excluded); Biden's chaotic 2021 withdrawal and Ghani's flight; and the cast's fates. The closing argument: the snake eats its tail — the US never stopped "mixing Islam with politics" (Syria), and even sent Russia-bought Afghan helicopters to Ukraine to kill Russians.
@@ -44,7 +44,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
-- **The end of the war:** Hassan Abbas, *The Return of the Taliban* (2023); Steve Coll & Adam Entous, "The Secret History of the U.S. Diplomatic Failure" (New Yorker, 2021); the Hasht-e-Subh account of Ghani's flight; Al Jazeera and Guardian reporting on the Doha deal, Hekmatyar, and the MOAB.
-- **The blowback theme:** Andrew Cockburn, "A Special Relationship" (Harper's, 2016); Tariq Ali; the Washington Post on the Mi-17→Ukraine transfer.
-- **The reckoning:** Neta C. Crawford / Brown University Costs of War (airstrike deaths; the ~243,000 figure); In These Times and NBC on the frozen assets and famine.
-- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
+- **The end of the war:** [1] Hassan Abbas, *The Return of the Taliban* (2023); Steve Coll & Adam Entous, "The Secret History of the U.S. Diplomatic Failure" (New Yorker, 2021); the Hasht-e-Subh account of Ghani's flight; Al Jazeera and Guardian reporting on the Doha deal, Hekmatyar, and the MOAB.
+- **The blowback theme:** [2] Andrew Cockburn, "A Special Relationship" (Harper's, 2016); Tariq Ali; the Washington Post on the Mi-17→Ukraine transfer.
+- **The reckoning:** [3] Neta C. Crawford / Brown University Costs of War (airstrike deaths; the ~243,000 figure); In These Times and NBC on the frozen assets and famine.
+- [4] _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

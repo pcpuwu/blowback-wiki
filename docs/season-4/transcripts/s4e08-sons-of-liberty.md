@@ -1,6 +1,7 @@
 # S4E8 — Sons of Liberty — Transcript
 
-[← Back to episode notes](../s4e08-sons-of-liberty.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E8%20Sons%20of%20Liberty){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s4e08-sons-of-liberty.md)**
 
 [00:00:07] Khas Uruzgan is a small district in southern Afghanistan.  
 [00:00:12] Over the past 40 years, it's seen some of the worst fighting in the whole country.  

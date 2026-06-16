@@ -1,6 +1,7 @@
 # S2E10 — Infinite Crisis — Transcript
 
-[← Back to episode notes](../s2e10-infinite-crisis.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E10%20Infinite%20Crisis){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s2e10-infinite-crisis.md)**
 
 [00:00:00] My fellow Americans, I want to begin tonight by telling a story.  
 [00:00:06] Compared with the hellish years of the last decade, Guatemala today seems positively serene.  

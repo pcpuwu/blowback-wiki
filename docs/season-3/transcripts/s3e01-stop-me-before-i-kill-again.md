@@ -1,6 +1,7 @@
 # S3E1 — Stop Me Before I Kill Again — Transcript
 
-[← Back to episode notes](../s3e01-stop-me-before-i-kill-again.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E1%20Stop%20Me%20Before%20I%20Kill%20Again){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s3e01-stop-me-before-i-kill-again.md)**
 
 [00:00:23] And coming up here, we expect a briefing by Defense Secretary Donald Brumsfeld.  
 [00:00:27] It should happen in just a couple of minutes.  

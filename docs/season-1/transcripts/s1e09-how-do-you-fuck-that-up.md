@@ -1,6 +1,7 @@
 # S1E9 — How Do You Fuck That Up? — Transcript
 
-[← Back to episode notes](../s1e09-how-do-you-fuck-that-up.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E9%20How%20Do%20You%20Fuck%20That%20Up%3F){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s1e09-how-do-you-fuck-that-up.md)**
 
 [00:00:00] Better late than never.  
 [00:00:03] It's you.  

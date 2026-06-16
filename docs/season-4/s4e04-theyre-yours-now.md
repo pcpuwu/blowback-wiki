@@ -1,7 +1,7 @@
 # Blowback S4E4 — "They're Yours Now"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E4%20They%27re%20Yours%20Now){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e04-theyre-yours-now.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:09:40
 > **Thesis:** The mechanics and the endgame of the 1980s jihad. The Soviets (Andropov → Gorbachev) repeatedly try to negotiate out; the US, Saudis, and Pakistan deliberately prolong the war to "bleed" Moscow and win a post-Vietnam victory. The episode follows the guns (Vickers's "techno-guerrillas," the Stinger), the drugs (heroin via BCCI), the cross-border raids *into the USSR*, and the rise of the Afghan-Arab network (bin Laden, Al-Kifah) — until the Soviet withdrawal (Feb 1989).
@@ -53,9 +53,9 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
-- **The Soviet side & withdrawal:** Rodric Braithwaite, *Afgantsy*; Artemy Kalinovsky, *A Long Goodbye*; Selig Harrison, "Inside the Afghan Talks" (1988); Diego Cordovez; Wilson Center digital archive documents.
-- **The covert war & cast:** George Crile, *Charlie Wilson's War*; Steve Coll, *Ghost Wars*; Peter Dale Scott; Peter Schweizer; Robert Gates; Fitzgerald & Gould.
-- **Drugs:** Alfred McCoy, *The Politics of Heroin*; the Financial Times and Washington Post pieces.
-- **KAL 007 & propaganda:** Alvin Snyder (WaPo, 1996); Seymour Hersh, *The Target Is Destroyed* (1986).
-- **The Afghan-Arabs:** Richard Clarke, *Against All Enemies*; Peter Bergen on bin Laden.
-- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
+- **The Soviet side & withdrawal:** [1] Rodric Braithwaite, *Afgantsy*; Artemy Kalinovsky, *A Long Goodbye*; Selig Harrison, "Inside the Afghan Talks" (1988); Diego Cordovez; Wilson Center digital archive documents.
+- **The covert war & cast:** [2] George Crile, *Charlie Wilson's War*; Steve Coll, *Ghost Wars*; Peter Dale Scott; Peter Schweizer; Robert Gates; Fitzgerald & Gould.
+- **Drugs:** [3] Alfred McCoy, *The Politics of Heroin*; the Financial Times and Washington Post pieces.
+- **KAL 007 & propaganda:** [4] Alvin Snyder (WaPo, 1996); Seymour Hersh, *The Target Is Destroyed* (1986).
+- **The Afghan-Arabs:** [5] Richard Clarke, *Against All Enemies*; Peter Bergen on bin Laden.
+- [6] _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

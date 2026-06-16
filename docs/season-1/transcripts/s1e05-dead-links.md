@@ -1,6 +1,7 @@
 # S1E5 — Dead Links (feat. Will Menaker) — Transcript
 
-[← Back to episode notes](../s1e05-dead-links.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E5%20Dead%20Links%20%28feat.%20Will%20Menaker%29){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s1e05-dead-links.md)**
 
 [00:00:00] His dad, by the way, was on Team B.  
 [00:00:02] And Daniel Pipes,  

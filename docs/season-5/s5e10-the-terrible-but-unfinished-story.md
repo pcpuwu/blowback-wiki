@@ -1,7 +1,7 @@
 # Blowback S5E10 — "The Terrible But Unfinished Story"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E10%20The%20Terrible%20But%20Unfinished%20Story){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e10-the-terrible-but-unfinished-story.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:06:30
 > **Thesis:** The long aftermath — Vietnam's withdrawal (1989) and the US finally dropping the Khmer Rouge; the UN peace process and Cambodia's first elections (1993); Hun Sen's consolidation of power; Pol Pot's squalid end (1998) and the slow, scope-limited genocide tribunal; the genocide debate; and where Cambodia, Vietnam, and the players stand today — in a region newly structured by US-China rivalry, the latest of Kissinger's "gray areas."
@@ -50,6 +50,6 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
-- **The aftermath & tribunal:** Joel Brinkley, *Cambodia's Curse* (2011); Philip Short, *Pol Pot*; David Chandler; Elizabeth Becker; Ben Kiernan; Craig Etcheson; the ECCC documents and HRW on the 1997 coup.
-- **Cambodia today / geopolitics:** the Washington Post on Hun Manet; David Vine, "Lists of U.S. Military Bases"; Breaking Defense on China's bases; Henry Kissinger, "Military Policy and Defense of the 'Grey Areas'" (*Foreign Affairs*, 1955).
-- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_
+- **The aftermath & tribunal:** [1] Joel Brinkley, *Cambodia's Curse* (2011); Philip Short, *Pol Pot*; David Chandler; Elizabeth Becker; Ben Kiernan; Craig Etcheson; the ECCC documents and HRW on the 1997 coup.
+- **Cambodia today / geopolitics:** [2] the Washington Post on Hun Manet; David Vine, "Lists of U.S. Military Bases"; Breaking Defense on China's bases; Henry Kissinger, "Military Policy and Defense of the 'Grey Areas'" (*Foreign Affairs*, 1955).
+- [3] _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

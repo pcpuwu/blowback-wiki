@@ -1,7 +1,7 @@
 # Blowback S5E6 — "Dream Warriors"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E6%20Dream%20Warriors){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e06-dream-warriors.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:10:00
 > **Thesis:** 1973–75 — the bloodiest year (the most savage bombing of Cambodia, climaxing the secret war that became "the Southeast Asia Division of Watergate"), Nixon's fall (and the impeachment article over Cambodia that Congress *abandoned*), the Khmer Rouge's radicalization and break from Hanoi, and the twin collapses: **Phnom Penh and Saigon both fall (April 1975)**. The Khmer Rouge enter the capital — silent, not smiling.
@@ -54,7 +54,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
-- **The bombing & Watergate:** Carolyn Woods Eisenberg, *Fire and Rain*; Seymour Hersh, *The Price of Power* and *Reporter*; William Shawcross, *Sideshow*; the Senate Armed Services Committee Cambodia hearings (1973).
-- **Cambodia & the Khmer Rouge:** Elizabeth Becker, *When the War Was Over*; Philip Short, *Pol Pot*; Paul Thomas Chamberlin, *The Cold War's Killing Fields* (2018); Ben Kiernan; Grant Evans & Kelvin Rowley.
-- **China & the end:** Jeremy Friedman, *Shadow Cold War*; Chen Jian; Mark Atwood Lawrence; Woodward & Bernstein on Nixon's last night; John Pilger's documentary.
-- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_
+- **The bombing & Watergate:** [1] Carolyn Woods Eisenberg, *Fire and Rain*; Seymour Hersh, *The Price of Power* and *Reporter*; William Shawcross, *Sideshow*; the Senate Armed Services Committee Cambodia hearings (1973).
+- **Cambodia & the Khmer Rouge:** [2] Elizabeth Becker, *When the War Was Over*; Philip Short, *Pol Pot*; Paul Thomas Chamberlin, *The Cold War's Killing Fields* (2018); Ben Kiernan; Grant Evans & Kelvin Rowley.
+- **China & the end:** [3] Jeremy Friedman, *Shadow Cold War*; Chen Jian; Mark Atwood Lawrence; Woodward & Bernstein on Nixon's last night; John Pilger's documentary.
+- [4] _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

@@ -1,6 +1,7 @@
 # S4E5 — We Can Live With That — Transcript
 
-[← Back to episode notes](../s4e05-we-can-live-with-that.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E5%20We%20Can%20Live%20With%20That){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s4e05-we-can-live-with-that.md)**
 
 [00:00:04] In February 1997, as scientists announced the successful cloning of Dolly the sheep and UN sanctions drove Iraq to the brink of collapse,  
 [00:00:18] someone in the State Department boiled a pot of tea for a certain foreign delegation.  

@@ -1,6 +1,7 @@
 # S6E2 — Economy of Terror — Transcript
 
-[← Back to episode notes](../s6e02-economy-of-terror.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E2%20Economy%20of%20Terror){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s6e02-economy-of-terror.md)**
 
 [00:00:03] At the beginning of the Renaissance, the Portuguese set out in 50-ton caravals  
 [00:00:08] to push back the frontiers of the unknown by their skillful exploration.  

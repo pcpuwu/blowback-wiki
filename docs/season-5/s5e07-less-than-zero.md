@@ -1,7 +1,7 @@
 # Blowback S5E7 — "Less Than Zero"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E7%20Less%20Than%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e07-less-than-zero.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:07:00
 > **Thesis:** "Year Zero" — the Khmer Rouge empty the cities and turn Cambodia into a silent slave society under "Angkar" (no money, markets, religion, family ties, foreign contact; "new people" vs. "old people"; mass death by overwork, starvation, and execution). Meanwhile unified Vietnam, devastated and desperate for US reconstruction aid, fails to normalize relations (the POW/MIA myth and Nixon's secret reparations letter), and the Sino-Soviet split pushes China + Khmer Rouge against Vietnam — as a new war between communist neighbors looms.
@@ -50,7 +50,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
-- **The Khmer Rouge:** Philip Short, *Pol Pot*; Elizabeth Becker, *When the War Was Over*; Ben Kiernan; Michael Vickery; Wilfred Burchett, *The China Cambodia Vietnam Triangle* (1981); the Mao–Pol Pot meeting transcript (Wilson Center); Dith Pran (comp.), *Children of Cambodia's Killing Fields*.
-- **Vietnam & normalization:** Mark Atwood Lawrence; Grant Evans & Kelvin Rowley; the NYT on Nixon's reparations letter and Hanoi/UN.
-- **The MIA myth & Mayaguez:** Rick Perlstein (*The Invisible Bridge*; The Nation); Mattias Fibiger on the Mayaguez incident.
-- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_
+- **The Khmer Rouge:** [1] Philip Short, *Pol Pot*; Elizabeth Becker, *When the War Was Over*; Ben Kiernan; Michael Vickery; Wilfred Burchett, *The China Cambodia Vietnam Triangle* (1981); the Mao–Pol Pot meeting transcript (Wilson Center); Dith Pran (comp.), *Children of Cambodia's Killing Fields*.
+- **Vietnam & normalization:** [2] Mark Atwood Lawrence; Grant Evans & Kelvin Rowley; the NYT on Nixon's reparations letter and Hanoi/UN.
+- **The MIA myth & Mayaguez:** [3] Rick Perlstein (*The Invisible Bridge*; The Nation); Mattias Fibiger on the Mayaguez incident.
+- [4] _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

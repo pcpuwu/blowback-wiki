@@ -1,6 +1,7 @@
 # S5E4 — Mad Men — Transcript
 
-[← Back to episode notes](../s5e04-mad-men.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E4%20Mad%20Men){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s5e04-mad-men.md)**
 
 [00:00:01] But we cannot lose this war, having started that from what you have to do.  
 [00:00:07] For once, we've got to use the maximum power of this country against this shit-ass little country  

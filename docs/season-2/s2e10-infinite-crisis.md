@@ -1,7 +1,7 @@
 # Blowback S2E10 — "Infinite Crisis"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E10%20Infinite%20Crisis){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e10-infinite-crisis.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:18:48 · **(Season 2 finale)**
 > **Thesis:** The aftermath of the missile crisis and JFK's death — the lost chance at normalization — then a decades-long speed-run of the US war on Cuba (Che's death, the mob's deaths, Angola, the "special period," the Bush family's Cuba ties) through to Obama's thaw, Fidel's death, and the present.
@@ -35,10 +35,10 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources) (Episode 7–10 section)._
-- **The lost peace / Lisa Howard:** *Backchannel to Cuba* (Kornbluh & LeoGrand); Lechuga's memoir; Howard's diaries.
-- **Khrushchev / Soviets:** Khrushchev's memoirs; Albert Szymanski on Soviet-Cuba aid.
-- **The assassinations / mob:** Tom O'Neill, *Chaos* (Jolly West / MK-Ultra); HSCA records; Frank Ragano on Trafficante.
-- **Decades / terror / Angola:** Piero Gleijeses on Cuba and Angola; reporting on CORU / Flight 455 / Posada Carriles.
-- **The Bush memo:** Joseph McBride's reporting in *The Nation* (1988); Michael Isikoff on Jeb Bush and Orlando Bosch.
-- **Present day:** Helen Yaffe; interviews with Cuban guests (Marta Núñez Sarmiento, Raúl Roa Kourí, Rafael Hernández, Oscar Oramas Oliva).
-- _(Full Episode 7–10 source list in [`s2-sources.md`](s2-sources.md).)_
+- **The lost peace / Lisa Howard:** [1] *Backchannel to Cuba* (Kornbluh & LeoGrand); Lechuga's memoir; Howard's diaries.
+- **Khrushchev / Soviets:** [2] Khrushchev's memoirs; Albert Szymanski on Soviet-Cuba aid.
+- **The assassinations / mob:** [3] Tom O'Neill, *Chaos* (Jolly West / MK-Ultra); HSCA records; Frank Ragano on Trafficante.
+- **Decades / terror / Angola:** [4] Piero Gleijeses on Cuba and Angola; reporting on CORU / Flight 455 / Posada Carriles.
+- **The Bush memo:** [5] Joseph McBride's reporting in *The Nation* (1988); Michael Isikoff on Jeb Bush and Orlando Bosch.
+- **Present day:** [6] Helen Yaffe; interviews with Cuban guests (Marta Núñez Sarmiento, Raúl Roa Kourí, Rafael Hernández, Oscar Oramas Oliva).
+- [7] _(Full Episode 7–10 source list in [`s2-sources.md`](s2-sources.md).)_

@@ -1,6 +1,7 @@
 # S3E8 — American Caesar — Transcript
 
-[← Back to episode notes](../s3e08-american-caesar.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E8%20American%20Caesar){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s3e08-american-caesar.md)**
 
 [00:00:10] Christmas Eve, 1950. American GIs were supposed to be home by now. They weren't. Instead,  
 [00:00:19] on this day, General Douglas MacArthur raised the stakes of the Korean War with a message to  

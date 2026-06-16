@@ -1,7 +1,7 @@
 # Blowback S4E6 — "Ground Zeroes"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E6%20Ground%20Zeroes){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e06-ground-zeroes.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:03:00
 > **Thesis:** The road to 9/11 (1996–2001) — the Afghan-Arab jihad metastasizing worldwide (Bosnia, the Philippines, Algeria, the Caucasus); bin Laden declaring war from Afghanistan; the embassy and USS Cole bombings; the buried Saudi connections and the spiked intelligence on the hijackers; the US/Taliban pipeline diplomacy running right up to the attacks; and the attacks themselves — used as the trigger for a war already agreed on Sept 10.
@@ -54,8 +54,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
-- **The road to 9/11:** Steve Coll, *Ghost Wars* and *Directorate S* (2018); Lawrence Wright, *The Looming Tower* (2006) and "The Counter-Terrorist" (2002); John Miller et al., *The Cell* (2002); James Bamford, *The Shadow Factory* (2008).
-- **The global jihad:** Peter Dale Scott, *The Road to 9/11*; John Cooley, *Unholy Wars*; the West Point CTC "American Journeys to Jihad" (2010); HRW on the Mazar-i-Sharif massacre (1998).
-- **The Saudi connection:** ProPublica (2023) and Mattathias Schwartz/Business Insider (2021) on al-Bayoumi; Michael Isikoff/NBC on the Cole.
-- **Pipeline & Taliban diplomacy:** Brisard & Dasquié, *Forbidden Truth*; the Washington Post "Diplomats Met With Taliban" (2001); Ahmed Rashid.
-- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
+- **The road to 9/11:** [1] Steve Coll, *Ghost Wars* and *Directorate S* (2018); Lawrence Wright, *The Looming Tower* (2006) and "The Counter-Terrorist" (2002); John Miller et al., *The Cell* (2002); James Bamford, *The Shadow Factory* (2008).
+- **The global jihad:** [2] Peter Dale Scott, *The Road to 9/11*; John Cooley, *Unholy Wars*; the West Point CTC "American Journeys to Jihad" (2010); HRW on the Mazar-i-Sharif massacre (1998).
+- **The Saudi connection:** [3] ProPublica (2023) and Mattathias Schwartz/Business Insider (2021) on al-Bayoumi; Michael Isikoff/NBC on the Cole.
+- **Pipeline & Taliban diplomacy:** [4] Brisard & Dasquié, *Forbidden Truth*; the Washington Post "Diplomats Met With Taliban" (2001); Ahmed Rashid.
+- [5] _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

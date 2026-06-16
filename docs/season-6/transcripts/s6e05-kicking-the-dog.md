@@ -1,6 +1,7 @@
 # S6E5 — Kicking the Dog — Transcript
 
-[← Back to episode notes](../s6e05-kicking-the-dog.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E5%20Kicking%20the%20Dog){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s6e05-kicking-the-dog.md)**
 
 [00:00:00] We did kill when we had no particular reason to.  
 [00:00:05] We tortured to achieve information that they probably didn't have.  

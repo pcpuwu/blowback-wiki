@@ -1,6 +1,7 @@
 # S1E10 — The Iraq War Did Not Take Place — Transcript
 
-[← Back to episode notes](../s1e10-the-iraq-war-did-not-take-place.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E10%20The%20Iraq%20War%20Did%20Not%20Take%20Place){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s1e10-the-iraq-war-did-not-take-place.md)**
 
 [00:00:00] On Monday, George W. Bush will campaign in South Carolina for his brother. As you've said tonight, and you've often said, the Iraq war and your opposition to it was a sign of your good judgment. Do you still believe President Bush should have been impeached? First of all I have to say, as a businessman, I get along with everybody. I have business all over the world. I get along with everybody, which is my obligation to my company, to myself, et cetera. Obviously, the war in Iraq was a big, fat mistake, all right? Now, you can take it any way you want. And it's  
 [00:00:31] It took Jeb Bush, if you remember at the beginning of his announcement, when he announced the president, took him five days. He went back. It was a mistake. It was a mistake.  

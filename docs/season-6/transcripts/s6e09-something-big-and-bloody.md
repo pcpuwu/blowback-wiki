@@ -1,6 +1,7 @@
 # S6E9 — Something Big and Bloody — Transcript
 
-[← Back to episode notes](../s6e09-something-big-and-bloody.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E9%20Something%20Big%20and%20Bloody){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s6e09-something-big-and-bloody.md)**
 
 [00:00:24] Welcome to Blowback. I'm Brendan James.  
 [00:00:26] And I'm Noah Colwyn.  

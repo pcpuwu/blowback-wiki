@@ -1,7 +1,7 @@
 # Blowback S2E7 — "Anadyr"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E7%20Anadyr){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e07-anadyr.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:11:28
 > **Thesis:** How the Cuban Missile Crisis began — Khrushchev's gamble to defend Cuba (and balance the US Jupiter missiles) with **Operation Anadyr**, the secret deployment of Soviet nukes, and the first frantic week of JFK's ExComm, ending with the **quarantine speech** of Oct 22, 1962.
@@ -40,8 +40,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources) (Episode 7–10 section)._
-- **Soviet decision / Anadyr:** "One Hell of a Gamble" (Naftali & Fursenko); Khrushchev's memoirs; *Cuba on the Brink* (Blight, Allyn & Welch); "Soviet Deception in the Cuban Missile Crisis" (Hansen).
-- **The Jupiters / first-strike plans:** "The Cuban Missile Crisis: Trading the Jupiters in Turkey?" (Bernstein); "JFK's First-Strike Plan" (Fred Kaplan, Atlantic); "To the Brink: Turkish and Cuban Missiles" (Fuelling).
-- **Mongoose / DRE:** *Imperial State and Revolution* (Morley); "Revelation 19.63" (Jefferson Morley); the DRE *Meet the Press* appearance.
-- **Keating / discovery / ExComm:** *The Kennedy Tapes* (May & Zelikow); *President Kennedy: Profile of Power* (Reeves); "Robert Kennedy and the Cuban Missile Crisis—A Reinterpretation" (Mark White); CIA Documents on the Cuban Missile Crisis (McAuliffe); *Gambling with Armageddon* (Martin Sherwin).
-- _(Full Episode 7–10 source list in [`s2-sources.md`](s2-sources.md).)_
+- **Soviet decision / Anadyr:** [1] "One Hell of a Gamble" (Naftali & Fursenko); Khrushchev's memoirs; *Cuba on the Brink* (Blight, Allyn & Welch); "Soviet Deception in the Cuban Missile Crisis" (Hansen).
+- **The Jupiters / first-strike plans:** [2] "The Cuban Missile Crisis: Trading the Jupiters in Turkey?" (Bernstein); "JFK's First-Strike Plan" (Fred Kaplan, Atlantic); "To the Brink: Turkish and Cuban Missiles" (Fuelling).
+- **Mongoose / DRE:** [3] *Imperial State and Revolution* (Morley); "Revelation 19.63" (Jefferson Morley); the DRE *Meet the Press* appearance.
+- **Keating / discovery / ExComm:** [4] *The Kennedy Tapes* (May & Zelikow); *President Kennedy: Profile of Power* (Reeves); "Robert Kennedy and the Cuban Missile Crisis—A Reinterpretation" (Mark White); CIA Documents on the Cuban Missile Crisis (McAuliffe); *Gambling with Armageddon* (Martin Sherwin).
+- [5] _(Full Episode 7–10 source list in [`s2-sources.md`](s2-sources.md).)_

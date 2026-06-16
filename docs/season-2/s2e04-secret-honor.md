@@ -1,7 +1,7 @@
 # Blowback S2E4 — "Secret Honor"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E4%20Secret%20Honor){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e04-secret-honor.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:15:19
 > **Thesis:** The lead-up to the **Bay of Pigs** — how the CIA and White House built a counter-revolutionary exile army (a "Guatemala 2.0"), how Cuba became a weapon in the 1960 US election, JFK's inheritance of the plan, and — the episode's heart — Fidel's defiant **1960 trip to Harlem**.
@@ -37,10 +37,10 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources)._
-- **The plan / CIA:** "Inspector General's Survey of the Cuban Operation" (1961); *The Very Best Men* & "You Can Own the World" (Evan Thomas); *Reflections of a Cold Warrior* (Bissell); "Ships in the Night: The CIA, the White House and the Bay of Pigs" (Piero Gleijeses); John Prados, *Safe for Democracy* / *Presidents' Secret Wars*.
-- **Hunt / Bender / exiles:** *American Spy* (E. Howard Hunt); *Portrait of a Cold Warrior* (Joseph B. Smith); "Brigade 2506: Young, Idealistic, and anti-Castro"; "Manuel Artime Dies" (NYT); *The Brilliant Disaster* (Jim Rasenberger).
-- **Guatemala training:** *Wings of Denial* (Warren Trest); "Report on mercenary camps and bases in Guatemala, Nicaragua, and Florida" (1961); *Managing the Counterrevolution* (Streeter).
-- **Mafia plot:** "CIA offered Chicago mob boss $150,000 to kill Castro" (Myers, 1997); "Inside the CIA's Plot to Kill Fidel Castro—With Mafia Help" (Maier, Politico); "Organized Crime and the 1960 Presidential Election" (Binder).
-- **JFK / election:** *The Kennedy Brothers* (Mahoney); *John F. Kennedy: A Biography* (O'Brien); "Crisis Management at the Dead Center" (Friedman).
-- **Harlem trip:** Rosemary Mealy's oral history; Simon Hall, *Ten Days in Harlem*; Maya Angelou's account.
-- _(Full list in [`s2-sources.md`](s2-sources.md).)_
+- **The plan / CIA:** [1] "Inspector General's Survey of the Cuban Operation" (1961); *The Very Best Men* & "You Can Own the World" (Evan Thomas); *Reflections of a Cold Warrior* (Bissell); "Ships in the Night: The CIA, the White House and the Bay of Pigs" (Piero Gleijeses); John Prados, *Safe for Democracy* / *Presidents' Secret Wars*.
+- **Hunt / Bender / exiles:** [2] *American Spy* (E. Howard Hunt); *Portrait of a Cold Warrior* (Joseph B. Smith); "Brigade 2506: Young, Idealistic, and anti-Castro"; "Manuel Artime Dies" (NYT); *The Brilliant Disaster* (Jim Rasenberger).
+- **Guatemala training:** [3] *Wings of Denial* (Warren Trest); "Report on mercenary camps and bases in Guatemala, Nicaragua, and Florida" (1961); *Managing the Counterrevolution* (Streeter).
+- **Mafia plot:** [4] "CIA offered Chicago mob boss $150,000 to kill Castro" (Myers, 1997); "Inside the CIA's Plot to Kill Fidel Castro—With Mafia Help" (Maier, Politico); "Organized Crime and the 1960 Presidential Election" (Binder).
+- **JFK / election:** [5] *The Kennedy Brothers* (Mahoney); *John F. Kennedy: A Biography* (O'Brien); "Crisis Management at the Dead Center" (Friedman).
+- **Harlem trip:** [6] Rosemary Mealy's oral history; Simon Hall, *Ten Days in Harlem*; Maya Angelou's account.
+- [7] _(Full list in [`s2-sources.md`](s2-sources.md).)_

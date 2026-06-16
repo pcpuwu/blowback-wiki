@@ -1,7 +1,7 @@
 # Blowback S5E9 — "Le Cercle Rouge"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E9%20Le%20Cercle%20Rouge){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e09-le-cercle-rouge.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:07:00
 > **Thesis:** The Faustian pact — after Vietnam topples the Khmer Rouge, the US (Brzezinski), China (Deng), and Thailand back the genocidal Khmer Rouge as a "nationalist insurgency" to "bleed" Vietnam. Cambodia (the new People's Republic) is met with isolation, blocked aid, and Carter's "genocide" charge — aimed at the *Vietnamese*, not Pol Pot. China invades Vietnam; the Khmer Rouge keep their UN seat; and a Vietnamese-run genocide tribunal convicts Pol Pot in absentia to no Western interest.
@@ -46,7 +46,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
-- **Cambodia after the Khmer Rouge:** William Shawcross, *The Quality of Mercy* (1984); Elizabeth Becker, *When the War Was Over*; Grant Evans & Kelvin Rowley, *Red Brotherhood at War*; Philip Short, *Pol Pot*; David Chandler; Nayan Chanda, *Brother Enemy*; Wilfred Burchett.
-- **The US/China/Thailand axis:** Brzezinski and Haig's own accounts; Ronald Keith, *Deng Xiaoping and China's Foreign Policy* (2017); King C. Chen on China's 1979 war; the Carter–Deng meeting record.
-- **The tribunal:** Craig Etcheson, *Extraordinary Justice* (2019); De Nike/Quigley/Robinson (eds.), *Genocide in Cambodia* (2000).
-- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_
+- **Cambodia after the Khmer Rouge:** [1] William Shawcross, *The Quality of Mercy* (1984); Elizabeth Becker, *When the War Was Over*; Grant Evans & Kelvin Rowley, *Red Brotherhood at War*; Philip Short, *Pol Pot*; David Chandler; Nayan Chanda, *Brother Enemy*; Wilfred Burchett.
+- **The US/China/Thailand axis:** [2] Brzezinski and Haig's own accounts; Ronald Keith, *Deng Xiaoping and China's Foreign Policy* (2017); King C. Chen on China's 1979 war; the Carter–Deng meeting record.
+- **The tribunal:** [3] Craig Etcheson, *Extraordinary Justice* (2019); De Nike/Quigley/Robinson (eds.), *Genocide in Cambodia* (2000).
+- [4] _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

@@ -1,7 +1,7 @@
 # Blowback S3E7 — "Mao" (Mao's Poem)
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E7%20Mao%20%28Mao%27s%20Poem%29){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e07-mao.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:04:27
 > **Thesis:** China enters the war. Against MacArthur's drive to the Yalu, Mao — over the objections of a divided Politburo and after Stalin's whiplash on Soviet air cover — sends the "Chinese People's Volunteer Army" across the river. Ill-equipped peasant soldiers drive the US out of North Korea in weeks, triggering "the worst crisis in US foreign relations between 1945 and the Cuban Missile Crisis": a national emergency, open talk of the A-bomb, and the rise of McCarthyism.
@@ -67,8 +67,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources)._
-- **The Chinese side (primary):** *Mao's Generals Remember Korea*, ed. Xiaobing Li, Allan R. Millett & Bin Yu (2001) — incl. Peng Dehuai, Nie Rongzhen, Hong Xuezhi memoirs and Bin Yu's analysis.
-- **Mao & the decision:** Lee Feigon, *Mao: A Reinterpretation* (2002); Rebecca E. Karl, *Mao Zedong and China in the Twentieth-Century World* (2010); Goncharov, Lewis & Xue Litai, *Uncertain Partners: Stalin, Mao and the Korean War* (1993); Shen Zhihua, *Mao, Stalin and the Korean War* (2003).
-- **The American war / cover-ups:** I.F. Stone, *The Hidden History of the Korean War*; Reginald Thompson, *Cry Korea*; David Halberstam, *The Coldest Winter*; William Manchester, *American Caesar*; Bruce Cumings.
-- **The massacres & McCarthyism:** Su-kyoung Hwang, *Korea's Grievous War*; Paul Thomas Chamberlain, *The Cold War's Killing Fields*; Richard M. Freeland, *The Truman Doctrine and the Origins of McCarthyism*.
-- _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_
+- **The Chinese side (primary):** [1] *Mao's Generals Remember Korea*, ed. Xiaobing Li, Allan R. Millett & Bin Yu (2001) — incl. Peng Dehuai, Nie Rongzhen, Hong Xuezhi memoirs and Bin Yu's analysis.
+- **Mao & the decision:** [2] Lee Feigon, *Mao: A Reinterpretation* (2002); Rebecca E. Karl, *Mao Zedong and China in the Twentieth-Century World* (2010); Goncharov, Lewis & Xue Litai, *Uncertain Partners: Stalin, Mao and the Korean War* (1993); Shen Zhihua, *Mao, Stalin and the Korean War* (2003).
+- **The American war / cover-ups:** [3] I.F. Stone, *The Hidden History of the Korean War*; Reginald Thompson, *Cry Korea*; David Halberstam, *The Coldest Winter*; William Manchester, *American Caesar*; Bruce Cumings.
+- **The massacres & McCarthyism:** [4] Su-kyoung Hwang, *Korea's Grievous War*; Paul Thomas Chamberlain, *The Cold War's Killing Fields*; Richard M. Freeland, *The Truman Doctrine and the Origins of McCarthyism*.
+- [5] _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_

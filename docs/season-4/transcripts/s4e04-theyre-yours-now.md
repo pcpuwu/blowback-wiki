@@ -1,6 +1,7 @@
 # S4E4 — They're Yours Now — Transcript
 
-[← Back to episode notes](../s4e04-theyre-yours-now.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E4%20They%27re%20Yours%20Now){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s4e04-theyre-yours-now.md)**
 
 [00:00:00] I do, but keep the peace, put up thy sword, or manage it to part these men with me.  
 [00:00:07] Peace? Peace. I hate the word. As I hate hell, all Montague's and thee.  

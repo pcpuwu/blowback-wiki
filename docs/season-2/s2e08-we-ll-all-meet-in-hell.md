@@ -1,7 +1,7 @@
 # Blowback S2E8 — "We'll All Meet in Hell"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E8%20We%27ll%20All%20Meet%20in%20Hell){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e08-we-ll-all-meet-in-hell.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:03:35
 > **Thesis:** The Cuban Missile Crisis at its peak (Oct 22–28, 1962) — the quarantine, the dueling Khrushchev letters, the U-2 shootdown, the submarine that nearly started nuclear war, and the secret Jupiter deal — and how Cuba was sidelined in the superpower bargain.
@@ -33,8 +33,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources) (Episode 7–10 section)._
-- **The crisis:** *In the Eye of the Storm* (Carlos Lechuga); "One Hell of a Gamble" (Naftali & Fursenko); *Gambling with Armageddon* (Martin Sherwin); *The Kennedy Tapes* (May & Zelikow); the JFK/Khrushchev/Castro correspondence.
-- **Cuban perspective:** Lechuga's account; interviews with Raúl Roa Kourí and Marta Núñez Sarmiento.
-- **The submarine / near-misses:** the B-59 / Arkhipov story (Norris & Kristensen nuclear order-of-battle).
-- **Historiography:** Graham Allison, *Essence of Decision* (1971); "Essence of Revision" (Allyn, Blight & Welch); Jim Hershberg interview.
-- _(Full Episode 7–10 source list in [`s2-sources.md`](s2-sources.md).)_
+- **The crisis:** [1] *In the Eye of the Storm* (Carlos Lechuga); "One Hell of a Gamble" (Naftali & Fursenko); *Gambling with Armageddon* (Martin Sherwin); *The Kennedy Tapes* (May & Zelikow); the JFK/Khrushchev/Castro correspondence.
+- **Cuban perspective:** [2] Lechuga's account; interviews with Raúl Roa Kourí and Marta Núñez Sarmiento.
+- **The submarine / near-misses:** [3] the B-59 / Arkhipov story (Norris & Kristensen nuclear order-of-battle).
+- **Historiography:** [4] Graham Allison, *Essence of Decision* (1971); "Essence of Revision" (Allyn, Blight & Welch); Jim Hershberg interview.
+- [5] _(Full Episode 7–10 source list in [`s2-sources.md`](s2-sources.md).)_

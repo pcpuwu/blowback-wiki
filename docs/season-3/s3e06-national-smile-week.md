@@ -1,7 +1,7 @@
 # Blowback S3E6 — "National Smile Week"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E6%20National%20Smile%20Week){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e06-national-smile-week.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:03:08
 > **Thesis:** MacArthur reverses the war (the **Inchon landing**, Sept 15) and then drives it past the 38th parallel toward the Chinese border — while the US home front, fed by openly racist war coverage, mobilizes into a Red Scare. Beneath it all: a deeper agenda among MacArthur and US hardliners to *widen* the war into a nuclear showdown with China and the USSR, and the quiet truth that Soviet and Chinese restraint — not American skill — kept the peace they kept breaking.
@@ -70,8 +70,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources)._
-- **War reporting / Inchon & rollback:** Reginald Thompson, *Cry Korea* (1951); David Halberstam, *The Coldest Winter* (2007); William Manchester, *American Caesar* (MacArthur biography); Bruce Cumings, *The Origins of the Korean War* / *Korea's Place in the Sun*.
-- **The cover-ups & the widening war:** I.F. Stone, *The Hidden History of the Korean War* (1952) and *The Truman Era* (1988); Steven Casey, *Selling the Korean War* (2010).
-- **The communist side:** Zhu, Goncharov & Lewis, *Uncertain Partners*; Vladislav Zubok & Constantine Pleshakov, *Inside the Kremlin's Cold War* (1996); Khrushchev's account.
-- **Home front / political economy:** Masuda Hajimu, *Cold War Crucible*; Michael Brenes, *For Might and Right*; "Historical Parallels to Today's Inflationary Episode," White House Blog (July 2021).
-- _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_
+- **War reporting / Inchon & rollback:** [1] Reginald Thompson, *Cry Korea* (1951); David Halberstam, *The Coldest Winter* (2007); William Manchester, *American Caesar* (MacArthur biography); Bruce Cumings, *The Origins of the Korean War* / *Korea's Place in the Sun*.
+- **The cover-ups & the widening war:** [2] I.F. Stone, *The Hidden History of the Korean War* (1952) and *The Truman Era* (1988); Steven Casey, *Selling the Korean War* (2010).
+- **The communist side:** [3] Zhu, Goncharov & Lewis, *Uncertain Partners*; Vladislav Zubok & Constantine Pleshakov, *Inside the Kremlin's Cold War* (1996); Khrushchev's account.
+- **Home front / political economy:** [4] Masuda Hajimu, *Cold War Crucible*; Michael Brenes, *For Might and Right*; "Historical Parallels to Today's Inflationary Episode," White House Blog (July 2021).
+- [5] _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_

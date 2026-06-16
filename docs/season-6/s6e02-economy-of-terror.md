@@ -1,7 +1,7 @@
 # Blowback S6E2 — "Economy of Terror"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E2%20Economy%20of%20Terror){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e02-economy-of-terror.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~58:40
 > **Thesis:** The deep history — the African kingdoms (Kongo, Ndongo) the Portuguese met in the 15th century; four centuries of the slave trade (~40% of all African slaves passed through Portuguese hands); the 19th–20th century "scramble" that built a settler colony on forced labor (the "economy of terror"); Salazar's backward Estado Novo; the parallel rise of South African apartheid; and the birth of Angola's three rival nationalisms (MPLA, FNLA/Roberto, and Savimbi).
@@ -41,6 +41,6 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S6-Sources](https://blowback.show/S6-Sources)._
-- **Angola & Portugal:** David Birmingham, *A Short History of Modern Angola*; Basil Davidson, *In the Eye of the Storm*; Natalia Telepneva, *Cold War Liberation*; Martin Meredith, *The State of Africa*; Henry Woodd Nevinson, *A Modern Slavery* (1906); John Thornton, *The Kongolese Saint Anthony* (1998); Kwame Nkrumah, *Neo-Colonialism* (1965).
-- **South Africa & the US:** Leonard Thompson, *A History of South Africa*; Robert Ross; Thomas Borstelmann, *Apartheid's Reluctant Uncle* (1993).
-- _(Full per-episode list in [`s6-sources.md`](s6-sources.md).)_
+- **Angola & Portugal:** [1] David Birmingham, *A Short History of Modern Angola*; Basil Davidson, *In the Eye of the Storm*; Natalia Telepneva, *Cold War Liberation*; Martin Meredith, *The State of Africa*; Henry Woodd Nevinson, *A Modern Slavery* (1906); John Thornton, *The Kongolese Saint Anthony* (1998); Kwame Nkrumah, *Neo-Colonialism* (1965).
+- **South Africa & the US:** [2] Leonard Thompson, *A History of South Africa*; Robert Ross; Thomas Borstelmann, *Apartheid's Reluctant Uncle* (1993).
+- [3] _(Full per-episode list in [`s6-sources.md`](s6-sources.md).)_

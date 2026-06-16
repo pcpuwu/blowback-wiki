@@ -1,7 +1,7 @@
 # Blowback S5E4 — "Mad Men"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E4%20Mad%20Men){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e04-mad-men.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:11:00
 > **Thesis:** Nixon & Kissinger turn Cambodia into a battlefield (1969–70). The "madman theory," the all-powerful Kissinger NSC, the secret bombing (Operation Menu) and its dual-reporting cover-up, the opening to China against the USSR, "Vietnamization," the US-blessed **Lon Nol coup** against Sihanouk (March 1970), and the **invasion of Cambodia** (April 1970) — which destroyed Cambodia's neutrality, ignited its civil war, drove peasants to the Khmer Rouge, and detonated the protests (Kent State) at home. Saloth Sâr becomes Pol Pot.
@@ -52,7 +52,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
-- **Nixon, Kissinger & the bombing:** Seymour Hersh, *The Price of Power*; William Shawcross, *Sideshow*; Carolyn Woods Eisenberg, *Fire and Rain* (2023); Robert K. Brigham, *Reckless* (2018); Greg Grandin, *Kissinger's Shadow*; H.R. Haldeman, *The Ends of Power* (madman theory).
-- **The coup & Cambodia:** Elizabeth Becker, *When the War Was Over*; Philip Short, *Pol Pot*; Frank Snepp, *Decent Interval*.
-- **Context:** Rebecca Karl, *Mao Zedong*; Jeremy Friedman, *Shadow Cold War*; Rick Perlstein, *Nixonland* (2008); Mark Atwood Lawrence.
-- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_
+- **Nixon, Kissinger & the bombing:** [1] Seymour Hersh, *The Price of Power*; William Shawcross, *Sideshow*; Carolyn Woods Eisenberg, *Fire and Rain* (2023); Robert K. Brigham, *Reckless* (2018); Greg Grandin, *Kissinger's Shadow*; H.R. Haldeman, *The Ends of Power* (madman theory).
+- **The coup & Cambodia:** [2] Elizabeth Becker, *When the War Was Over*; Philip Short, *Pol Pot*; Frank Snepp, *Decent Interval*.
+- **Context:** [3] Rebecca Karl, *Mao Zedong*; Jeremy Friedman, *Shadow Cold War*; Rick Perlstein, *Nixonland* (2008); Mark Atwood Lawrence.
+- [4] _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

@@ -1,7 +1,7 @@
 # Blowback S3E3 — "The Blue House"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E3%20The%20Blue%20House){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e03-the-blue-house.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:06:39
 > **Thesis:** The two occupations (1945–48) — how the **US military government** in the South suppressed Korea's own people's committees and rebuilt the Japanese-collaborator order, while the North underwent a genuine **social revolution** (land reform, people's committees) — and how the US, not the USSR, drove the Cold War confrontation that hardened Korea's division.
@@ -32,6 +32,6 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources)._
-- **Korea:** Suzy Kim, *Everyday Life in the North Korean Revolution*; Bruce Cumings, *Korea's Place in the Sun*; Hwang Sok-yong, *Korea's Grievous War*; *The Road to No Gun Ri* (Hanley, Cho, Mendoza).
-- **The Soviets / US Cold War:** Zubok & Pleshakov, *Inside the Kremlin's Cold War*; Richard Freeland, *The Truman Doctrine and the Origins of McCarthyism*; Fred Cook, *The Warfare State*; Michael Brenes, *For Might and Right*; Vijay Prashad, *Washington Bullets*.
-- _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_
+- **Korea:** [1] Suzy Kim, *Everyday Life in the North Korean Revolution*; Bruce Cumings, *Korea's Place in the Sun*; Hwang Sok-yong, *Korea's Grievous War*; *The Road to No Gun Ri* (Hanley, Cho, Mendoza).
+- **The Soviets / US Cold War:** [2] Zubok & Pleshakov, *Inside the Kremlin's Cold War*; Richard Freeland, *The Truman Doctrine and the Origins of McCarthyism*; Fred Cook, *The Warfare State*; Michael Brenes, *For Might and Right*; Vijay Prashad, *Washington Bullets*.
+- [3] _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_

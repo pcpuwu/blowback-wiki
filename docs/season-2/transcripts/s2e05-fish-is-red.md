@@ -1,6 +1,7 @@
 # S2E5 — Fish Is Red — Transcript
 
-[← Back to episode notes](../s2e05-fish-is-red.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E5%20Fish%20Is%20Red){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s2e05-fish-is-red.md)**
 
 [00:00:08] Well, thank you very much, please.  
 [00:00:11] Thank you very much, and I'm delighted to welcome you to the White House as we honor the Cuban-American veterans of the Bay of Pigs invasion, brave people, great people.  

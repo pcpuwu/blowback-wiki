@@ -1,7 +1,7 @@
 # Blowback S5E3 — "Listen to the Thunder"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E3%20Listen%20to%20the%20Thunder){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e03-listen-to-the-thunder.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:11:00
 > **Thesis:** The Americanization of the Vietnam War (1955–68) and Cambodia's effort to stay out — Sihanouk's abdication-to-rule masterstroke and tightrope neutrality; the US building Diem's South Vietnam against Geneva; the **Sino-Soviet split**; the secret war in Laos; the Khmer Rouge driven into the jungle; the Gulf of Tonkin fabrication; Tet, 1968, and the massacres (My Lai, Speedy Express); and Nixon & Kissinger's **treasonous sabotage of the 1968 Paris peace talks** to win the White House — buying "four more years" that would doom Cambodia.
@@ -61,8 +61,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
-- **Vietnam:** Mark Atwood Lawrence, *The Vietnam War*; Marilyn Young, *The Vietnam Wars*; Neil Sheehan, *A Bright Shining Lie*; Nick Turse, *Kill Anything That Moves* (Speedy Express); Douglas Valentine (Phoenix).
-- **Cambodia & Sihanouk:** William Shawcross, *Sideshow*; Elizabeth Becker, *When the War Was Over*; Philip Short, *Pol Pot*; Grant Evans & Kelvin Rowley.
-- **Sino-Soviet split:** Jeremy Friedman, *Shadow Cold War* (2015).
-- **Kissinger & the 1968 sabotage:** Greg Grandin, *Kissinger's Shadow* (2015); Shane O'Sullivan, *Dirty Tricks* (2018); Christopher Hitchens; the Politico "Kissinger Diaries."
-- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_
+- **Vietnam:** [1] Mark Atwood Lawrence, *The Vietnam War*; Marilyn Young, *The Vietnam Wars*; Neil Sheehan, *A Bright Shining Lie*; Nick Turse, *Kill Anything That Moves* (Speedy Express); Douglas Valentine (Phoenix).
+- **Cambodia & Sihanouk:** [2] William Shawcross, *Sideshow*; Elizabeth Becker, *When the War Was Over*; Philip Short, *Pol Pot*; Grant Evans & Kelvin Rowley.
+- **Sino-Soviet split:** [3] Jeremy Friedman, *Shadow Cold War* (2015).
+- **Kissinger & the 1968 sabotage:** [4] Greg Grandin, *Kissinger's Shadow* (2015); Shane O'Sullivan, *Dirty Tricks* (2018); Christopher Hitchens; the Politico "Kissinger Diaries."
+- [5] _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

@@ -1,6 +1,7 @@
 # S1E7 — #Resistance — Transcript
 
-[← Back to episode notes](../s1e07-resistance.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E7%20%23Resistance){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s1e07-resistance.md)**
 
 [00:00:00] The little serpent has left, and the great serpent has come.  
 [00:00:06] The big serpent was Saddam Hussein and the Americans are the small serpent?  

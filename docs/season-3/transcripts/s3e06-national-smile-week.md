@@ -1,6 +1,7 @@
 # S3E6 — National Smile Week — Transcript
 
-[← Back to episode notes](../s3e06-national-smile-week.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E6%20National%20Smile%20Week){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s3e06-national-smile-week.md)**
 
 [00:00:01] In September 1950, British journalist Reginald Thompson flew over the scene at Inchon,  
 [00:00:12] a port city off Korea's west coast.  

@@ -30,10 +30,14 @@ markdown_extensions:
   - admonition
   - attr_list
   - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
 nav:
   - Home: index.md
+  - About & Methodology: about.md
   - Season 1:
       - Season Timeline: season-1/timeline.md
       - Sources: season-1/sources.md

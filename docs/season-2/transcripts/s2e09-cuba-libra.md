@@ -1,6 +1,7 @@
 # S2E9 — Cuba Libra — Transcript
 
-[← Back to episode notes](../s2e09-cuba-libra.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E9%20Cuba%20Libra){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s2e09-cuba-libra.md)**
 
 [00:00:00] Here is reporter Lisa Howard.  
 [00:00:02] Good evening, ladies and gentlemen.  

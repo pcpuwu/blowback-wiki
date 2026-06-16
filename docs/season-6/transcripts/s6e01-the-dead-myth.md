@@ -1,6 +1,7 @@
 # S6E1 — The Dead Myth — Transcript
 
-[← Back to episode notes](../s6e01-the-dead-myth.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E1%20The%20Dead%20Myth){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s6e01-the-dead-myth.md)**
 
 [00:00:03] Tonight, the issues and the controversy.  
 [00:00:10] A thousand people have gathered at the City College of New York  

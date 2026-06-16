@@ -1,6 +1,7 @@
 # S5E10 — The Terrible But Unfinished Story — Transcript
 
-[← Back to episode notes](../s5e10-the-terrible-but-unfinished-story.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E10%20The%20Terrible%20But%20Unfinished%20Story){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s5e10-the-terrible-but-unfinished-story.md)**
 
 [00:00:00] The soldier on the left is the non-communist.  
 [00:00:02] Those on the right in the plain green are Khmer Rouge.  

@@ -1,7 +1,7 @@
 # Blowback S5E8 — "Third World War"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E8%20Third%20World%20War){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e08-third-world-war.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:13:00
 > **Thesis:** The genocide machine and the war that ended it — the Tuol Sleng (S-21) torture system; the Khmer Rouge's scapegoating of Vietnam (border massacres, the extermination of Vietnamese, Chinese, Thai, and Cham minorities); the doomed internal revolts and self-cannibalizing purges; and the **Third Indochina War** (Vietnam's invasion, Christmas 1978 → Phnom Penh falls Jan 7, 1979). Meanwhile Brzezinski engineers a US–China–Khmer Rouge axis against Soviet-backed Vietnam.
@@ -49,7 +49,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S5-Sources](https://blowback.show/S5-Sources)._
-- **S-21 & the genocide:** David Chandler, *Voices from S-21* (2000); Ben Kiernan, *The Pol Pot Regime* (2002) and *The Specter of Genocide*; the ECCC (Cambodia tribunal) Case 002/02 judgment.
-- **Cambodia & the war:** Elizabeth Becker, *When the War Was Over* (and CJR); Philip Short, *Pol Pot*; Nayan Chanda, *Brother Enemy*; Wilfred Burchett.
-- **The US/China axis:** Brzezinski's record; the Washington Post on his 1978 China trip; the David Truong case.
-- _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_
+- **S-21 & the genocide:** [1] David Chandler, *Voices from S-21* (2000); Ben Kiernan, *The Pol Pot Regime* (2002) and *The Specter of Genocide*; the ECCC (Cambodia tribunal) Case 002/02 judgment.
+- **Cambodia & the war:** [2] Elizabeth Becker, *When the War Was Over* (and CJR); Philip Short, *Pol Pot*; Nayan Chanda, *Brother Enemy*; Wilfred Burchett.
+- **The US/China axis:** [3] Brzezinski's record; the Washington Post on his 1978 China trip; the David Truong case.
+- [4] _(Full per-episode list in [`s5-sources.md`](s5-sources.md).)_

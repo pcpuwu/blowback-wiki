@@ -1,7 +1,7 @@
 # Blowback S2E9 — "Cuba Libra"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E9%20Cuba%20Libra){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e09-cuba-libra.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:23:00
 > **Thesis:** 1963 — JFK runs two contradictory "tracks" on Cuba (covert war vs. a secret push to normalize relations), and just as the back channel to Castro is bearing fruit, JFK is assassinated — with the CIA-funded exile group **DRE** and a web of intelligence/mob connections threaded all through Lee Harvey Oswald's story.
@@ -38,7 +38,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources) (Episode 7–10 section)._
-- **The peace track / back channels:** *Backchannel to Cuba* (Kornbluh & LeoGrand); JFK's American University speech (JFK Library); Lisa Howard / William Atwood / Jean Daniel accounts; Lechuga's memoir.
-- **DRE / CIA / assassination:** Jefferson Morley's reporting (on Joannides, the DRE, Mexico City); the Warren Report and its critics; *Six Seconds in Dallas* / *Last Second in Dallas* (Josiah "Tink" Thompson); Gaeton Fonzi / Antonio Veciana on "Maurice Bishop."
-- **Ruby / Oswald / mob:** David Kaiser's work on the mob and the assassination; the House Select Committee on Assassinations records.
-- _(Full Episode 7–10 source list in [`s2-sources.md`](s2-sources.md).)_
+- **The peace track / back channels:** [1] *Backchannel to Cuba* (Kornbluh & LeoGrand); JFK's American University speech (JFK Library); Lisa Howard / William Atwood / Jean Daniel accounts; Lechuga's memoir.
+- **DRE / CIA / assassination:** [2] Jefferson Morley's reporting (on Joannides, the DRE, Mexico City); the Warren Report and its critics; *Six Seconds in Dallas* / *Last Second in Dallas* (Josiah "Tink" Thompson); Gaeton Fonzi / Antonio Veciana on "Maurice Bishop."
+- **Ruby / Oswald / mob:** [3] David Kaiser's work on the mob and the assassination; the House Select Committee on Assassinations records.
+- [4] _(Full Episode 7–10 source list in [`s2-sources.md`](s2-sources.md).)_

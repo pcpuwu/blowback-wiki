@@ -1,6 +1,7 @@
 # S6E10 — Zero-sum — Transcript
 
-[← Back to episode notes](../s6e10-zero-sum.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E10%20Zero-sum){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s6e10-zero-sum.md)**
 
 [00:00:00] Ladies and gentlemen, as you know, I'm in the final weeks of my presidency.  
 [00:00:05] You don't have to clap for that.  

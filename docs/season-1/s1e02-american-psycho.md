@@ -1,7 +1,7 @@
 # Blowback S1E2 — "American Psycho"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E2%20American%20Psycho){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e02-american-psycho.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:01:21
 > **Thesis:** *The Gulf War never really ended.* Through the 1990s the US bombed, sanctioned, and ran covert ops against Iraq — deliberately grinding "a troubled but still viable modern society" down into a **failed state**, priming it for easy invasion in 2003. Two threads: how Saddam was **demonized** into the obvious "Big Bad," and how Iraq was **brought low** enough to conquer.
@@ -63,11 +63,11 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S1-Sources](https://blowback.show/S1-Sources)._
-- **Powell / demons:** "[No 'Demons' Left To Fight, Says Powell](http://community.seattletimes.nwsource.com/archive/?date=19910409&slug=1276451)," Boston Globe, 1991
-- **Chalabi:** *The Man Who Pushed America To War*, Aram Roston, 2008
-- **Saddam / Bush record:** *Saddam Hussein: The Politics of Revenge*, Said Aburish, 2000 · "[American Policy Gave Hussein Reason to Deceive](https://www.latimes.com/archives/la-xpm-2004-feb-08-op-meisler8-story.html)," Stanley Meisler, LA Times
-- **Set-up / Gulf War conduct:** *Killing Hope*, William Blum, 1995 · *Out of the Ashes*, Andrew & Patrick Cockburn, 1999 · *From The House of War*, John Simpson, 1991 · "[Why We Are Stuck in the Sand](https://harpers.org/archive/1991/01/why-we-are-stuck-in-the-sand/)," Harper's, 1991 · "[Allied Air War Struck Broadly in Iraq](https://www.washingtonpost.com/archive/politics/1991/06/23/allied-air-war-struck-broadly-in-iraq/e469877b-b1c1-44a9-bfe7-084da4e38e41/)," WaPo, 1991 · "[Allies Bombing Them, Refugees Say](https://www.latimes.com/archives/la-xpm-1991-01-31-mn-446-story.html)," LA Times, 1991 · *The Commanders*, Bob Woodward, 1991 · *Saddam Hussein and the Crisis in the Gulf*, Miller & Mylroie, 1990
-- **BCCI:** "The BCCI Affair," Senate Committee on Foreign Relations, 1992
-- **Infrastructure / sanctions toll:** "[Iraq Water Treatment Vulnerabilities](https://gulflink.health.mil/declassdocs/dia/19950901/950901_511rept_91.html)," DIA, 1991 · "[Child mortality in Iraq](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)70470-0/fulltext)," The Lancet, 1997 · "[How Many Iraqis Died?](https://www.pbs.org/wgbh/pages/frontline/gulf/appendix/death.html)" PBS, 1996 · "[Humanitarian Relief Efforts w/ Sarah Zaidi](https://www.washingtonpost.com/wp-srv/liveonline/03/special/iraq/sp_iraq_zaidi041103.htm)," WaPo, 2003 · [IraqiKids.org Reflections](http://www.iraqikids.org/archives/june-article-2013)
-- **Assassination-plot debunk:** "[A Case Not Closed](https://www.newyorker.com/magazine/1993/11/01/a-case-not-closed)," Seymour Hersh, New Yorker, 1993 · "[Pentagon Report Shows No Iraq Plot To Assassinate Bush Sr.](https://www.huffpost.com/entry/pentagon-report-shows-no-_n_93264)," Isikoff, Newsweek, 2008
-- **Neocon backdrop:** *Rise of the Vulcans*, James Mann, 2004
+- **Powell / demons:** [1] "[No 'Demons' Left To Fight, Says Powell](http://community.seattletimes.nwsource.com/archive/?date=19910409&slug=1276451)," Boston Globe, 1991
+- **Chalabi:** [2] *The Man Who Pushed America To War*, Aram Roston, 2008
+- **Saddam / Bush record:** [3] *Saddam Hussein: The Politics of Revenge*, Said Aburish, 2000 · [4] "[American Policy Gave Hussein Reason to Deceive](https://www.latimes.com/archives/la-xpm-2004-feb-08-op-meisler8-story.html)," Stanley Meisler, LA Times
+- **Set-up / Gulf War conduct:** [5] *Killing Hope*, William Blum, 1995 · [6] *Out of the Ashes*, Andrew & Patrick Cockburn, 1999 · [7] *From The House of War*, John Simpson, 1991 · [8] "[Why We Are Stuck in the Sand](https://harpers.org/archive/1991/01/why-we-are-stuck-in-the-sand/)," Harper's, 1991 · [9] "[Allied Air War Struck Broadly in Iraq](https://www.washingtonpost.com/archive/politics/1991/06/23/allied-air-war-struck-broadly-in-iraq/e469877b-b1c1-44a9-bfe7-084da4e38e41/)," WaPo, 1991 · [10] "[Allies Bombing Them, Refugees Say](https://www.latimes.com/archives/la-xpm-1991-01-31-mn-446-story.html)," LA Times, 1991 · [11] *The Commanders*, Bob Woodward, 1991 · [12] *Saddam Hussein and the Crisis in the Gulf*, Miller & Mylroie, 1990
+- **BCCI:** [13] "The BCCI Affair," Senate Committee on Foreign Relations, 1992
+- **Infrastructure / sanctions toll:** [14] "[Iraq Water Treatment Vulnerabilities](https://gulflink.health.mil/declassdocs/dia/19950901/950901_511rept_91.html)," DIA, 1991 · [15] "[Child mortality in Iraq](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)70470-0/fulltext)," The Lancet, 1997 · [16] "[How Many Iraqis Died?](https://www.pbs.org/wgbh/pages/frontline/gulf/appendix/death.html)" PBS, 1996 · [17] "[Humanitarian Relief Efforts w/ Sarah Zaidi](https://www.washingtonpost.com/wp-srv/liveonline/03/special/iraq/sp_iraq_zaidi041103.htm)," WaPo, 2003 · [18] [IraqiKids.org Reflections](http://www.iraqikids.org/archives/june-article-2013)
+- **Assassination-plot debunk:** [19] "[A Case Not Closed](https://www.newyorker.com/magazine/1993/11/01/a-case-not-closed)," Seymour Hersh, New Yorker, 1993 · [20] "[Pentagon Report Shows No Iraq Plot To Assassinate Bush Sr.](https://www.huffpost.com/entry/pentagon-report-shows-no-_n_93264)," Isikoff, Newsweek, 2008
+- **Neocon backdrop:** [21] *Rise of the Vulcans*, James Mann, 2004

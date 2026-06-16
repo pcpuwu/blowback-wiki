@@ -1,7 +1,7 @@
 # Blowback S3E4 — "Red Island"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E4%20Red%20Island){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e04-red-island.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~57:29
 > **Thesis:** The "war before the war" (1948–50) — Syngman Rhee's US-backed terror against the South's own population, climaxing in the **Jeju** and **Yeosu** uprisings and massacres (~100,000 dead); meanwhile the US **Red Scare**, the "loss of China," and the Sino-Soviet treaty set the global stage.
@@ -33,7 +33,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources)._
-- **Korea / Jeju:** Su-kyoung Hwang, *Korea's Grievous War*; Bruce Cumings, *Korea's Place in the Sun*; Suzy Kim, *Everyday Life in the North Korean Revolution*; Wilfred Burchett, *This Monstrous War*.
-- **US politics / Red Scare:** I.F. Stone, *The Truman Era*; Michael Brenes, *For Might and Right*; Anthony Summers, *The Arrogance of Power* (Nixon); William Costello, *The Facts About Nixon*; the CIA's 1948 "Current Situation in Korea" report.
-- **Soviets / China:** Sergei Khrushchev (ed.), *Memoirs of Nikita Khrushchev Vol. 3*; Gromyko, *Memoirs*; Vijay Prashad, *Washington Bullets*.
-- _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_
+- **Korea / Jeju:** [1] Su-kyoung Hwang, *Korea's Grievous War*; Bruce Cumings, *Korea's Place in the Sun*; Suzy Kim, *Everyday Life in the North Korean Revolution*; Wilfred Burchett, *This Monstrous War*.
+- **US politics / Red Scare:** [2] I.F. Stone, *The Truman Era*; Michael Brenes, *For Might and Right*; Anthony Summers, *The Arrogance of Power* (Nixon); William Costello, *The Facts About Nixon*; the CIA's 1948 "Current Situation in Korea" report.
+- **Soviets / China:** [3] Sergei Khrushchev (ed.), *Memoirs of Nikita Khrushchev Vol. 3*; Gromyko, *Memoirs*; Vijay Prashad, *Washington Bullets*.
+- [4] _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_

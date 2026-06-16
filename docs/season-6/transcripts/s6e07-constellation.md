@@ -1,6 +1,7 @@
 # S6E7 — Constellation — Transcript
 
-[← Back to episode notes](../s6e07-constellation.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E7%20Constellation){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s6e07-constellation.md)**
 
 [00:00:00] At the United Nations, as black African countries force a test of U.S. attitudes,  
 [00:00:05] Ambassador Jean Kirkpatrick explains Reagan administration policy towards Southern Africa.  

@@ -1,7 +1,7 @@
 # Blowback S2E5 — "Fish Is Red"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E5%20Fish%20Is%20Red){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e05-fish-is-red.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~59:00
 > **Thesis:** The **Bay of Pigs** (April 1961) — the CIA's hubristic "Guatemala 2.0" invasion, its total failure, the myth of the "canceled second airstrike," the parallel plot to assassinate Castro, and Cuba's rejected olive branch afterward.
@@ -44,8 +44,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources)._
-- **The plan / CIA hubris:** *The Brilliant Disaster* (Rasenberger); *The Bay of Pigs* (Haynes Johnson); "Airpower at the Bay of Pigs" (Correll); *The Brothers* (Stephen Kinzer); Peter Kornbluh interviews (National Security Archive).
-- **The invasion / aftermath:** *The Inevitable Battle: From the Bay of Pigs to Playa Girón* (Juan Carlos Rodríguez); *Brothers: The Hidden History of the Kennedy Years* (David Talbot); "Soviets Knew Date of Cuba Attack" (WaPo); JFK's April 20–21 1961 speeches/press conferences (JFK Library).
-- **Poison plot:** "Maheu Says He Recruited Man For C.I.A. in Castro Poison Plot" (NYT, 1975); *Whiteout* (Cockburn & St. Clair).
-- **Che's olive branch:** Richard Goodwin, "Conversation with Commandante Ernesto Guevara" (1961) & "JFK and Che" (Cigar Aficionado, 1996).
-- _(Full list in [`s2-sources.md`](s2-sources.md).)_
+- **The plan / CIA hubris:** [1] *The Brilliant Disaster* (Rasenberger); *The Bay of Pigs* (Haynes Johnson); "Airpower at the Bay of Pigs" (Correll); *The Brothers* (Stephen Kinzer); Peter Kornbluh interviews (National Security Archive).
+- **The invasion / aftermath:** [2] *The Inevitable Battle: From the Bay of Pigs to Playa Girón* (Juan Carlos Rodríguez); *Brothers: The Hidden History of the Kennedy Years* (David Talbot); "Soviets Knew Date of Cuba Attack" (WaPo); JFK's April 20–21 1961 speeches/press conferences (JFK Library).
+- **Poison plot:** [3] "Maheu Says He Recruited Man For C.I.A. in Castro Poison Plot" (NYT, 1975); *Whiteout* (Cockburn & St. Clair).
+- **Che's olive branch:** [4] Richard Goodwin, "Conversation with Commandante Ernesto Guevara" (1961) & "JFK and Che" (Cigar Aficionado, 1996).
+- [5] _(Full list in [`s2-sources.md`](s2-sources.md).)_

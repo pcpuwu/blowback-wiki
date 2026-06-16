@@ -1,6 +1,7 @@
 # S2E8 — We'll All Meet in Hell — Transcript
 
-[← Back to episode notes](../s2e08-we-ll-all-meet-in-hell.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E8%20We%27ll%20All%20Meet%20in%20Hell){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s2e08-we-ll-all-meet-in-hell.md)**
 
 [00:00:00] It shall be the policy of this nation to regard any nuclear missile launched from Cuba against any nation in the Western Hemisphere as an attack by the Soviet Union on the United States, requiring a full retaliatory response upon the Soviet Union.  
 [00:00:18] The President, as we have seen, had waited until Monday evening to make this speech in order that the armed forces could be properly positioned.  

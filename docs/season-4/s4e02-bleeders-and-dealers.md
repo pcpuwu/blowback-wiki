@@ -1,7 +1,7 @@
 # Blowback S4E2 — "Bleeders and Dealers"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E2%20Bleeders%20and%20Dealers){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e02-bleeders-and-dealers.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:10:00
 > **Thesis:** The deep prelude to the war — Afghanistan's ancient empires, three British invasions, the modernizing kings, decades of *Soviet aid* vs. *American/Pakistani/Saudi sabotage*, and the 1978 communist (Saur) revolution that curdled into chaos — until, on Christmas Eve 1979, the reluctant Soviets invade. The recurring pattern: foreign powers (Britain, then the US) fanning religious revolt against modernizing Afghan governments; and Brzezinski's "Afghan trap" to give the USSR "its Vietnam."
@@ -56,7 +56,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
-- **Afghan history & the revolution:** Raja Anwar, *The Tragedy of Afghanistan* (1988); Rodric Braithwaite, *Afgantsy* (2011); Philip Bonosky, *Afghanistan – Washington's Secret War* (2001); Naftula Khalfin, *British Plots Against Afghanistan* (1981); Hafizullah Emadi, *Culture and Customs of Afghanistan* (2005); Elizabeth Gould & Paul Fitzgerald, *Invisible History* (2009).
-- **The US covert side:** Peter Dale Scott, *The Road to 9/11* (2007); Joseph Trento, *Prelude to Terror* (2005); David Talbot, *The Devil's Chessboard* (2015); Lutz Kleveman, *The New Great Game* (2007); George Crile, *Charlie Wilson's War* (Avrakotos); the 1997/1998 **Brzezinski interviews** (National Security Archive; *Le Nouvel Observateur*).
-- **Primary docs:** FRUS 1977–80; State Dept. & CIA reading-room cables; the Dubs assassination (State Dept., 2019); contemporary Washington Post / NYT reporting.
-- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
+- **Afghan history & the revolution:** [1] Raja Anwar, *The Tragedy of Afghanistan* (1988); Rodric Braithwaite, *Afgantsy* (2011); Philip Bonosky, *Afghanistan – Washington's Secret War* (2001); Naftula Khalfin, *British Plots Against Afghanistan* (1981); Hafizullah Emadi, *Culture and Customs of Afghanistan* (2005); Elizabeth Gould & Paul Fitzgerald, *Invisible History* (2009).
+- **The US covert side:** [2] Peter Dale Scott, *The Road to 9/11* (2007); Joseph Trento, *Prelude to Terror* (2005); David Talbot, *The Devil's Chessboard* (2015); Lutz Kleveman, *The New Great Game* (2007); George Crile, *Charlie Wilson's War* (Avrakotos); the 1997/1998 **Brzezinski interviews** (National Security Archive; *Le Nouvel Observateur*).
+- **Primary docs:** [3] FRUS 1977–80; State Dept. & CIA reading-room cables; the Dubs assassination (State Dept., 2019); contemporary Washington Post / NYT reporting.
+- [4] _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

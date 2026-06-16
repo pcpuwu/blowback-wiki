@@ -1,6 +1,7 @@
 # S1E3 — Curveball — Transcript
 
-[← Back to episode notes](../s1e03-curveball.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E3%20Curveball){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s1e03-curveball.md)**
 
 [00:00:01] Tonight, America under attack.  
 [00:00:04] How could it happen?  

@@ -1,7 +1,7 @@
 # Blowback S2E1 — "The Jupiter Menace"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E1%20The%20Jupiter%20Menace){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e01-the-jupiter-menace.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 45:37
 > **Thesis:** The season-opener for the **US war on Cuba** — dismantling the "canned" American myth of the revolution, laying out the scope of six decades of covert and overt aggression, and introducing the cast. Cuba is "a classic case study in almost every weapon in America's arsenal" — invasion, false flags, economic sabotage, assassination, psychological warfare.
@@ -31,7 +31,7 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources). This intro episode cites works mentioned on-air:_
-- **Cuba's record:** UN World Food Programme reporting; Alejandro de la Fuente on race and the revolution; WHO (HIV/syphilis elimination); the World Health Organization / CNN reporting on Cuban vaccines.
-- **US aggressions:** San Francisco Chronicle (1977) on the CIA-linked African swine fever introduction; Michael Isikoff (Yahoo News) on Jeb Bush and a freed Cuban terrorist; Operation Peter Pan.
-- **The embargo:** Atul Gawande, Slate (1998), on visiting Havana and the embargo's human cost.
-- _(Full per-episode bibliography for the season: [`s2-sources.md`](s2-sources.md).)_
+- **Cuba's record:** [1] UN World Food Programme reporting; Alejandro de la Fuente on race and the revolution; WHO (HIV/syphilis elimination); the World Health Organization / CNN reporting on Cuban vaccines.
+- **US aggressions:** [2] San Francisco Chronicle (1977) on the CIA-linked African swine fever introduction; Michael Isikoff (Yahoo News) on Jeb Bush and a freed Cuban terrorist; Operation Peter Pan.
+- **The embargo:** [3] Atul Gawande, Slate (1998), on visiting Havana and the embargo's human cost.
+- [4] _(Full per-episode bibliography for the season: [`s2-sources.md`](s2-sources.md).)_

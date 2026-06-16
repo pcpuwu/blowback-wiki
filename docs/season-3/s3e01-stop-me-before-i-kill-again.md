@@ -1,7 +1,7 @@
 # Blowback S3E1 — "Stop Me Before I Kill Again"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E1%20Stop%20Me%20Before%20I%20Kill%20Again){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e01-stop-me-before-i-kill-again.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~40:29
 > **Thesis:** The season-opener for the **Korean War** — recasting the "forgotten war" not as a clean Cold War set-piece (communist hordes over the 38th parallel) but as an **inter-Korean civil war and a story of decolonization**, escalated and brutalized by US intervention, and used to build America's permanent **national security state**.
@@ -32,5 +32,5 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources). This intro episode draws on the season's core works:_
-- Bruce Cumings on the Korean War (the "unknown war"); Suzy Kim, *Everyday Life in the North Korean Revolution*; Masuda Hajimu, *Cold War Crucible*; David Halberstam, *The Coldest Winter*.
-- _(Full per-episode bibliography for the season — the "Works Used Frequently Throughout" section plus per-episode lists — is in [`s3-sources.md`](s3-sources.md).)_
+- [1] Bruce Cumings on the Korean War (the "unknown war"); Suzy Kim, *Everyday Life in the North Korean Revolution*; Masuda Hajimu, *Cold War Crucible*; David Halberstam, *The Coldest Winter*.
+- [2] _(Full per-episode bibliography for the season — the "Works Used Frequently Throughout" section plus per-episode lists — is in [`s3-sources.md`](s3-sources.md).)_

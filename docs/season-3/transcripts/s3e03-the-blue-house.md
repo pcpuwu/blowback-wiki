@@ -1,6 +1,7 @@
 # S3E3 — The Blue House — Transcript
 
-[← Back to episode notes](../s3e03-the-blue-house.md)
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E3%20The%20Blue%20House){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 📄 **[Episode notes](../s3e03-the-blue-house.md)**
 
 [00:00:00] August 15th, 1945,  
 [00:00:11] Emperor Hirohito broadcast Japan's surrender to the Allies.  

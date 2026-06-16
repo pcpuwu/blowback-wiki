@@ -1,7 +1,7 @@
 # Blowback S2E3 — "New Normal"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E3%20New%20Normal){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e03-new-normal.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:16:18
 > **Thesis:** The revolution's first two years (1959–60) — how an initially moderate government, pushed by US hostility, radicalized into a socialist one; the birth of the Miami counter-revolution and the US covert/terror campaign; and Cuba's drift into the Soviet orbit, ending in the **embargo**.
@@ -49,9 +49,9 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S2-Sources](https://blowback.show/S2-Sources)._
-- **Trials & early government:** Michelle Chase, "The Trials: Violence and Justice in the Aftermath of the Cuban Revolution"; "Cuban Show Trial of Batista Aides Opens in Stadium" (NYT, 1959); James O'Connor, "Political Change in Cuba 1959–1965."
-- **Land reform:** James O'Connor, "Agrarian Reforms in Cuba 1959–1963"; "A reform that illuminated the land" (Granma); "Land Reform in Japan" (Williamson, 1951).
-- **Nationalizations / claims:** "Cuba's Seizures of American Business" (Allison, 1961); "The Cuban Nationalization of US Property in 1960" (McKelvey, 2019); Morris Morley, "Reinterpreting the State-Class Relationship."
-- **Counter-revolution / mafia:** "How the CIA Enlisted the Chicago Mob to Put a Hit on Castro" (Bryan Smith, 2007); "Cuban Leader Manuel Antonio De Varona Dies" (WaPo, 1992); Rockaway on Jewish gangsters.
-- **US policy / Soviets:** "The Nixon-Castro Meeting of 19 April 1959" (Safford); *Reflections of a Cold Warrior* (Bissell, 1996); *RN: The Memoirs of Richard Nixon* (1978); Sergei Khrushchev, *Nikita Khrushchev and the Creation of a Superpower*; Mervyn Bain, *From Lenin to Castro*; "The Hemisphere: Remember La Coubre" (Time, 1960).
-- _(Full list, incl. the "Books used throughout" / "Sources Frequently Cited" sections, in [`s2-sources.md`](s2-sources.md).)_
+- **Trials & early government:** [1] Michelle Chase, "The Trials: Violence and Justice in the Aftermath of the Cuban Revolution"; "Cuban Show Trial of Batista Aides Opens in Stadium" (NYT, 1959); James O'Connor, "Political Change in Cuba 1959–1965."
+- **Land reform:** [2] James O'Connor, "Agrarian Reforms in Cuba 1959–1963"; "A reform that illuminated the land" (Granma); "Land Reform in Japan" (Williamson, 1951).
+- **Nationalizations / claims:** [3] "Cuba's Seizures of American Business" (Allison, 1961); "The Cuban Nationalization of US Property in 1960" (McKelvey, 2019); Morris Morley, "Reinterpreting the State-Class Relationship."
+- **Counter-revolution / mafia:** [4] "How the CIA Enlisted the Chicago Mob to Put a Hit on Castro" (Bryan Smith, 2007); "Cuban Leader Manuel Antonio De Varona Dies" (WaPo, 1992); Rockaway on Jewish gangsters.
+- **US policy / Soviets:** [5] "The Nixon-Castro Meeting of 19 April 1959" (Safford); *Reflections of a Cold Warrior* (Bissell, 1996); *RN: The Memoirs of Richard Nixon* (1978); Sergei Khrushchev, *Nikita Khrushchev and the Creation of a Superpower*; Mervyn Bain, *From Lenin to Castro*; "The Hemisphere: Remember La Coubre" (Time, 1960).
+- [6] _(Full list, incl. the "Books used throughout" / "Sources Frequently Cited" sections, in [`s2-sources.md`](s2-sources.md).)_

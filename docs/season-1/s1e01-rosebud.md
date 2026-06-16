@@ -1,7 +1,7 @@
 # Blowback S1E1 — "Rosebud"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E1%20Rosebud){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e01-rosebud.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 58:18
 > **Thesis:** Before 9/11 and the 2003 invasion, trace the *origin* of America's relationship with Iraq — British colonialism → Cold War → the rise of Saddam — and the central irony: **the US built Saddam into an ally before nominating him "global supervillain."** *Did Saddam turn on us, or did we turn on Saddam?*
@@ -81,9 +81,9 @@
 ## Sources cited for this episode
 _From [blowback.show/S1-Sources](https://blowback.show/S1-Sources). Bucketed by the events above where the link is clear._
 
-- **British Iraq / oil:** "[Our last occupation](https://www.theguardian.com/world/2003/apr/19/iraq.arts)," The Guardian, 2003 · "[France, Britain, and the Arabs](http://www.telstudies.org/writings/works/articles_essays/1920_france_britain_and_the_arabs.shtml)," T.E. Lawrence · *Carbon Democracy*, Timothy Mitchell, 2006
-- **Revolution & CIA / Ba'ath rise:** *Killing Hope*, William Blum, 1995 · "[A Tyrant 40 Years In The Making](https://www.nytimes.com/2003/03/14/opinion/a-tyrant-40-years-in-the-making.html)," Roger Morris, NYT, 2003 · "[Background on 8 February Revolt in Iraq](https://www.cia.gov/library/readingroom/docs/CIA-RDP79T00429A001100020007-6.pdf)," CIA Archives, 1963 · *The Man Who Pushed America To War* (Chalabi bio), Aram Roston, 2008 · *Saddam Hussein: The Politics of Revenge*, Said Aburish, 2000
-- **1959 assassination attempt:** *Unholy Babylon: The Secret History of Saddam's War*, Adel Darwish & Gregory Alexander, 1991
-- **Iran–Iraq War & gas:** *The Iran-Iraq War*, Pierre Razoux, 2015 · *A Poisonous Affair: America, Iraq, and the Gassing of Halabja*, Joost Hiltermann, 2007 · "[CIA Files Prove America Helped Saddam as He Gassed Iran](https://foreignpolicy.com/2013/08/26/exclusive-cia-files-prove-america-helped-saddam-as-he-gassed-iran/)," Foreign Policy · "[UN report on chemical weapons use](https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/Disarm%20S16433.pdf)," United Nations, 1984
-- **Flight 655 / Vincennes:** "[America's Flight 17](https://slate.com/news-and-politics/2014/07/the-vincennes-downing-of-iran-air-flight-655-the-united-states-tried-to-cover-up-its-own-destruction-of-a-passenger-plane.html)," Fred Kaplan, Slate, 2004
-- _Background also drawn from:_ *Iraq: From Sumer to Saddam* (Simons, 1993) · *Sold Out?* (Gibson, 2015) · *Out of the Ashes* (Cockburn, 1999) · *From The House of War* (Simpson, 1991)
+- **British Iraq / oil:** [1] "[Our last occupation](https://www.theguardian.com/world/2003/apr/19/iraq.arts)," The Guardian, 2003 · [2] "[France, Britain, and the Arabs](http://www.telstudies.org/writings/works/articles_essays/1920_france_britain_and_the_arabs.shtml)," T.E. Lawrence · [3] *Carbon Democracy*, Timothy Mitchell, 2006
+- **Revolution & CIA / Ba'ath rise:** [4] *Killing Hope*, William Blum, 1995 · [5] "[A Tyrant 40 Years In The Making](https://www.nytimes.com/2003/03/14/opinion/a-tyrant-40-years-in-the-making.html)," Roger Morris, NYT, 2003 · [6] "[Background on 8 February Revolt in Iraq](https://www.cia.gov/library/readingroom/docs/CIA-RDP79T00429A001100020007-6.pdf)," CIA Archives, 1963 · [7] *The Man Who Pushed America To War* (Chalabi bio), Aram Roston, 2008 · [8] *Saddam Hussein: The Politics of Revenge*, Said Aburish, 2000
+- **1959 assassination attempt:** [9] *Unholy Babylon: The Secret History of Saddam's War*, Adel Darwish & Gregory Alexander, 1991
+- **Iran–Iraq War & gas:** [10] *The Iran-Iraq War*, Pierre Razoux, 2015 · [11] *A Poisonous Affair: America, Iraq, and the Gassing of Halabja*, Joost Hiltermann, 2007 · [12] "[CIA Files Prove America Helped Saddam as He Gassed Iran](https://foreignpolicy.com/2013/08/26/exclusive-cia-files-prove-america-helped-saddam-as-he-gassed-iran/)," Foreign Policy · [13] "[UN report on chemical weapons use](https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/Disarm%20S16433.pdf)," United Nations, 1984
+- **Flight 655 / Vincennes:** [14] "[America's Flight 17](https://slate.com/news-and-politics/2014/07/the-vincennes-downing-of-iran-air-flight-655-the-united-states-tried-to-cover-up-its-own-destruction-of-a-passenger-plane.html)," Fred Kaplan, Slate, 2004
+- _Background also drawn from:_ [15] *Iraq: From Sumer to Saddam* (Simons, 1993) · [16] *Sold Out?* (Gibson, 2015) · [17] *Out of the Ashes* (Cockburn, 1999) · [18] *From The House of War* (Simpson, 1991)

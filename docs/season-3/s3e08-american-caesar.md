@@ -1,7 +1,7 @@
 # Blowback S3E8 — "American Caesar"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E8%20American%20Caesar){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e08-american-caesar.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:21:00
 > **Thesis:** The Truman–MacArthur showdown reaches its climax. MacArthur, hungering for nuclear war with China, repeatedly goes over his president's head until Truman fires him (April 1951) — yet the "moderates" quietly shared his nuclear anxiety (A-bombs shipped to Guam/Okinawa). Meanwhile the war's two new fronts open: the POW camps (and "voluntary repatriation"), the brainwashing panic that birthed MK-Ultra, and the credible allegations of US biological warfare.
@@ -65,9 +65,9 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources)._
-- **MacArthur & the firing:** Michael Schaller, *Douglas MacArthur: The Far Eastern General* (1989); William Manchester, *American Caesar*; I.F. Stone, *The Hidden History of the Korean War*; Bruce Cumings; Steven Casey, *Selling the Korean War*.
-- **The Chinese side:** *Mao's Generals Remember Korea*, ed. Xiaobing Li, Allan R. Millett & Bin Yu (2001) — Peng Dehuai memoir + Bin Yu analysis; Ha Jin's novel *War Trash* (2004).
-- **POWs & interrogation:** Monica Kim, *The Interrogation Rooms of the Korean War* (2019); *The Korean War at Fifty*, ed. Mark F. Wilkinson (2004); Thomas Powell, "Road to Empire: POWs and Total War in Korea" (2021).
-- **Brainwashing & mind control:** John Marks, *The Search for the "Manchurian Candidate"* (1979).
-- **Biological warfare:** Thomas Powell, "Biological Warfare in the Korean War" (2017); Daniel Barenblatt, *A Plague Upon Humanity* (2005); Jeffrey Kaye, "Secret History… Flyers' Confessions on Use of Biological Weapons" (2021); Nicholson Baker, *Baseless* (2021); *Rebel Journalism: The Writings of Wilfred Burchett* (2007).
-- _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_
+- **MacArthur & the firing:** [1] Michael Schaller, *Douglas MacArthur: The Far Eastern General* (1989); William Manchester, *American Caesar*; I.F. Stone, *The Hidden History of the Korean War*; Bruce Cumings; Steven Casey, *Selling the Korean War*.
+- **The Chinese side:** [2] *Mao's Generals Remember Korea*, ed. Xiaobing Li, Allan R. Millett & Bin Yu (2001) — Peng Dehuai memoir + Bin Yu analysis; Ha Jin's novel *War Trash* (2004).
+- **POWs & interrogation:** [3] Monica Kim, *The Interrogation Rooms of the Korean War* (2019); *The Korean War at Fifty*, ed. Mark F. Wilkinson (2004); Thomas Powell, "Road to Empire: POWs and Total War in Korea" (2021).
+- **Brainwashing & mind control:** [4] John Marks, *The Search for the "Manchurian Candidate"* (1979).
+- **Biological warfare:** [5] Thomas Powell, "Biological Warfare in the Korean War" (2017); Daniel Barenblatt, *A Plague Upon Humanity* (2005); Jeffrey Kaye, "Secret History… Flyers' Confessions on Use of Biological Weapons" (2021); Nicholson Baker, *Baseless* (2021); *Rebel Journalism: The Writings of Wilfred Burchett* (2007).
+- [6] _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_

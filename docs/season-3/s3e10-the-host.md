@@ -1,7 +1,7 @@
 # Blowback S3E10 — "The Host"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E10%20The%20Host){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e10-the-host.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:36:05
 > **Thesis:** A "speed run" of Korea since 1953 — the armistice that never became peace; the US nuclearizing the South; Rhee's fall and the cycle of military juntas (Park, Chun) building a capitalist-but-dictatorial South; the North's postwar "miracle," then its post-Soviet famine and isolation; and the two nuclear crises in which every US administration from H.W. Bush to Biden sabotaged or bypassed the recurring chances for peace. The unfinished war as "a nail stuck in the flow of history."
@@ -81,6 +81,6 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S3-Sources](https://blowback.show/S3-Sources)._
-- **The Koreas since 1953:** Bruce Cumings, *North Korea: Another Country* (2004) and *The Korean War*; Heonik Kwon, *After the Korean War* (2020); Jesook Song, *South Koreans in the Debt Crisis* (2009); Monica Kim, *The Interrogation Rooms of the Korean War* (2019).
-- **The unresolved war & nuclear crises:** Steven Lee, "The Korean Armistice and the End of Peace" (*Journal of Korean Studies*, 2013); James I. Matray, "The Failure of the Bush Administration's North Korea Policy" (2013); Grace Chae, "Complacency or Complicity?" on Rhee's POW release (2017).
-- _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_
+- **The Koreas since 1953:** [1] Bruce Cumings, *North Korea: Another Country* (2004) and *The Korean War*; Heonik Kwon, *After the Korean War* (2020); Jesook Song, *South Koreans in the Debt Crisis* (2009); Monica Kim, *The Interrogation Rooms of the Korean War* (2019).
+- **The unresolved war & nuclear crises:** [2] Steven Lee, "The Korean Armistice and the End of Peace" (*Journal of Korean Studies*, 2013); James I. Matray, "The Failure of the Bush Administration's North Korea Policy" (2013); Grace Chae, "Complacency or Complicity?" on Rhee's POW release (2017).
+- [3] _(Full per-episode list in [`s3-sources.md`](s3-sources.md).)_

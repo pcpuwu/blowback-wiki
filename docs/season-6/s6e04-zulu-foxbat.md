@@ -1,7 +1,7 @@
 # Blowback S6E4 — "Zulu & Foxbat"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E4%20Zulu%20%26%20Foxbat){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e04-zulu-foxbat.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:15:30
 > **Thesis:** Independence year, **1974–75** — the Carnation Revolution topples Portugal; the three factions' fake unity collapses into civil war; the MPLA seizes Luanda while the CIA (Operation IA/Feature), apartheid South Africa (Operation Savannah — task forces **Zulu** and **Foxbat**), and Mobutu's Zaire back the FNLA and Savimbi; and **Cuba** (Operation Carlota) airlifts thousands of combat troops to save the MPLA, halting the South African blitz days before the **Nov 11, 1975** independence.
@@ -43,8 +43,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S6-Sources](https://blowback.show/S6-Sources)._
-- **The 1974–75 turn:** David Birmingham; Natalia Telepneva, *Cold War Liberation*; Martin Meredith, *The State of Africa*; Piero Gleijeses, *Conflicting Missions*; Odd Arne Westad, *The Global Cold War*.
-- **The CIA op:** John Stockwell, *In Search of Enemies* (1978).
-- **The Cuban intervention:** Gabriel García Márquez, "[Operation Carlota](https://newleftreview.org/issues/i101/articles/gabriel-garcia-marquez-operation-carlota)" (*New Left Review*, 1977); interviews with Oscar Oramas Oliva and filmmaker Nagash Abdur-Rahman.
-- **Documents:** Kissinger→Nixon memo (FRUS, [Apr 29, 1974](https://history.state.gov/historicaldocuments/frus1969-76v28/d98)); ADST oral history (Frank Carlucci, [2018](https://adst.org/2018/06/frank-carlucci-helping-block-the-communists-in-portugal/)); [NYT, Sept 25, 1975](https://www.nytimes.com/1975/09/25/archives/us-soviet-china-reported-aiding-portugal-angola-secret-funneling-of.html); Memorandum for the Record (FRUS, [Sept 13, 1975](https://history.state.gov/historicaldocuments/frus1969-76v28/d127)).
-- _(Full per-episode list in [`s6-sources.md`](s6-sources.md).)_
+- **The 1974–75 turn:** [1] David Birmingham; Natalia Telepneva, *Cold War Liberation*; Martin Meredith, *The State of Africa*; Piero Gleijeses, *Conflicting Missions*; Odd Arne Westad, *The Global Cold War*.
+- **The CIA op:** [2] John Stockwell, *In Search of Enemies* (1978).
+- **The Cuban intervention:** [3] Gabriel García Márquez, "[Operation Carlota](https://newleftreview.org/issues/i101/articles/gabriel-garcia-marquez-operation-carlota)" (*New Left Review*, 1977); interviews with Oscar Oramas Oliva and filmmaker Nagash Abdur-Rahman.
+- **Documents:** [4] Kissinger→Nixon memo (FRUS, [Apr 29, 1974](https://history.state.gov/historicaldocuments/frus1969-76v28/d98)); ADST oral history (Frank Carlucci, [2018](https://adst.org/2018/06/frank-carlucci-helping-block-the-communists-in-portugal/)); [NYT, Sept 25, 1975](https://www.nytimes.com/1975/09/25/archives/us-soviet-china-reported-aiding-portugal-angola-secret-funneling-of.html); Memorandum for the Record (FRUS, [Sept 13, 1975](https://history.state.gov/historicaldocuments/frus1969-76v28/d127)).
+- [5] _(Full per-episode list in [`s6-sources.md`](s6-sources.md).)_

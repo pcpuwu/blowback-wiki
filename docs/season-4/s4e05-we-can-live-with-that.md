@@ -1,7 +1,7 @@
 # Blowback S4E5 — "We Can Live With That"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E5%20We%20Can%20Live%20With%20That){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e05-we-can-live-with-that.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:03:30
 > **Thesis:** The interregnum (1989–96): Najibullah's communist government outlasts everyone's predictions; the USSR dies; the victorious warlords turn on each other and shred Kabul (the "small Holocaust"); and out of that chaos rise the **Taliban** — whom the US, chasing a Central Asian gas pipeline, decides it "can live with." Meanwhile the Afghan-Arab network blows back onto US soil (the Kahane murder, the 1993 WTC bombing) and bin Laden declares war.
@@ -52,8 +52,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
-- **Najibullah & the civil war:** Shane A. Smith on the post-Soviet regime (2020); Steve Coll, *Ghost Wars*; Ahmed Rashid, *Taliban* (2010); Human Rights Watch, "Blood-Stained Hands" (2005); Artemy Kalinovsky.
-- **The USSR's collapse:** Vladislav Zubok, *Collapse* (2021); Anthony DeCurtis, *Rolling Stone* (1990).
-- **Blowback on US soil:** Robert Friedman, *The False Prophet* (Kahane); Peter Lance; Robert Dreyfuss, *Devil's Game* (2005); John Parachini on the 1993 WTC bombing.
-- **The Taliban & pipeline:** Ahmed Rashid, *Taliban*; Carlotta Gall, *The Wrong Enemy*; the Washington Post "No Peace in the Pipeline" pieces (1998); Brisard & Dasquié, *Forbidden Truth*.
-- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
+- **Najibullah & the civil war:** [1] Shane A. Smith on the post-Soviet regime (2020); Steve Coll, *Ghost Wars*; Ahmed Rashid, *Taliban* (2010); Human Rights Watch, "Blood-Stained Hands" (2005); Artemy Kalinovsky.
+- **The USSR's collapse:** [2] Vladislav Zubok, *Collapse* (2021); Anthony DeCurtis, *Rolling Stone* (1990).
+- **Blowback on US soil:** [3] Robert Friedman, *The False Prophet* (Kahane); Peter Lance; Robert Dreyfuss, *Devil's Game* (2005); John Parachini on the 1993 WTC bombing.
+- **The Taliban & pipeline:** [4] Ahmed Rashid, *Taliban*; Carlotta Gall, *The Wrong Enemy*; the Washington Post "No Peace in the Pipeline" pieces (1998); Brisard & Dasquié, *Forbidden Truth*.
+- [5] _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_

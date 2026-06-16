@@ -1,7 +1,7 @@
 # Blowback S4E3 — "The Trap"
 
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E3%20The%20Trap){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e03-the-trap.md)**
-
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:00:00
 > **Thesis:** The Soviet invasion lands in the trap — the storming of Amin's palace, the Carter-era reprisals (grain embargo, Olympic boycott, the Carter Doctrine), and the **propaganda war** that recast a CIA-funded jihad as "Russia's own Vietnam" (Dan Rather's "Gunga Dan" fakery, fabricated NYT obituaries, WMD smears). Plus the cast that ran the covert war: Avrakotos's "dirty dozen," Charlie Wilson, socialite Joanne Herring, and Pakistan's Gen. Zia.
@@ -52,8 +52,8 @@
 
 ## Sources cited for this episode
 _From [blowback.show/S4-Sources](https://blowback.show/S4-Sources)._
-- **The invasion & the war:** Rodric Braithwaite, *Afgantsy*; Vasiliy Mitrokhin, "The KGB in Afghanistan" (2002); Raja Anwar; Philip Bonosky; Artemy Kalinovsky on the withdrawal; Tariq Ali.
-- **The covert war & cast:** George Crile, *Charlie Wilson's War*; Steve Coll, *Ghost Wars*; Peter Dale Scott; Fitzgerald & Gould (incl. their CBS/Rather account and HuffPost on Hekmatyar).
-- **The propaganda & WMD:** Alvin Snyder, *Warriors of Disinformation* (1995); Soley & Nichols, *Clandestine Radio Broadcasting* (1987); FAIR and NYT on the CBS/Rather fakery; the "yellow rain"/bees Washington Post and NYT pieces.
-- **BCCI & the Bush–bin Laden axis:** Beaty & Gwynne, *The Outlaw Bank* (1993); Truell & Gurwin, *False Profits* (1992); the Texas Observer/LA Times/Salon pieces.
-- _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
+- **The invasion & the war:** [1] Rodric Braithwaite, *Afgantsy*; Vasiliy Mitrokhin, "The KGB in Afghanistan" (2002); Raja Anwar; Philip Bonosky; Artemy Kalinovsky on the withdrawal; Tariq Ali.
+- **The covert war & cast:** [2] George Crile, *Charlie Wilson's War*; Steve Coll, *Ghost Wars*; Peter Dale Scott; Fitzgerald & Gould (incl. their CBS/Rather account and HuffPost on Hekmatyar).
+- **The propaganda & WMD:** [3] Alvin Snyder, *Warriors of Disinformation* (1995); Soley & Nichols, *Clandestine Radio Broadcasting* (1987); FAIR and NYT on the CBS/Rather fakery; the "yellow rain"/bees Washington Post and NYT pieces.
+- **BCCI & the Bush–bin Laden axis:** [4] Beaty & Gwynne, *The Outlaw Bank* (1993); Truell & Gurwin, *False Profits* (1992); the Texas Observer/LA Times/Salon pieces.
+- [5] _(Full per-episode list in [`s4-sources.md`](s4-sources.md).)_
