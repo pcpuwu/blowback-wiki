@@ -69,7 +69,11 @@ def main():
         if k:
             transcripts[k] = txt
 
-    nav = ["  - Home: index.md", "  - About & Methodology: about.md"]
+    nav = [
+        "  - Home: index.md",
+        "  - About & Methodology: about.md",
+        "  - Transcription Corrections: corrections.md",
+    ]
 
     for s in SEASONS:
         sdir = OUT / f"season-{s}"
@@ -152,7 +156,56 @@ def main():
 
     write_index()
     write_about()
+    write_corrections()
     write_config("\n".join(nav))
+
+
+def episode_corrections(md_path):
+    """Return the itemised correction notes (parentheticals on the header line),
+    or [] if the episode says only 'corrected against context', or None if absent."""
+    for line in md_path.read_text(encoding="utf-8").splitlines()[:12]:
+        if "speech-to-text" in line.lower():
+            return re.findall(r"\(([^)]*)\)", line)
+    return None
+
+
+def write_corrections():
+    lines = [
+        "# Transcription Corrections",
+        "",
+        "The transcripts are raw [Whisper](about.md) output. When writing the notes, "
+        "Claude corrected obvious speech-to-text errors — mostly **names and terms "
+        "Whisper misheard** — against context.",
+        "",
+        "!!! note \"What this page is (and isn't)\"",
+        "    This is **not** a complete change-log. Corrections were made *inline* "
+        "while writing the notes, and the notes are summaries rather than verbatim "
+        "text, so there is no full diff. Below are the fixes that were **itemised "
+        "per episode** — typically `Correct name ≈ \"what Whisper wrote\"`. Episodes "
+        "marked *“corrected against context (not itemised)”* were also cleaned up, "
+        "but those individual edits were not logged. Date slips fixed silently are "
+        "likewise not all listed here.",
+        "",
+    ]
+    for s in SEASONS:
+        eps = sorted(
+            (p for p in NOTES.glob(f"s{s}e*.md") if ep_key(p.name)),
+            key=lambda p: ep_key(p.name),
+        )
+        if not eps:
+            continue
+        lines.append(f"## Season {s}")
+        lines.append("")
+        for ep in eps:
+            title = h1_title(ep)
+            corr = episode_corrections(ep)
+            items = [c for c in (corr or []) if c.strip()]
+            if items:
+                lines.append(f"- **{title}** — " + " · ".join(items))
+            else:
+                lines.append(f"- **{title}** — _corrected against context (not itemised)_")
+        lines.append("")
+    (OUT / "corrections.md").write_text("\n".join(lines), encoding="utf-8")
     print(f"Built {sum(1 for _ in OUT.rglob('*.md'))} pages into {OUT}")
 
 
@@ -207,7 +260,9 @@ def write_about():
         "- Timestamps (`[hh:mm:ss]`) are **Whisper-generated** and approximate — good "
         "enough to find a moment in the audio, not frame-accurate.\n"
         "- Whisper mishears proper nouns and occasionally garbles dates; obvious slips "
-        "were corrected against context where caught, but some remain.\n\n"
+        "were corrected against context where caught, but some remain. A per-episode "
+        "list of the name/term fixes is on the **[Transcription Corrections]"
+        "(corrections.md)** page (not every silent fix is itemised).\n\n"
         "## 2. Notes — Anthropic's Claude (Opus)\n\n"
         "The episode notes were written by **Claude (Opus model)** from two inputs "
         "only: the Whisper transcript, and the show's **own published bibliography** "

@@ -10,7 +10,7 @@ This is an **unofficial fan companion** to the *Blowback* podcast (hosts **Brend
 Audio was pulled from the show's **public RSS feed** (not ripped from any paywalled service) and transcribed locally with the open-source **Whisper** model — specifically `distil-large-v3` via `faster-whisper` (int8, CPU). Processing ran at roughly **4× real-time** on a personal machine; nothing was sent to a paid API.
 
 - Timestamps (`[hh:mm:ss]`) are **Whisper-generated** and approximate — good enough to find a moment in the audio, not frame-accurate.
-- Whisper mishears proper nouns and occasionally garbles dates; obvious slips were corrected against context where caught, but some remain.
+- Whisper mishears proper nouns and occasionally garbles dates; obvious slips were corrected against context where caught, but some remain. A per-episode list of the name/term fixes is on the **[Transcription Corrections](corrections.md)** page (not every silent fix is itemised).
 
 ## 2. Notes — Anthropic's Claude (Opus)
 

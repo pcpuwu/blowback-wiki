@@ -38,6 +38,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About & Methodology: about.md
+  - Transcription Corrections: corrections.md
   - Season 1:
       - Season Timeline: season-1/timeline.md
       - Sources: season-1/sources.md
