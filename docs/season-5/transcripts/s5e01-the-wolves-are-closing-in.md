@@ -1,6 +1,6 @@
 # S5E1 — The Wolves Are Closing In — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E1%20The%20Wolves%20Are%20Closing%20In){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E1%20The%20Wolves%20Are%20Closing%20In){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Episode notes](../s5e01-the-wolves-are-closing-in.md)**
 
 [00:00:06] My fellow Americans.  

@@ -1,6 +1,6 @@
 # Blowback S4E4 — "They're Yours Now"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E4%20They%27re%20Yours%20Now){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E4%20They%27re%20Yours%20Now){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e04-theyre-yours-now.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:09:40

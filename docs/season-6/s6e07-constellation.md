@@ -1,6 +1,6 @@
 # Blowback S6E7 — "Constellation"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E7%20Constellation){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E7%20Constellation){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e07-constellation.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:02:30

@@ -1,6 +1,6 @@
 # Blowback S2E4 — "Secret Honor"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E4%20Secret%20Honor){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E4%20Secret%20Honor){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e04-secret-honor.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:15:19

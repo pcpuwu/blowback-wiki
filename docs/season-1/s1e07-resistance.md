@@ -1,6 +1,6 @@
 # Blowback S1E7 — "#Resistance"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E7%20%23Resistance){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E7%20%23Resistance){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e07-resistance.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:00:36

@@ -1,6 +1,6 @@
 # Blowback S3E4 — "Red Island"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E4%20Red%20Island){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E4%20Red%20Island){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e04-red-island.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~57:29

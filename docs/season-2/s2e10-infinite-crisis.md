@@ -1,6 +1,6 @@
 # Blowback S2E10 — "Infinite Crisis"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E10%20Infinite%20Crisis){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E10%20Infinite%20Crisis){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e10-infinite-crisis.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:18:48 · **(Season 2 finale)**

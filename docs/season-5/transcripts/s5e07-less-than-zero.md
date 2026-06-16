@@ -1,6 +1,6 @@
 # S5E7 — Less Than Zero — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E7%20Less%20Than%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E7%20Less%20Than%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Episode notes](../s5e07-less-than-zero.md)**
 
 [00:00:08] After the Khmer Rouge took over Cambodia,  

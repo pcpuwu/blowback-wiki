@@ -1,6 +1,6 @@
 # S3E5 — Train to Busan — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E5%20Train%20to%20Busan){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E5%20Train%20to%20Busan){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Episode notes](../s3e05-train-to-busan.md)**
 
 [00:00:00] Will there be peace or war?  

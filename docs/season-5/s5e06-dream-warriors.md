@@ -1,6 +1,6 @@
 # Blowback S5E6 — "Dream Warriors"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E6%20Dream%20Warriors){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E6%20Dream%20Warriors){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e06-dream-warriors.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:10:00

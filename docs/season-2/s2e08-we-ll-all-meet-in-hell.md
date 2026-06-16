@@ -1,6 +1,6 @@
 # Blowback S2E8 — "We'll All Meet in Hell"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E8%20We%27ll%20All%20Meet%20in%20Hell){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E8%20We%27ll%20All%20Meet%20in%20Hell){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e08-we-ll-all-meet-in-hell.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:03:35

@@ -1,6 +1,6 @@
 # S1E1 — Rosebud — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E1%20Rosebud){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E1%20Rosebud){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Episode notes](../s1e01-rosebud.md)**
 
 [00:00:02] The voice you hear is Richard Nixon in the Oval Office in 1971,  

@@ -1,6 +1,6 @@
 # Blowback S4E10 — "The Phantom Pain"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E10%20The%20Phantom%20Pain){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E10%20The%20Phantom%20Pain){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e10-the-phantom-pain.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:00:30

@@ -1,6 +1,6 @@
 # Blowback S1E10 — "The Iraq War Did Not Take Place"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E10%20The%20Iraq%20War%20Did%20Not%20Take%20Place){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E10%20The%20Iraq%20War%20Did%20Not%20Take%20Place){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e10-the-iraq-war-did-not-take-place.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:05:26 · **(Series finale)**

@@ -1,6 +1,6 @@
 # S3E7 — Mao (Mao's Poem) — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E7%20Mao%20%28Mao%27s%20Poem%29){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E7%20Mao%20%28Mao%27s%20Poem%29){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Episode notes](../s3e07-mao.md)**
 
 [00:00:00] From East Coast to West Coast in Korea, Thanksgiving dinner is eaten by many troops in bitter cold and in incongruous settings.  

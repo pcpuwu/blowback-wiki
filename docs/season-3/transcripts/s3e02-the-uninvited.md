@@ -1,6 +1,6 @@
 # S3E2 — The Uninvited — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E2%20The%20Uninvited){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E2%20The%20Uninvited){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Episode notes](../s3e02-the-uninvited.md)**
 
 [00:00:00] United Nations Radio presents the first of two specially recorded broadcasts telling the Korea Story and starring Dick Powell.  

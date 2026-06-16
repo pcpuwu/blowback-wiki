@@ -1,6 +1,6 @@
 # Blowback S5E3 — "Listen to the Thunder"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E3%20Listen%20to%20the%20Thunder){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E3%20Listen%20to%20the%20Thunder){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e03-listen-to-the-thunder.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:11:00

@@ -1,6 +1,6 @@
 # S4E9 — Peace Walker — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E9%20Peace%20Walker){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E9%20Peace%20Walker){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Episode notes](../s4e09-peace-walker.md)**
 
 [00:00:24] Welcome to Blowback. I'm Brendan James.  

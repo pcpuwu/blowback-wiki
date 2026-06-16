@@ -1,6 +1,6 @@
 # S2E7 — Anadyr — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E7%20Anadyr){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E7%20Anadyr){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Episode notes](../s2e07-anadyr.md)**
 
 [00:00:06] In October of 1999, the Pentagon declassified for the first time the locations of nuclear weapons  

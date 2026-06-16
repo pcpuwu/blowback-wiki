@@ -1,6 +1,6 @@
 # S6E5 — Kicking the Dog — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E5%20Kicking%20the%20Dog){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E5%20Kicking%20the%20Dog){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Episode notes](../s6e05-kicking-the-dog.md)**
 
 [00:00:00] We did kill when we had no particular reason to.  

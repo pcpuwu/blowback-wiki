@@ -1,6 +1,6 @@
 # Blowback S5E7 — "Less Than Zero"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E7%20Less%20Than%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E7%20Less%20Than%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e07-less-than-zero.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:07:00

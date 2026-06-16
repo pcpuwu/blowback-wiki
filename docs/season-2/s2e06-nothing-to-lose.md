@@ -1,6 +1,6 @@
 # Blowback S2E6 — "Nothing to Lose"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E6%20Nothing%20to%20Lose){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E6%20Nothing%20to%20Lose){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e06-nothing-to-lose.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~59:53

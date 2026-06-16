@@ -1,6 +1,6 @@
 # S2E9 — Cuba Libra — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E9%20Cuba%20Libra){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E9%20Cuba%20Libra){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Episode notes](../s2e09-cuba-libra.md)**
 
 [00:00:00] Here is reporter Lisa Howard.  

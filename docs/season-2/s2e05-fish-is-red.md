@@ -1,6 +1,6 @@
 # Blowback S2E5 — "Fish Is Red"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E5%20Fish%20Is%20Red){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E5%20Fish%20Is%20Red){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e05-fish-is-red.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~59:00

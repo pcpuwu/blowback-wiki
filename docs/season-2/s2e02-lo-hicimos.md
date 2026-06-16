@@ -1,6 +1,6 @@
 # Blowback S2E2 — "Lo Hicimos"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E2%20Lo%20Hicimos){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E2%20Lo%20Hicimos){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e02-lo-hicimos.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:20:06

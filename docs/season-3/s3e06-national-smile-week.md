@@ -1,6 +1,6 @@
 # Blowback S3E6 — "National Smile Week"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E6%20National%20Smile%20Week){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E6%20National%20Smile%20Week){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e06-national-smile-week.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:03:08

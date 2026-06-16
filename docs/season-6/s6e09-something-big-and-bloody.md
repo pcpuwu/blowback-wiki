@@ -1,6 +1,6 @@
 # Blowback S6E9 — "Something Big and Bloody"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E9%20Something%20Big%20and%20Bloody){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E9%20Something%20Big%20and%20Bloody){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e09-something-big-and-bloody.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:12:00

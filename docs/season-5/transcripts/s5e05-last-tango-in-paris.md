@@ -1,6 +1,6 @@
 # S5E5 — Last Tango in Paris — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E5%20Last%20Tango%20in%20Paris){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E5%20Last%20Tango%20in%20Paris){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Episode notes](../s5e05-last-tango-in-paris.md)**
 
 [00:00:01] On May 5, 1972, President Richard Nixon and his National Security Advisor Henry Kissinger  

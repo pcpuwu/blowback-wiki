@@ -1,6 +1,6 @@
 # S6E1 — The Dead Myth — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E1%20The%20Dead%20Myth){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E1%20The%20Dead%20Myth){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Episode notes](../s6e01-the-dead-myth.md)**
 
 [00:00:03] Tonight, the issues and the controversy.  

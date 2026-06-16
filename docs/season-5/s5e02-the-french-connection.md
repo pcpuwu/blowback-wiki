@@ -1,6 +1,6 @@
 # Blowback S5E2 — "The French Connection"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E2%20The%20French%20Connection){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E2%20The%20French%20Connection){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e02-the-french-connection.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:00:40

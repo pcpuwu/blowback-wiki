@@ -1,6 +1,6 @@
 # Blowback S4E9 — "Peace Walker"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E9%20Peace%20Walker){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E9%20Peace%20Walker){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e09-peace-walker.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:10:00

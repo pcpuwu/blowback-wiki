@@ -1,6 +1,6 @@
 # S4E2 — Bleeders and Dealers — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E2%20Bleeders%20and%20Dealers){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E2%20Bleeders%20and%20Dealers){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Episode notes](../s4e02-bleeders-and-dealers.md)**
 
 [00:00:00] How about a nice relaxing afternoon of murder and betrayal?  

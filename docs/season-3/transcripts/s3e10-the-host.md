@@ -1,6 +1,6 @@
 # S3E10 — The Host — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E10%20The%20Host){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E10%20The%20Host){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Episode notes](../s3e10-the-host.md)**
 
 [00:00:00] North Korea is a problem, and we're going to continue to do it so we can control them.  

@@ -1,6 +1,6 @@
 # Blowback S3E9 — "No More Targets"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E9%20No%20More%20Targets){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E9%20No%20More%20Targets){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e09-no-more-targets.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:13:42

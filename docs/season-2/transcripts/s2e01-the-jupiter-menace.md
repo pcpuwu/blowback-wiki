@@ -1,6 +1,6 @@
 # S2E1 — The Jupiter Menace — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E1%20The%20Jupiter%20Menace){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E1%20The%20Jupiter%20Menace){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Episode notes](../s2e01-the-jupiter-menace.md)**
 
 [00:00:01] The President of the United States.  

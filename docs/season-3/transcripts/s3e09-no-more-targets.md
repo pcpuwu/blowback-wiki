@@ -1,6 +1,6 @@
 # S3E9 — No More Targets — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E9%20No%20More%20Targets){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E9%20No%20More%20Targets){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Episode notes](../s3e09-no-more-targets.md)**
 
 [00:00:02] Another enemy position to take, and this is how we take it.  

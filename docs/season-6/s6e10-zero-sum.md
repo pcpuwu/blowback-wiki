@@ -1,6 +1,6 @@
 # Blowback S6E10 — "Zero-sum"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E10%20Zero-sum){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E10%20Zero-sum){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e10-zero-sum.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~57:30

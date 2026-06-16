@@ -1,6 +1,6 @@
 # Blowback S6E8 — "Cut Off Their Hands"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E8%20Cut%20Off%20Their%20Hands){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E8%20Cut%20Off%20Their%20Hands){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e08-cut-off-their-hands.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:15:30

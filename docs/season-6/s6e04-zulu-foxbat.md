@@ -1,6 +1,6 @@
 # Blowback S6E4 — "Zulu & Foxbat"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E4%20Zulu%20%26%20Foxbat){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E4%20Zulu%20%26%20Foxbat){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e04-zulu-foxbat.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:15:30

@@ -1,6 +1,6 @@
 # Blowback S3E5 — "Train to Busan"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E5%20Train%20to%20Busan){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E5%20Train%20to%20Busan){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e05-train-to-busan.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:18:38

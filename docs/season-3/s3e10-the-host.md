@@ -1,6 +1,6 @@
 # Blowback S3E10 — "The Host"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E10%20The%20Host){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E10%20The%20Host){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e10-the-host.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:36:05

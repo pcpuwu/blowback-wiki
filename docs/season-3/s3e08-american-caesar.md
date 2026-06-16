@@ -1,6 +1,6 @@
 # Blowback S3E8 — "American Caesar"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E8%20American%20Caesar){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E8%20American%20Caesar){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e08-american-caesar.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:21:00

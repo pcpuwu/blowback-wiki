@@ -1,6 +1,6 @@
 # Blowback S4E2 — "Bleeders and Dealers"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E2%20Bleeders%20and%20Dealers){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E2%20Bleeders%20and%20Dealers){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e02-bleeders-and-dealers.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:10:00

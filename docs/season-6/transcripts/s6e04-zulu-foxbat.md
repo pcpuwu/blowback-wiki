@@ -1,6 +1,6 @@
 # S6E4 — Zulu & Foxbat — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E4%20Zulu%20%26%20Foxbat){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E4%20Zulu%20%26%20Foxbat){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Episode notes](../s6e04-zulu-foxbat.md)**
 
 [00:00:03] Bill Colby, the CIA director, went to brief the National Security Council in the White House the first time on this.  

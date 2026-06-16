@@ -1,6 +1,6 @@
 # S4E3 — The Trap — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E3%20The%20Trap){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E3%20The%20Trap){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Episode notes](../s4e03-the-trap.md)**
 
 [00:00:00] Weir weekly public affairs program.  

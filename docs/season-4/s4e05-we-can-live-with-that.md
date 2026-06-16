@@ -1,6 +1,6 @@
 # Blowback S4E5 — "We Can Live With That"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E5%20We%20Can%20Live%20With%20That){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E5%20We%20Can%20Live%20With%20That){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e05-we-can-live-with-that.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:03:30

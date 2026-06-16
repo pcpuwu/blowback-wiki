@@ -1,6 +1,6 @@
 # Blowback S4E7 — "Guns of the Patriots"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E7%20Guns%20of%20the%20Patriots){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E7%20Guns%20of%20the%20Patriots){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e07-guns-of-the-patriots.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:05:00

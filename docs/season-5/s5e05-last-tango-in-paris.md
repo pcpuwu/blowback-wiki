@@ -1,6 +1,6 @@
 # Blowback S5E5 — "Last Tango in Paris"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E5%20Last%20Tango%20in%20Paris){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E5%20Last%20Tango%20in%20Paris){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e05-last-tango-in-paris.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:05:30

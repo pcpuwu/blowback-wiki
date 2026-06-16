@@ -1,6 +1,6 @@
 # Blowback S1E5 — "Dead Links" (feat. Will Menaker)
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E5%20Dead%20Links%20%28feat.%20Will%20Menaker%29){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E5%20Dead%20Links%20%28feat.%20Will%20Menaker%29){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e05-dead-links.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Guest:** Will Menaker (Chapo) · **Runtime:** 1:01:48

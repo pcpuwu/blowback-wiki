@@ -1,6 +1,6 @@
 # Blowback S3E1 — "Stop Me Before I Kill Again"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E1%20Stop%20Me%20Before%20I%20Kill%20Again){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E1%20Stop%20Me%20Before%20I%20Kill%20Again){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e01-stop-me-before-i-kill-again.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~40:29

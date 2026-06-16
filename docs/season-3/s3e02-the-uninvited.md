@@ -1,6 +1,6 @@
 # Blowback S3E2 — "The Uninvited"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E2%20The%20Uninvited){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E2%20The%20Uninvited){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e02-the-uninvited.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:10:07

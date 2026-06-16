@@ -1,6 +1,6 @@
 # S2E4 — Secret Honor — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E4%20Secret%20Honor){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E4%20Secret%20Honor){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Episode notes](../s2e04-secret-honor.md)**
 
 [00:00:00] The first question is from Mr. Niven and is for Vice President Nixon.  

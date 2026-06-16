@@ -1,6 +1,6 @@
 # Blowback S6E3 — "The Stand"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E3%20The%20Stand){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E3%20The%20Stand){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e03-the-stand.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:14:30

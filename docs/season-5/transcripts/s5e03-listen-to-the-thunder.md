@@ -1,6 +1,6 @@
 # S5E3 — Listen to the Thunder — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E3%20Listen%20to%20the%20Thunder){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E3%20Listen%20to%20the%20Thunder){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Episode notes](../s5e03-listen-to-the-thunder.md)**
 
 [00:00:02] In the autumn of 1965, Harvard Professor Henry Kissinger visited the American Front in Vietnam.  

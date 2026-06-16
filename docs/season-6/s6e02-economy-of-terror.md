@@ -1,6 +1,6 @@
 # Blowback S6E2 — "Economy of Terror"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E2%20Economy%20of%20Terror){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E2%20Economy%20of%20Terror){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s6e02-economy-of-terror.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~58:40

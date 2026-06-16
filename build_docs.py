@@ -104,7 +104,7 @@ def main():
             listen = (
                 "> 🎧 **Listen here:** "
                 f"[:simple-spotify: Spotify](https://open.spotify.com/search/{q}){{target=_blank}}"
-                " · [:material-web: blowback.show](https://blowback.show){target=_blank}"
+                f" · [:material-web: blowback.show](https://blowback.show/Season-{s}){{target=_blank}}"
             )
 
             has_t = k in transcripts

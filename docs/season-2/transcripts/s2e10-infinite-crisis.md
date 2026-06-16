@@ -1,6 +1,6 @@
 # S2E10 — Infinite Crisis — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E10%20Infinite%20Crisis){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E10%20Infinite%20Crisis){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Episode notes](../s2e10-infinite-crisis.md)**
 
 [00:00:00] My fellow Americans, I want to begin tonight by telling a story.  

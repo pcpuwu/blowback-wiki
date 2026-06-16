@@ -1,6 +1,6 @@
 # Blowback S1E8 — "Electioneering"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E8%20Electioneering){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E8%20Electioneering){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e08-electioneering.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 59:09

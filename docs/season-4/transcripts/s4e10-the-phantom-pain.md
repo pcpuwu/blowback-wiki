@@ -1,6 +1,6 @@
 # S4E10 — The Phantom Pain — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E10%20The%20Phantom%20Pain){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E10%20The%20Phantom%20Pain){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Episode notes](../s4e10-the-phantom-pain.md)**
 
 [00:00:01] The crowd anticipates the first speech in 20 years from a man once considered Afghanistan's most wanted.  

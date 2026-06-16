@@ -1,6 +1,6 @@
 # S4E6 — Ground Zeroes — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E6%20Ground%20Zeroes){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E6%20Ground%20Zeroes){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Episode notes](../s4e06-ground-zeroes.md)**
 
 [00:00:00] We will not rest in our efforts to find who is responsible for this outrage,  

@@ -1,6 +1,6 @@
 # Blowback S1E4 — "Mars Attacks"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E4%20Mars%20Attacks){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E4%20Mars%20Attacks){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e04-mars-attacks.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 59:47

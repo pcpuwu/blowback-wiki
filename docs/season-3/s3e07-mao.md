@@ -1,6 +1,6 @@
 # Blowback S3E7 — "Mao" (Mao's Poem)
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E7%20Mao%20%28Mao%27s%20Poem%29){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E7%20Mao%20%28Mao%27s%20Poem%29){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e07-mao.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:04:27

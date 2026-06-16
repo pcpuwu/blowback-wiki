@@ -1,6 +1,6 @@
 # S3E3 — The Blue House — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E3%20The%20Blue%20House){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E3%20The%20Blue%20House){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Episode notes](../s3e03-the-blue-house.md)**
 
 [00:00:00] August 15th, 1945,  

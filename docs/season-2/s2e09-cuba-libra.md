@@ -1,6 +1,6 @@
 # Blowback S2E9 — "Cuba Libra"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E9%20Cuba%20Libra){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E9%20Cuba%20Libra){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e09-cuba-libra.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:23:00

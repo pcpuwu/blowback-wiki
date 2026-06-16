@@ -1,6 +1,6 @@
 # S4E7 — Guns of the Patriots — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E7%20Guns%20of%20the%20Patriots){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E7%20Guns%20of%20the%20Patriots){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Episode notes](../s4e07-guns-of-the-patriots.md)**
 
 [00:00:00] On November 15, 2001, several weeks into the U.S. war in Afghanistan, there was an odd  

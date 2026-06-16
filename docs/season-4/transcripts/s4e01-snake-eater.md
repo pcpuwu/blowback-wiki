@@ -1,6 +1,6 @@
 # S4E1 — Snake Eater — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E1%20Snake%20Eater){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E1%20Snake%20Eater){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Episode notes](../s4e01-snake-eater.md)**
 
 [00:00:05] Afghans are thronging to Kabul's airport, desperate to get on planes and leave the country.  

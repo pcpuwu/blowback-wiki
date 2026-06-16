@@ -1,6 +1,6 @@
 # S5E6 — Dream Warriors — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E6%20Dream%20Warriors){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E6%20Dream%20Warriors){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Episode notes](../s5e06-dream-warriors.md)**
 
 [00:00:00] By the fall of 1973, Henry Kissinger, not for the first time, threatened to quit.  

@@ -1,6 +1,6 @@
 # Blowback S2E3 — "New Normal"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E3%20New%20Normal){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S2E3%20New%20Normal){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-2){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s2e03-new-normal.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:16:18

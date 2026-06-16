@@ -1,6 +1,6 @@
 # Blowback S4E6 — "Ground Zeroes"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E6%20Ground%20Zeroes){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E6%20Ground%20Zeroes){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e06-ground-zeroes.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:03:00

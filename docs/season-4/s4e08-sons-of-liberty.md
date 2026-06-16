@@ -1,6 +1,6 @@
 # Blowback S4E8 — "Sons of Liberty"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E8%20Sons%20of%20Liberty){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E8%20Sons%20of%20Liberty){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e08-sons-of-liberty.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:09:30

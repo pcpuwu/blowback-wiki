@@ -1,6 +1,6 @@
 # Blowback S5E4 — "Mad Men"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E4%20Mad%20Men){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E4%20Mad%20Men){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e04-mad-men.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:11:00

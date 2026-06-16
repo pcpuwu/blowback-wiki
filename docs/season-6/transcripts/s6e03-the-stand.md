@@ -1,6 +1,6 @@
 # S6E3 — The Stand — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E3%20The%20Stand){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S6E3%20The%20Stand){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-6){target=_blank}
 > 📄 **[Episode notes](../s6e03-the-stand.md)**
 
 [00:00:00] At the height of the Cuban Missile Crisis, in October 1962,  

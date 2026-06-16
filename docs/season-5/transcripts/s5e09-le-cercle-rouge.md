@@ -1,6 +1,6 @@
 # S5E9 — Le Cercle Rouge — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E9%20Le%20Cercle%20Rouge){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E9%20Le%20Cercle%20Rouge){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Episode notes](../s5e09-le-cercle-rouge.md)**
 
 [00:00:00] There's a resolution going around the UN Security Council tonight, written by non-aligned countries  

@@ -1,6 +1,6 @@
 # S4E5 — We Can Live With That — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E5%20We%20Can%20Live%20With%20That){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E5%20We%20Can%20Live%20With%20That){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Episode notes](../s4e05-we-can-live-with-that.md)**
 
 [00:00:04] In February 1997, as scientists announced the successful cloning of Dolly the sheep and UN sanctions drove Iraq to the brink of collapse,  

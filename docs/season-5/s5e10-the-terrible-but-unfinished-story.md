@@ -1,6 +1,6 @@
 # Blowback S5E10 — "The Terrible But Unfinished Story"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E10%20The%20Terrible%20But%20Unfinished%20Story){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E10%20The%20Terrible%20But%20Unfinished%20Story){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e10-the-terrible-but-unfinished-story.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:06:30

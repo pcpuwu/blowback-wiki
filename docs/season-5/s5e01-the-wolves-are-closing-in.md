@@ -1,6 +1,6 @@
 # Blowback S5E1 — "The Wolves Are Closing In"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E1%20The%20Wolves%20Are%20Closing%20In){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E1%20The%20Wolves%20Are%20Closing%20In){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e01-the-wolves-are-closing-in.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~43:30

@@ -1,6 +1,6 @@
 # Blowback S1E9 — "How Do You Fuck That Up?"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E9%20How%20Do%20You%20Fuck%20That%20Up%3F){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E9%20How%20Do%20You%20Fuck%20That%20Up%3F){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e09-how-do-you-fuck-that-up.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:02:24

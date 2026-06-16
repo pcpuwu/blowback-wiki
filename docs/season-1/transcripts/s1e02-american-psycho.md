@@ -1,6 +1,6 @@
 # S1E2 — American Psycho — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E2%20American%20Psycho){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E2%20American%20Psycho){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Episode notes](../s1e02-american-psycho.md)**
 
 [00:00:05] Time must come for the mother-in-law of all battles.  

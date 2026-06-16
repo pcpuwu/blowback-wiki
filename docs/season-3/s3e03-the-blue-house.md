@@ -1,6 +1,6 @@
 # Blowback S3E3 — "The Blue House"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E3%20The%20Blue%20House){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S3E3%20The%20Blue%20House){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-3){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s3e03-the-blue-house.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:06:39

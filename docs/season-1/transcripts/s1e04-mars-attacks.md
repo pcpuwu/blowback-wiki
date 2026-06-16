@@ -1,6 +1,6 @@
 # S1E4 — Mars Attacks — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E4%20Mars%20Attacks){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E4%20Mars%20Attacks){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Episode notes](../s1e04-mars-attacks.md)**
 
 [00:00:00] I intend to join those tomorrow night who vote against military action now.  

@@ -1,6 +1,6 @@
 # Blowback S1E6 — "Year Zero"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E6%20Year%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E6%20Year%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e06-year-zero.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:03:55

@@ -1,6 +1,6 @@
 # S1E7 — #Resistance — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E7%20%23Resistance){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E7%20%23Resistance){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Episode notes](../s1e07-resistance.md)**
 
 [00:00:00] The little serpent has left, and the great serpent has come.  

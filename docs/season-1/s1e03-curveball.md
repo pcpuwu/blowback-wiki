@@ -1,6 +1,6 @@
 # Blowback S1E3 — "Curveball"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E3%20Curveball){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E3%20Curveball){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s1e03-curveball.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** 1:01:03

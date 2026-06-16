@@ -1,6 +1,6 @@
 # Blowback S5E9 — "Le Cercle Rouge"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E9%20Le%20Cercle%20Rouge){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E9%20Le%20Cercle%20Rouge){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s5e09-le-cercle-rouge.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~1:07:00

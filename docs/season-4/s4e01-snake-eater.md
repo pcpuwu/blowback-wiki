@@ -1,6 +1,6 @@
 # Blowback S4E1 — "Snake Eater"
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E1%20Snake%20Eater){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S4E1%20Snake%20Eater){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-4){target=_blank}
 > 📄 **[Read the full transcript](transcripts/s4e01-snake-eater.md)**
 
 > **Hosts:** Brendan James & Noah Kulwin · **Runtime:** ~44:00

@@ -1,6 +1,6 @@
 # S1E6 — Year Zero — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E6%20Year%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S1E6%20Year%20Zero){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-1){target=_blank}
 > 📄 **[Episode notes](../s1e06-year-zero.md)**
 
 [00:00:00] All right, check this out. Once the Americans invaded Iraq, we discovered that Uday, one of Saddam's sons,  

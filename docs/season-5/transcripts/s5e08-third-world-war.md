@@ -1,6 +1,6 @@
 # S5E8 — Third World War — Transcript
 
-> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E8%20Third%20World%20War){target=_blank} · [:material-web: blowback.show](https://blowback.show){target=_blank}
+> 🎧 **Listen here:** [:simple-spotify: Spotify](https://open.spotify.com/search/Blowback%20S5E8%20Third%20World%20War){target=_blank} · [:material-web: blowback.show](https://blowback.show/Season-5){target=_blank}
 > 📄 **[Episode notes](../s5e08-third-world-war.md)**
 
 [00:00:04] On January 8th, 1979, two Vietnamese photojournalists wandered through the south side of Phnom Penh.  
