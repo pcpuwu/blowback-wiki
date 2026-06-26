@@ -1,0 +1,3 @@
+.ep-nav { display: flex; justify-content: space-between; gap: 1rem;
+          align-items: center; margin: 1rem 0; }
+.ep-nav .md-button { margin: 0; }
